@@ -1,0 +1,8 @@
+\chapter{Operação}
+O experimento consiste de três fases. A primeira é realizar o pré-processamento da base de dados, para o estudo os dados foram normalizados segundo a distribuição gamma. Por fim, foram separados em três conjuntos: conjunto de treinamento, conjunto de validação cruzada e conjunto de testes.
+
+A segunda fase consiste em realizar a previsão dos dados de testes utilizando uma rede neural MLP, e utilizar os impactos esperados para a fase seguinte.
+
+A terceira fase é identificar quais os riscos que devem ser priorizados após a otimização multi-objetivo realizada com o algoritmo MOPSO-CDR \cite{SantanaPontes} utilizando como dados de entrada o conjunto de testes após a previsão. O algoritmo programado foi escrito na linguagem de programação Java.
+
+Como saída do programa, tem-se o melhor resultado já visitado pelo enxame para cada 1000 iterações. A configuração do computador utilizado para realizar os experimentos é: Intel Core 2 Duo 2,00GHz, 2GB de memória RAM, sistema operacional Windows 7.

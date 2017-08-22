@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{KennedyEberhart}
+R.~Kennedy, J.;~Eberhart.
+\newblock Particle swarm optimization.
+\newblock {\em Proceedings of IEEE International Conference on Neural
+  Networks}, 1995.
+
+\bibitem{SantanaPontes}
+R.A. Santana, M.R. Pontes, and C.J.A. Bastos-Filho.
+\newblock A multiple objective particle swarm optimization approach using
+  crowding distance and roulette wheel.
+\newblock {\em Intelligent Systems Design and Applications, International
+  Conference on}, 0:237--242, 2009.
+
+\bibitem{TomKendrick}
+Tom Kendrick.
+\newblock Identifying and managing project risk.
+\newblock 2, 2009.
+
+\end{thebibliography}

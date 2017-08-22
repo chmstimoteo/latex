@@ -1,0 +1,449 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{BFCFdM09}
+
+\bibitem[AGH05]{DOSS:Java2005}
+K.~Arnald, J.~Gosling, and D.~Holmes.
+\newblock {\em The Java Programming Language, Fourth Edition}.
+\newblock Addison Wesley Professional, 2005.
+
+\bibitem[AMZ09]{BSO:Akbari2009}
+R.~Akbari, A.~Mohammadi, and K.~Ziarati.
+\newblock A powerful bee swarm optimization algorithm.
+\newblock {\em INMIC'09. IEEE 13th International Multitoptic Conference}, pages
+  1--6, 2009.
+
+\bibitem[AMZ10]{BSO:Akbari2010}
+R.~Akbari, A.~Mohammadi, and K.~Ziarati.
+\newblock A novel bee swarm optimization algorithm for numerial function
+  optimization.
+\newblock In {\em Comunications in Nonlinear Science and Numerial Simulation},
+  volume~15, pages 3142--3155. Elsevier, 2010.
+
+\bibitem[Bey01]{ES:Beyer2001a}
+H.~Beyer.
+\newblock {\em The Theory of Evolution Strategies}.
+\newblock Springer, 2001.
+
+\bibitem[BFCFdM09]{ClanPSO:Carvalho2009}
+C.~J.~A. Bastos-Filho, D.~F. Carvalho, E.~M.~N. Figueiredo, and P.~B.~C.
+  de~Miranda.
+\newblock Dynamic clan particle swarm optimization.
+\newblock {\em 2009 Ninth International Conference on Intelligent Systems
+  Design and Applications}, pages 249--254, 2009.
+
+\bibitem[BFCMC08]{MultiPSO:Bastos2008}
+C.~J.~A. Bastos-Filho, M.~P. Caraciolo, P.~B.~C. Miranda, and D.~F. Carvalho.
+\newblock Multi-ring particle swarm optimization.
+\newblock {\em Proceedings of the 10th Brazilian Symposium on Neural Networks},
+  pages 111--116, 2008.
+
+\bibitem[BFLNL{\etalchar{+}}08]{FSS:Bastos-Filho2008}
+C.~J.~A. Bastos-Filho, F.~B. Lima-Neto, A.~J. C.~C. Lins, A.~I.~S. Nascimento,
+  and M.~P. Lima.
+\newblock A novel search algorithm based on fish school behavior.
+\newblock {\em IEEE International Conference on Systems, Man, and Cybernetics},
+  pages 2646--2651, 2008.
+
+\bibitem[BFNS{\etalchar{+}}09]{FSS:BastosFilho2009}
+C.~J.~A. Bastos-Filho, F.~B.~Lima Neto, M.~F.~C. Sousa, M.~R. Pontes, and S.~S.
+  Madeiro.
+\newblock On the influence of the swimming operators in the fish school search
+  algorithm.
+\newblock {\em 2009 IEEE International Conference on Systems, Man and
+  Cybernetics}, pages 5012--5017, 2009.
+
+\bibitem[BK06]{ABC:Karaboga2006}
+B.~Basturk and D.~Karaboga.
+\newblock An artificial bee colony (abc) algorithm for numeric function
+  optimization.
+\newblock {\em IEEE Swarm Intelligence Symposium}, pages 12--14, 2006.
+
+\bibitem[BK07]{PSO:Bratton2007}
+D.~Bratton and J.~Kennedy.
+\newblock Defining a standard for particle swarm optimization.
+\newblock {\em IEEE Swarm Intelligence Symposium (SIS'2007)}, pages 120--127,
+  2007.
+
+\bibitem[BS02]{ES:Beyer2001b}
+H.~Beyer and H.~Schwefel.
+\newblock {\em Evolution Strategies - A comprehensive introduction}.
+\newblock Springer, 2002.
+
+\bibitem[BW89]{SI:Beni1989}
+G.~Beni and J.~Wang.
+\newblock Swarm intelligence in cellular robotic systems.
+\newblock {\em Proceedings of NATO Advanced Workshop on Robots and Biological
+  Systems}, 102:703--704, 1989.
+
+\bibitem[Cam12]{SI:Fish2012}
+R.~Campbell.
+\newblock Aquariumpros, inc. minnesota - aquarium maintenance service and
+  sales.
+\newblock \url{http://aquariumprosmn.com/tag/saltwater/page/2/}, May 2012.
+\newblock Online; Accessed: 05/15/2012.
+
+\bibitem[CBF08]{ClanPSO:Carvalho2008}
+D.~F. Carvalho and C.~J.~A. Bastos-Filho.
+\newblock Clan particle swarm optimization.
+\newblock {\em IEEE Congress on Evolutionary Computation, 2008}, pages
+  3044--3051, 2008.
+
+\bibitem[CK02]{PSO:Clerc2002}
+M.~Clerc and J.~Kennedy.
+\newblock The particle swarm-explosion, stability, and convergence in a
+  multidimensional complex space.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 6(1):58--73,
+  2002.
+
+\bibitem[Cle99]{PSO:Clerc99}
+M.~Clerc.
+\newblock The swarm and the queen: towards a deterministic and adaptive
+  particle swarm optimization.
+\newblock {\em Proceedings of the 1999 Congress on Evolutionary Computation,
+  CEC'99}, 3, 1999.
+
+\bibitem[Cor11]{DOSS:Origin2011}
+OriginLab Corporation.
+\newblock Originlab - origin and originpro - data analysis and graphing
+  software.
+\newblock \url{http://www.originlab.com}, January 2011.
+\newblock Online; Accessed: 01/10/2011.
+
+\bibitem[DB05]{ACO:Dorigo2005}
+M.~Dorigo and C.~Blum.
+\newblock Ant colony optimization theory: A survey.
+\newblock In {\em Theoretical Computer Science}, volume 344, pages 243--278.
+  Elsevier, 2005.
+
+\bibitem[DBDA09]{BFO:Das2009}
+S.~Das, A.~Biswas, S.~Dasgupta, and A.~Abraham.
+\newblock Bacterial forafing optimization algorithm: Theoretical foundations,
+  analysis and applications.
+\newblock {\em Studies in Computational Intelligence}, pages 23--55, 2009.
+
+\bibitem[DC99]{ACO:Dorigo1999}
+M.~Dorigo and G.~Di Caro.
+\newblock Ant colony optimization: A new meta-heuristic.
+\newblock In {\em Proceedings of the Congress on Evolutionary Computation},
+  pages 1470--1477. IEEE Press, 1999.
+
+\bibitem[DJW02]{SI:Droste2002}
+S.~Droste, T.~Jansen, and I.~Wegener.
+\newblock Optimization with randomized search heuristics - the (a)nfl theorem,
+  realistic scenarios and difficult functions.
+\newblock {\em Theoretical Computer Science}, 287:131--144, 2002.
+
+\bibitem[Dor97]{ACS:Dorigo}
+M.~Dorigo.
+\newblock Ant colony system: a cooperative learning approach to the traveling
+  salesman problem.
+\newblock In {\em IEEE Transactions on Evolutionary Computation}, pages 53--66.
+  IEEE, 1997.
+
+\bibitem[dSC10]{DOSS:Castro2010}
+[In Portuguese] R. M.~C. de~S.~Castro.
+\newblock Uma ferramenta computacional para analise de algoritmos de otimizacao
+  para sistemas dinamicos baseados em inteligencia de enxames.
+\newblock Master's thesis, Escola Politecnica de Pernambuco - Universidade de
+  Pernambuco (POLI - UPE), 2010.
+
+\bibitem[Eco12]{SI:Bee2012}
+The Ecologist.
+\newblock Heavy bee colony losses in us could lead to price rise.
+\newblock
+  \url{http://www.theecologist.org/News/news_round_up/477710/heavy_bee_colony_losses_in_us_could_lead_to_price_rise.html},
+  May 2012.
+\newblock Online; Accessed: 05/15/2012.
+
+\bibitem[EK95a]{PSO:Eberhart1995a}
+R.~Eberhart and J.~Kennedy.
+\newblock A new optimizer using particle swarm theory.
+\newblock {\em MHS'95. Proceedings of the Sixth International Symposium on
+  Micro Machine and Human Science}, pages 39--43, 1995.
+
+\bibitem[EK95b]{PSO:Eberhart1995}
+R.~Eberhart and J.~Kennedy.
+\newblock Particle swarm optimization.
+\newblock In {\em Proceedings of IEEE International Conference on Neural
+  Networks}, pages 1942--1948. IEEE Service Center, 1995.
+
+\bibitem[Fou11a]{DOSS:Maven2011}
+The Apache~Software Foundation.
+\newblock Maven - welcome to apache maven.
+\newblock \url{http://maven.apache.org}, January 2011.
+\newblock Online; Accessed: 01/10/2011.
+
+\bibitem[Fou11b]{DOSS:Eclipse2011}
+The~Eclipse Foundation.
+\newblock Eclipse - the eclipse foundation open source community website.
+\newblock \url{http://www.eclipse.org}, January 2011.
+\newblock Online; Accessed: 01/10/2011.
+
+\bibitem[GWH10]{GA:Guo2008}
+P.~Guo, X.~Wang, and Y.~Han.
+\newblock The enhanced genetic algorithms for the optimization design.
+\newblock {\em 3rd International Conference on Biomedical Engineering and
+  Informatics (BMEI)}, 7:2990--2994, 2010.
+
+\bibitem[GyMg10]{DE:Gao2010}
+L.~Gao-yang and L.~Ming-guang.
+\newblock The summary of differential evolution algorithm and its improvements.
+\newblock {\em 3rd International Conference on Advanced Computer Theory and
+  Engineering (ICACTE)}, 3:153--156, 2010.
+
+\bibitem[HKK{\etalchar{+}}10]{SI:Houle2010}
+M.~E. Houle, H.~Kriegel, P.~Kroger, E.~Schubert, and A.~Zimek.
+\newblock Can shared-neighbor distances defeat the curse of dimensionality?
+\newblock {\em Proceedings of the 22nd International Conference on Scientific
+  and Statistical Database Management}, pages 482--500, 2010.
+
+\bibitem[KA07]{ABC:Karaboga2007}
+D.~Karaboga and B.~Akay.
+\newblock A powerful and efficient algorithm for numerical function
+  optimization: Artificial bee colony (abc) algorithm.
+\newblock {\em Journal of Global Optimization}, 39:459--471, 2007.
+
+\bibitem[KA09a]{ABC:Karaboga2009a}
+D.~Karaboga and B.~Akay.
+\newblock A compartive study of artificial bee colony algorithm.
+\newblock {\em Applied Mathematics and Computation - AMC}, 214:108--132, 2009.
+
+\bibitem[KA09b]{ABC:Karaboga2009b}
+D.~Karaboga and B.~Akay.
+\newblock {\em A survey: algorithms simulating bee swarm intelligence},
+  volume~31, pages 61--85.
+\newblock Springer, 2009.
+
+\bibitem[Kar05]{ABC:Karaboga2005}
+D.~Karaboga.
+\newblock An idea based on honey bee swarm for numerical optimization.
+\newblock Technical report, Erciyes University, Engineering Faculty, Computer
+  Engineering Department, 2005.
+
+\bibitem[KES01]{PSO:Kennedy}
+J.~Kennedy, R.~Eberhart, and Y.~Shi.
+\newblock {\em Swarm Intelligence}.
+\newblock Morgan Kaufmann, 340 Pine Street, Sixth Floor, San Francisco, CA,
+  USA, 2001.
+
+\bibitem[KG09]{GSO:Krishnanand2009}
+K.~N. Krishnanand and Debasish Ghose.
+\newblock Glowworm swarm optimization for simultaneous capture of multiple
+  local optima of multimodal functions.
+\newblock {\em Swarm Intelligence}, pages 87--124, 2009.
+
+\bibitem[KK12]{MMAS:Kovarik}
+O.~Kovarik and P.~Kordik.
+\newblock Max-min ant system with linear memory complexity.
+\newblock In {\em Proceedings of the 2012 Congress on Evolutionary Computation,
+  CEC'12}, pages 1469--1473. IEEE, 2012.
+
+\bibitem[KM02]{PSO:KennedyA}
+J.~Kennedy and R.~Mendes.
+\newblock Population structure and particle swarm performance.
+\newblock {\em Proceedings of the 2002 Congress on Evolutionary Computation,
+  CEC'02}, pages 1671--1676, 2002.
+
+\bibitem[KM06]{PSO:KennedyB}
+J.~Kennedy and R.~Mendes.
+\newblock Neighborhood topologies in fully-informed and best-of-neighborhood
+  particle swarms.
+\newblock {\em IEEE Transactions on Systems, Man and Cybernetics, Part C:
+  Applications and Reviews}, pages 515--519, 2006.
+
+\bibitem[LBFN{\etalchar{+}}12]{FSS:Lins2012}
+A.~J. C.~C. Lins, C.~J.~A. Bastos-Filho, D.~N.~O. Nascimento, M.~A. C.~Oliveira
+  Junior, and F.~B.~Lima Neto.
+\newblock {\em Analysis of Performance of the Fish School Search Algorithm
+  Running in Graphic Processing Units}, pages 17--32.
+\newblock 2012.
+
+\bibitem[LFLW02]{PSO:Lu2002}
+W.~Z. Lu, H.~Y. Fan, A.~Y.~T. Leung, and J.~C.~K. Wong.
+\newblock Analysis of pollutant levels in central hong kong applying neural
+  network method with particle swarm optimization.
+\newblock {\em Environmental Monitoring and Assessment}, 79(3):217--230, 2002.
+
+\bibitem[LJG06]{PSO:Lian2006}
+Z.~Lian, B.~Jiao, and X.~Gu.
+\newblock A similar particel swarm optimization algorithm for jo-shop
+  scheduling to minimize makespan.
+\newblock {\em Applied Mathematics and Computation}, 183:1008--1017, 2006.
+
+\bibitem[Low11]{Wil:Lowry2011}
+R.~Lowry.
+\newblock Concepts \& applications of inferential statistics.
+\newblock \url{http://vassarstats.net/textbook/}, November 2011.
+\newblock Online; Accessed: 11/16/2011.
+
+\bibitem[Mit98]{GA:Mitchell1998}
+M.~Mitchell.
+\newblock {\em An Introduction to Genetic Algorithms}.
+\newblock The MIT Press, 1998.
+
+\bibitem[MM12]{ABC:Murgan2012}
+R.~Murugan and M.~R. Mohan.
+\newblock Artificial bee colony optimization for the combined heat and power
+  economic dispatch problem.
+\newblock {\em ARPN Journal of Engineering and Applied Sciences},
+  7(5):597--604, 2012.
+
+\bibitem[MMAK02]{BFA:Muller2002}
+S.~D. Muller, J.~Marchetto, S.~Airaghi, and P.~Kournoutsakos.
+\newblock Optimization based on bacterial chemotaxis.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 6:16--29, 2002.
+
+\bibitem[PGK{\etalchar{+}}05]{BA:Pham2005}
+D.~T. Pham, A.~Ghanbarzadeh, E.~Ko, S.~Otri, S.~Rahim, and M.~Zaidi.
+\newblock The bees algorithm.
+\newblock Technical report, Manufacturing Engineering Center, Cardiff
+  University, Cardiff CF24 3AA, UK, 2005.
+
+\bibitem[PLNBF11]{ClanAPSO:Pontes2011}
+M.~R. Pontes, F.~B. Lima-Neto, and C.~J.~A. Bastos-Filho.
+\newblock Adaptive clan particle swarm optimization.
+\newblock {\em Proceedings of IEEE Swarm Intelligence Symposium}, pages 17--22,
+  2011.
+
+\bibitem[POA{\etalchar{+}}07]{BA:Pham2007}
+D.~T. Pham, S.~Otri, A.~Afify, M.~Mahmuddin, and H.~Al-Jabbouli.
+\newblock Data clustering using the bees algorithm.
+\newblock {\em 40th CIRP International Manufacturing Systems Seminar,
+  Liverpool}, 2007.
+
+\bibitem[Pow07]{SI:Powell2007}
+W.~B. Powell.
+\newblock {\em Approximate Dynamic Programming: Solving the Curses of
+  Dimensionality}.
+\newblock John Wiley \& Sons, Hoboken, New Jersey, 2007.
+
+\bibitem[PSL05]{DE:Prince2005}
+K.~Prince, R.~M. Storn, and J.~A. Lampinen.
+\newblock {\em Differential Evolution: A Pratical Approach to Global
+  Optimization}.
+\newblock Springer, 2005.
+
+\bibitem[RM87]{NN:Rumelhart1987}
+D.~E. Rumelhart and J.~L. McClelland.
+\newblock {\em Parallel Distributed Processing: Explorations in the
+  Microstructure of Cognition}.
+\newblock The MIT Press, 1987.
+
+\bibitem[RNI10]{SI:Radovanovic2010}
+M.~Radovanovic, A.~Nanopoulos, and M.~Ivanovic.
+\newblock Hubs in space: Popular nearest neighbors in high-dimensional data.
+\newblock {\em Journal of Machine Learning Research 11}, pages 2487--2531,
+  2010.
+
+\bibitem[SE98]{PSO:Shi}
+Y.~Shi and R.~Eberhart.
+\newblock A modified particle swarm optimizer.
+\newblock {\em Proceedings of 1998 IEEE International Conference Evolutionary
+  Computation}, pages 69--73, 1998.
+
+\bibitem[Ser09]{SI:Serapiao2009}
+[In Portuguese] A. B.~S. Serapiao.
+\newblock Fundamentos de otimizacao por inteligencia de enxames: uma visao
+  geral.
+\newblock {\em SBA: Controle \& Automacao Sociedade Brasileira de Automatica},
+  20:271--304, 2009.
+
+\bibitem[Sig12]{SI:Bird2012}
+Y.~Sigurdardottir.
+\newblock Murder is everywhere - seven renowned crime writers blog from
+  different corners of the world.
+\newblock
+  \url{http://http://murderiseverywhere.blogspot.com.br/2011/01/coincidence.html},
+  May 2012.
+\newblock Online; Accessed: 05/15/2012.
+
+\bibitem[SLS12]{PSO:Schoene}
+T.~Schoene, S.~A. Ludwig, and R.~J. Spiteri.
+\newblock Step-optimized particle swarm optimization.
+\newblock {\em Proceedings of the 2012 Congress on Evolutionary Computation,
+  CEC'12}, pages 654--662, 2012.
+
+\bibitem[SNHD{\etalchar{+}}05]{CEC:Suganthan2005}
+P.~N. Suganthan, J.~J.~Liang N.~Hansen, K.~Deb, Y.-P. Chen, A.~Auger, and
+  S.~Tiwari.
+\newblock Problem definitions and evaluation criteria for the cec 2005 special
+  session on real-parameter optimization.
+\newblock Technical report, Nanyang Technological University (NTU), Singapore,
+  2005.
+
+\bibitem[TD05]{BCO:Teodorovic2005}
+D.~Teodorovic and M.~Dell'orco.
+\newblock Bee colony optimization: A cooperative learning approch to complex
+  transportation problems.
+\newblock In {\em Proceedings of the 16th Mini-EURO Conference on Advanced OR
+  and AI Methods in Transportation}, pages 51--60, 2005.
+
+\bibitem[Teo09]{BCO:Teodorovic2006}
+D.~Teodorovic.
+\newblock Bee colony optimization: Principles and applications.
+\newblock {\em 8th Seminar on Neural Network Applications in Eletrical
+  Engineering}, pages 151--156, 2009.
+
+\bibitem[TLS{\etalchar{+}}10]{CEC:Tang2010}
+K.~Tang, X.~Li, P.~N. Suganthan, Z.~Yang, and T.~Weise.
+\newblock Benchmark functions of the cec'2010 special session and competition
+  on large scale global optimization.
+\newblock Technical report, University of Science and Technology of China
+  (USTC), School of Computer Science and Technology, Nature Inspired
+  Computation and Applications Laboratory (NICAL): China, 2010.
+
+\bibitem[VRBF11]{ClanAPSO:Vitorino2011}
+L.~N. Vitorino, S.~F. Ribeiro, and C.~J.~A. Bastos-Filho.
+\newblock A cooperative approach using particle swarm optimization with
+  adaptive behavior.
+\newblock {\em 10th Brazilian Congress on Computational Intelligence
+  (CBIC'2011)}, pages 1--8, 2011.
+
+\bibitem[WM95]{SI:Wolpert1995}
+D.~H. Wolpert and W.~G. Macready.
+\newblock No free lunch theorems for search.
+\newblock Technical report, Santa Fe Institute, 1995.
+
+\bibitem[WM97]{SI:Wolpert1997}
+D.~H. Wolpert and W.~G. Macready.
+\newblock No free lunch theorems for optimization.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 1:67--82, 1997.
+
+\bibitem[WSZ{\etalchar{+}}04]{PSO:Wachowiak2004}
+M.~P. Wachowiak, R.~Smol{\'\i}kov{\'a}, Y.~Zheng, J.~M. Zurada, and A.~S.
+  Elmaghraby.
+\newblock {An approach to multimodal biomedical image registration utilizing
+  particle swarm optimization}.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 8(3):289--301,
+  2004.
+
+\bibitem[Yan09]{FA:Yang2009}
+X.-S. Yang.
+\newblock Forefly algorithms for multimodal optimization.
+\newblock In {\em Proceedings of the 5th International Conference on Stochastic
+  Algorithms: Foundations and Applications}, pages 169--178. Springer, 2009.
+
+\bibitem[YATNM12]{FSA:Yazdani2012}
+D.~Yazdani, M.~R. Akbarzadeh-Totonchi, B.~Nasiri, and M.~R. Meybodi.
+\newblock A new artificial fish swarm algorithm for dynamic optimiazation.
+\newblock {\em Proceedings of the 2012 Congress on Evolutionary Computation,
+  CEC'12}, pages 472--479, 2012.
+
+\bibitem[ZAZ11]{ABC:Ziarati2011}
+K.~Ziarati, R.~Akbari, and V.~Zeighami.
+\newblock On the performance of bee algorithms for resource-constrained project
+  scheduling problem.
+\newblock {\em Applied Soft Computing}, 11:3720--3733, 2011.
+
+\bibitem[Zim01]{Fuzzy:Ziimermann2001}
+H.-J. Zimmermann.
+\newblock {\em Fuzzy Set Theory and its Applications}.
+\newblock Springer, 2001.
+
+\bibitem[ZZLC09]{APSO:Zhan2009}
+Z.~Zhan, J.~Zhang, Y.~Li, and H.~Chung.
+\newblock Adaptive particle swarm optimization.
+\newblock {\em IEEE Transactions on Systems, Man and Cybernetics, Part B:
+  Cybernetics}, 39(6):1362--1381, 2009.
+
+\end{thebibliography}

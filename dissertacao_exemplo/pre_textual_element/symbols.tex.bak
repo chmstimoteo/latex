@@ -1,0 +1,53 @@
+%%%%%%%%%%%%%%%%%%%%%%%
+%Sample List of Symbols
+%%%%%%%%%%%%%%%%%%%%%%%
+\begin{tabbing}
+% YOU NEED TO ADD THE FIRST ONE MANUALLY TO ADJUST THE TABBING AND SPACES
+\parbox{5in}{$\alpha$: The sigmoid parameter in the ABeePSO algorithm\dotfill \pageref{eq:ABeePSO_Step}}\\
+\\
+%ADD THE REST OF SYMBOLS WITH THE HELP OF MACRO
+\parbox{5in}{$\beta$: The displacement of the point of the sigmoid function in the ABeePSO algorithm\dotfill \pageref{eq:ABeePSO_Step}}\\
+\\
+\parbox{5in}{$\vec B(t)$: The centroid of the fish school in the FSS algorithm\dotfill \pageref{eq:FSS_centroid}}\\
+\\
+\parbox{5in}{$c_1$: The cognitive acceleration coefficient in the PSO algorithm\dotfill \pageref{eq:PSO_velocity}}\\
+\\
+\parbox{5in}{$c_2$: The social acceleration coefficient in the PSO algorithm\dotfill \pageref{eq:PSO_velocity}}\\
+\\
+\parbox{5in}{$\delta$: The acceleration rate in the APSO algorithm\dotfill \pageref{eq:APSO_normalized}}\\
+\\
+\parbox{5in}{$\Delta f_i$: The difference of fitness values between consecutive iterations\dotfill \pageref{eq:FSS_feed}}\\
+\\
+\parbox{5in}{$f_{evol}$: The evolutionary factor of the APSO algorithm\dotfill \pageref{eq:APSO_factor}}\\
+\\
+\parbox{5in}{$f_{s_i}$: The food source selected by guided bee in the ABeePSO algorithm\dotfill \pageref{eq:ABeePSO_Guided}}\\
+\\
+\parbox{5in}{$MaxTrial$: Stagnation Counter of the ABC algorithm\dotfill \pageref{eq:ABC_scout}}\\
+\\
+\parbox{5in}{$\vec n(t)$: The social memory in the PSO algorithm\dotfill \pageref{eq:PSO_velocity}}\\
+\\
+\parbox{5in}{$\omega$: The inertial factor of the in the PSO algorithm\dotfill \pageref{eq:PSO_inertial}}\\
+\\
+\parbox{5in}{$\vec p(t)$: The cognitive memory in the PSO algorithm\dotfill \pageref{eq:PSO_velocity}}\\
+\\
+\parbox{5in}{$p_i$: The probability to select the food source in the ABC algorithm\dotfill \pageref{eq:ABC_probability}}\\
+\\
+\parbox{5in}{$\sigma$: The standard deviation in the APSO algorithm\dotfill \pageref{eq:apso_sigma}}\\
+\\
+\parbox{5in}{$step$: The step of guide bees in the ABC algorithm\dotfill \pageref{eq:ABPSO_Step}}\\
+\\
+\parbox{5in}{$step_{ind}$: The individual step in the FSS algorithm\dotfill \pageref{eq:FSS_stepInd}}\\
+\\
+\parbox{5in}{$step_{vol}$: The volitive step in the FSS algorithm\dotfill \pageref{eq:FSS_stepVol}}\\
+\\
+\parbox{5in}{$\vec v(t)$: Velocity of particle in the PSO algorithm\dotfill \pageref{eq:PSO_velocity}}\\
+\\
+\parbox{5in}{$W_i(t)$: The weight of the fish in the FSS algorithm\dotfill \pageref{eq:FSS_feed}}\\
+\\
+\parbox{5in}{$\vec x(t)$: Position of particle in the PSO algorithm\dotfill \pageref{eq:PSO_position}}\\
+
+% .
+% .
+% .
+% ALWAYS KEEP THE FOLLOWING LINE
+\end{tabbing}

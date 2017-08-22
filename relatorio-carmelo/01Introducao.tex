@@ -1,0 +1,30 @@
+\chapter{Introdução}
+
+A motivação deste estudo é realizar a aplicação de uma técnica de algoritmo de otimização multi-objetivos, mais especificamente o \textit{MOPSO-CDR} (do inglês \textit{Multiple Objective Particle Swarm Optimization - Crowding Distance and Roulette Whell}, Otimização por Enxame de Partículas Multi-objetivos utilizando crowding distance e roleta), e apresentar os resultados práticos da aplicação da técnica.
+
+A prática consiste em responder a seguinte pergunta: Supondo que temos uma base de dados de riscos em gerenciamento de projetos de software, quais os riscos que devem ser mitigados de modo que as catástrofes e os riscos com maior probabilidade não ocorram.
+
+\section{Algoritmo PSO}
+O PSO é um algoritmo inspirado no voo de aves em busca de alimentos. Foi idealizado por Kennedy e Eberhart em 1995 \cite{KennedyEberhart}. Cada partícula é uma solução candidata para um problema e, por meio de troca de informações, o conjunto de partículas (o enxame) realiza, iterativamente, uma busca para encontrar uma "boa" solução para o problema. A solução é representada pelo posição da partícula no espaço de busca. Não é possível afirmar que a solução final é a melhor pois seria necessário uma exploração total do espaço de busca e um estudo de convergência para o algoritmo implementado.
+
+Como há movimentação de partículas pelo espaço de busca, é clara a presença de uma velocidade e de uma posição. O algoritmo original do PSO apresenta duas equações que definem a atualização da velocidade e da posição iterativamente. Estas equações são, respectivamente
+\begin{equation}
+	\vec{v}[t + 1] = \omega \vec{v}[t] + C_1 r_1 (\vec{p}_{Best} - \vec{x}[t]) + C_2 r_2 (\vec{g}_{Best} - \vec{x}[t])
+	\label{eq:pso_atualizacao_velocidade}
+\end{equation}
+e
+\begin{equation}
+	\vec{x}[t + 1] = \vec{x}[t] + \vec{v}[t + 1]
+	\label{eq:pso_atualizacao_posicao}
+\end{equation}
+onde $\vec{v}$ e $\vec{x}$ são, respectivamente, a velocidade e a posição da partícula. $C_1$ e $C_2$ são números tal que $C_1, C_2 \in \mathbb{R}$ e representam a importância que a partícula dá a, respectivamente, informação cognitiva e a informação do enxame. $r_1$ e $r_2$ são números uniformemente distribuídos no intervalo $[0, 1]$ e $\omega$ representa a inércia da partícula.
+
+\section{Algoritmo MOPSO-CDR}
+
+O MOPSO-CDR foi proposto por Santana \textit{et al.} \cite{SantanaPontes} em 2009. Ele foi inspirado no MOPSO-CDLS e incorpora
+uma seleção com roleta baseado na crowding distance para eleger o líder social (\textit{gBest}) e evitar um número excessivo de soluções não-dominadas no arquivo externo. A solução com menor crowding distance tem mais chance de ser selecionada como
+um líder social.
+
+\section{Base de Dados - PERIL 2008}
+
+A base de dados PERIL 2008, é uma base de dados desenvolvida por Tom Kendrick \cite{TomKendrick}, resultado de cinco anos de pesquisa e coleta de informações de riscos que ocorreram em diversas projetos de tecnologia da informação. Nela encontramos 649 registros de riscos e o impacto expresso em tempo devido a sua ocorrência. O autor também realizou uma classificação dos riscos em dois grandes grupos: riscos comuns e catástrofes (\textit{black swam}), além de categorizar os riscos.

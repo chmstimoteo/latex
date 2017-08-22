@@ -1,0 +1,1986 @@
+kupfer: Reading from stdin
+cat: -: Bad file descriptor
+/usr/local/share/kupfer/kupfer/ui/browser.py:2144: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  self.window.realize()
+/usr/local/share/kupfer/kupfer/ui/browser.py:636: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  requisition.width, requisition.height = self.__child.size_request ()
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+/usr/local/share/kupfer/kupfer/ui/browser.py:2370: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  gtk.main()
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+** Message: Unable to use GNOME Shell's builtin screenshot interface, resorting to fallback X11.
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Kupfer: A free software (GPLv3+) launcher
+	Copyright ? 2007--2011 Ulrik Sverdrup with others
+	http://kaizer.se/wiki/kupfer/
+
+[kupfer.launch]: Disabling window tracking: No module named wnck
+[kupfer.plugin.multihead]: Starting Multi X screen support
+[kupfer.plugin.multihead]: Launching keyrelay for screen 1
+[kupfer.ui.browser] WindowController: Trying to register <Primary><Alt>space to spawn kupfer.. success
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: StartingError [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+This is SMPlayer v. 0.8.3 running on Linux
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+ new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodError [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+/usr/local/share/kupfer/kupfer/plugin/clipboard.py:135: Warning: g_object_set_qdata: assertion `G_IS_OBJECT (object)' failed
+  newtext = kupferstring.tounicode(clip.wait_for_text())
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+No bp log location saved, using default.
+[000:001] Browser XEmbed support present: 1
+[000:001] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+[000:010] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:011] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:011] GoogleTalkPlugin not running. Starting new process...
+[000:011] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:011] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:018] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:018] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:104] Attempting to connect to GoogleTalkPlugin...
+[001:104] Read port file, port=43810
+[001:163] Initiated connection to GoogleTalkPlugin
+[001:210] Socket connection established
+[001:210] ScheduleOnlineCheck: Online check in 5000ms
+[001:305] Got cookie response, socket is authorized
+[001:305] AUTHORIZED; socket handshake complete
+[006:219] HandleOnlineCheck: Starting check
+[006:219] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Gtk-Message: Failed to load module "canberra-gtk-module"
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:14496): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+
+(firefox:6545): Gdk-CRITICAL **: _gdk_pixmap_new: assertion `(width != 0) && (height != 0)' failed
+
+(firefox:6545): GdkPixbuf-CRITICAL **: gdk_pixbuf_new: assertion `width > 0' failed
+
+(firefox:6545): Gdk-CRITICAL **: _gdk_pixmap_new: assertion `(width != 0) && (height != 0)' failed
+
+(firefox:6545): GdkPixbuf-CRITICAL **: gdk_pixbuf_new: assertion `width > 0' failed
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+NOTE: child process received `Goodbye', closing down
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+No bp log location saved, using default.
+[000:001] Browser XEmbed support present: 1
+[000:001] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+[000:006] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:007] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:007] GoogleTalkPlugin not running. Starting new process...
+[000:007] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:007] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:010] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:010] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:103] Attempting to connect to GoogleTalkPlugin...
+[001:103] Read port file, port=33118
+[001:110] Initiated connection to GoogleTalkPlugin
+[001:204] Socket connection established
+[001:204] ScheduleOnlineCheck: Online check in 5000ms
+[001:305] Got cookie response, socket is authorized
+[001:305] AUTHORIZED; socket handshake complete
+[006:214] HandleOnlineCheck: Starting check
+[006:214] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+NOTE: child process received `Goodbye', closing down
+No bp log location saved, using default.
+[000:000] Browser XEmbed support present: 1
+[000:000] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+[000:010] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:010] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:010] GoogleTalkPlugin not running. Starting new process...
+[000:010] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:010] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:013] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:013] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:103] Attempting to connect to GoogleTalkPlugin...
+[001:103] Read port file, port=54857
+[001:104] Initiated connection to GoogleTalkPlugin
+[001:204] Socket connection established
+[001:204] ScheduleOnlineCheck: Online check in 5000ms
+[001:305] Got cookie response, socket is authorized
+[001:305] AUTHORIZED; socket handshake complete
+[006:213] HandleOnlineCheck: Starting check
+[006:214] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+NOTE: child process received `Goodbye', closing down
+No bp log location saved, using default.
+[000:001] Browser XEmbed support present: 1
+[000:001] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+[000:010] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:011] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:011] GoogleTalkPlugin not running. Starting new process...
+[000:011] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:011] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:014] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:014] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:104] Attempting to connect to GoogleTalkPlugin...
+[001:104] Read port file, port=34374
+[001:105] Initiated connection to GoogleTalkPlugin
+[001:204] Socket connection established
+[001:204] ScheduleOnlineCheck: Online check in 5000ms
+[001:304] Got cookie response, socket is authorized
+[001:305] AUTHORIZED; socket handshake complete
+[006:241] HandleOnlineCheck: Starting check
+[006:241] HandleOnlineCheck: OK; current state: 2
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+icRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.cError [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+NOTE: child process received `Goodbye', closing down
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+No bp log location saved, using default.
+[000:001] Browser XEmbed support present: 1
+[000:001] Browser toolkit is Gtk2.
+[000:002] Using Gtk2 toolkit
+[000:015] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:016] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:016] GoogleTalkPlugin not running. Starting new process...
+[000:016] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:016] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:021] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:021] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:105] Attempting to connect to GoogleTalkPlugin...
+[001:105] Read port file, port=50396
+[001:113] Initiated connection to GoogleTalkPlugin
+[001:206] Socket connection established
+[001:206] ScheduleOnlineCheck: Online check in 5000ms
+[001:306] Got cookie response, socket is authorized
+[001:306] AUTHORIZED; socket handshake complete
+[006:217] HandleOnlineCheck: Starting check
+[006:218] HandleOnlineCheck: OK; current state: 3
+21:13:13 ** Message: Orage **: wakeup timer init 0
+21:13:13 ** Message: Orage **: Build alarm list: Added 0 alarms. Processed 0 events.
+21:13:13 ** Message: Orage **: 	Found 0 alarms of which 0 are active. (Searched 0 recurring alarms.)
+NOTE: child process received `Goodbye', closing down
+07:41:25 ** Message: Orage **: wakeup timer refreshing
+07:41:25 ** Message: Orage **: Build alarm list: Added 0 alarms. Processed 0 events.
+07:41:25 ** Message: Orage **: 	Found 0 alarms of which 0 are active. (Searched 0 recurring alarms.)
+No bp log location saved, using default.
+[000:001] Browser XEmbed support present: 1
+[000:001] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+[000:007] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:008] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:008] GoogleTalkPlugin not running. Starting new process...
+[000:008] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:008] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:011] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:011] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:103] Attempting to connect to GoogleTalkPlugin...
+[001:103] Read port file, port=40510
+[001:104] Initiated connection to GoogleTalkPlugin
+[001:204] Socket connection established
+[001:204] ScheduleOnlineCheck: Online check in 5000ms
+[001:304] Got cookie response, socket is authorized
+[001:304] AUTHORIZED; socket handshake complete
+[006:213] HandleOnlineCheck: Starting check
+[006:213] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+
+(firefox:6545): Gdk-CRITICAL **: _gdk_pixmap_new: assertion `(width != 0) && (height != 0)' failed
+
+(firefox:6545): GdkPixbuf-CRITICAL **: gdk_pixbuf_new: assertion `width > 0' failed
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+
+** (nautilus:22753): CRITICAL **: atk_bridge_adaptor_cleanup: assertion `inited' failed
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+07:09:08 ** Message: Orage **: wakeup timer refreshing
+07:09:08 ** Message: Orage **: Build alarm list: Added 0 alarms. Processed 0 events.
+07:09:08 ** Message: Orage **: 	Found 0 alarms of which 0 are active. (Searched 0 recurring alarms.)
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+ore.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.icons]: Icon theme changed, clearing cache
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.dError [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+WARNING: waitpid failed pid:6585 errno:10: file /build/src/mozilla-release/ipc/chromium/src/base/process_util_posix.cc, line 260
+WARNING: waitpid failed pid:6585 errno:10: file /build/src/mozilla-release/ipc/chromium/src/base/process_util_posix.cc, line 260
+WARNING: Failed to deliver SIGKILL to 6585!(3).: file /build/src/mozilla-release/ipc/chromium/src/chrome/common/process_watcher_posix_sigchld.cc, line 118
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+No bp log location saved, using default.
+[000:002] Browser XEmbed support present: 1
+[000:002] Browser toolkit is Gtk2.
+[000:003] Using Gtk2 toolkit
+[000:019] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:019] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:019] GoogleTalkPlugin not running. Starting new process...
+[000:019] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:019] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:027] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:027] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:106] Attempting to connect to GoogleTalkPlugin...
+[001:107] Read port file, port=41952
+[001:109] Initiated connection to GoogleTalkPlugin
+[001:208] Socket connection established
+[001:208] ScheduleOnlineCheck: Online check in 5000ms
+[001:308] Got cookie response, socket is authorized
+[001:308] AUTHORIZED; socket handshake complete
+[006:220] HandleOnlineCheck: Starting check
+[006:220] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.aux modified.
+filtered
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+08:10:16 ** Message: Orage **: wakeup timer refreshing
+08:10:16 ** Message: Orage **: Build alarm list: Added 0 alarms. Processed 0 events.
+08:10:16 ** Message: Orage **: 	Found 0 alarms of which 0 are active. (Searched 0 recurring alarms.)
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:30249): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+
+** (inkscape:437): WARNING **: Unimplemented style property SP_PROP_DOMINANT_BASELINE: value: central
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+
+** (inkscape:437): WARNING **: Incomplete undo transaction:
+
+** (inkscape:437): WARNING **: Event: Added #<Element:0x0x771b580> to #<Element:0x0x79361c0> after #<Element:0x0x771b2b0>
+
+** (inkscape:437): WARNING **: Event: Set content of #<Text:0x0x79360d0> to ""
+
+** (inkscape:437): WARNING **: Event: Added #<Element:0x0x79361c0> to #<Text:0x0x79360d0> after beginning
+Gtk-Message: Failed to load module "canberra-gtk-module"
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:796): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(inkscape:437): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+
+(inkscape:1128): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+Gtk-Message: Failed to load module "canberra-gtk-module"
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1570): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+Gtk-Message: Failed to load module "canberra-gtk-module"
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:1638): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+** (inkscape:1691): WARNING **: Ignoring font without family that will crash Pango
+
+** (inkscape:1691): WARNING **: Ignoring font without family that will crash Pango
+
+(inkscape:1691): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:1691): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(nautilus:1732): GnomeDesktop-WARNING **: Unable to create loader for mime type audio/mp4: Unrecognized image file format
+
+(nautilus:1732): GnomeDesktop-WARNING **: Error creating thumbnail for file:///home/marcos/Downloads/My%20Song%2050.m4a: Image has zero width
+Gtk-Message: Failed to load module "canberra-gtk-module"
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+
+(acroread:2172): Gtk-WARNING **: Unable to locate theme engine in module_path: "clearlooks",
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+** Message: Invalid glyph found, continuing...
+
+(inkscape:2226): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:2336): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+Record Info Table 2: 682417
+(inkscape:2656): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+This is SMPlayer v. 0.8.3 running on Linux
+ata] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sourcesError [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+07:18:43 ** Message: Orage **: wakeup timer refreshing
+07:18:43 ** Message: Orage **: Build alarm list: Added 0 alarms. Processed 0 events.
+07:18:43 ** Message: Orage **: 	Found 0 alarms of which 0 are active. (Searched 0 recurring alarms.)
+[142799:586] Read port file, port=41952
+[142799:655] Initiated connection to GoogleTalkPlugin
+[142799:715] Socket connection established
+[142799:715] ScheduleOnlineCheck: Online check in 5000ms
+[142799:756] Got cookie response, socket is authorized
+[142799:756] AUTHORIZED; socket handshake complete
+[142804:729] HandleOnlineCheck: Starting check
+[142804:729] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.data] DataController: Saving data...
+Traceback (most recent call last):
+  File "/usr/local/share/kupfer/kupfer/scheduler.py", line 77, in _call
+    self._current_callback()
+  File "/usr/local/share/kupfer/kupfer/scheduler.py", line 57, in <lambda>
+    self._current_callback = lambda : callback(*arguments)
+  File "/usr/local/share/kupfer/kupfer/core/data.py", line 629, in _save_data
+    learn.save()
+  File "/usr/local/share/kupfer/kupfer/core/learn.py", line 198, in save
+    Learning._pickle_register(_register, filepath)
+  File "/usr/local/share/kupfer/kupfer/core/learn.py", line 77, in _pickle_register
+    output.write(pickle.dumps(reg, pickle.HIGHEST_PROTLoadPlugin: failed to initialize shared library /usr/lib/mozilla/plugins/nppdf.so [/usr/lib/mozilla/plugins/nppdf.so: wrong ELF class: ELFCLASS32]
+LoadPlugin: failed to initialize shared library /usr/lib/mozilla/plugins/nppdf.so [/usr/lib/mozilla/plugins/nppdf.so: wrong ELF class: ELFCLASS32]
+LoadPlugin: failed to initialize shared library /usr/lib/firefox/plugins/nppdf.so [/usr/lib/firefox/plugins/nppdf.so: wrong ELF class: ELFCLASS32]
+sh: lsb_release: command not found
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+NOTE: child process received `Goodbye', closing down
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+00:00:00 ** Message: Orage **: Build alarm list: Added 0 alarms. Processed 0 events.
+00:00:00 ** Message: Orage **: 	Found 0 alarms of which 0 are active. (Searched 0 recurring alarms.)
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+No bp log location saved, using default.
+[000:020] Browser XEmbed support present: 1
+[000:020] Browser toolkit is Gtk2.
+[000:021] Using Gtk2 toolkit
+[000:029] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:033] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:033] GoogleTalkPlugin not running. Starting new process...
+[000:033] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:033] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:037] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:037] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:126] Attempting to connect to GoogleTalkPlugin...
+[001:127] Read port file, port=53280
+[001:654] Initiated connection to GoogleTalkPlugin
+[001:714] Socket connection established
+[001:714] ScheduleOnlineCheck: Online check in 5000ms
+[001:756] Got cookie response, socket is authorized
+[001:756] AUTHORIZED; socket handshake complete
+[006:792] HandleOnlineCheck: Starting check
+[006:792] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+Traceback (most recent call last):
+  File "/usr/local/share/kupfer/kupfer/core/data.py", line 310, in search
+    decorator=decorator)
+  File "/usr/local/share/kupfer/kupfer/core/data.py", line 131, in search
+    reverse=True)
+  File "/usr/local/share/kupfer/kupfer/core/search.py", line 45, in bonus_objects
+    for obj in rankables:
+  File "/usr/local/share/kupfer/kupfer/core/search.py", line 62, in score_objects
+    for rb in rankables:
+  File "/usr/local/share/kupfer/kupfer/core/search.py", line 6, in <genexpr>
+    return (Rankable(unicode(obj), obj, rank) for obj in itr)
+  File "/usr/local/share/kupfer/kupfer/datatools.py", line 69, in _incremental_caching_iter
+    x = self.iterator.next()
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+No bp log location saved, using default.
+[000:001] Browser XEmbed support present: 1
+[000:001] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+[000:006] Warning(clientchannel.cc:637): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:007] Warning(clientchannel.cc:451): Could not initiate GoogleTalkPlugin connection
+[000:007] GoogleTalkPlugin not running. Starting new process...
+[000:007] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:007] Warning(clientchannel.cc:607): Failed to get GoogleTalkPlugin path. Trying default.
+[000:011] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:011] Waiting for GoogleTalkPlugin to start...
+sh: lsb_release: command not found
+[001:104] Attempting to connect to GoogleTalkPlugin...
+[001:104] Read port file, port=50156
+[001:105] Initiated connection to GoogleTalkPlugin
+[001:205] Socket connection established
+[001:205] ScheduleOnlineCheck: Online check in 5000ms
+[001:305] Got cookie response, socket is authorized
+[001:305] AUTHORIZED; socket handshake complete
+[006:216] HandleOnlineCheck: Starting check
+[006:216] HandleOnlineCheck: OK; current state: 3
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-1932:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-1947:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+Traceback (most recent call last):
+  File "/usr/local/share/kupfer/kupfer/core/data.py", line 310, in search
+    decorator=decorator)
+  File "/usr/local/share/kupfer/kupfer/core/data.py", line 131, in search
+    reverse=True)
+  File "/usr/local/share/kupfer/kupfer/core/search.py", line 45, in bonus_objects
+    for obj in rankables:
+  File "/usr/local/share/kupfer/kupfer/core/search.py", line 62, in score_objects
+    for rb in rankables:
+  File "/usr/local/share/kupfer/kupfer/core/search.py", line 6, in <genexpr>
+    return (Rankable(unicode(obj), obj, rank) for obj in itr)
+  File "/usr/local/share/kupfer/kupfer/datatools.py", line 69, in _incremental_caching_iter
+    x = self.iterator.next()
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-1962:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+NOTE: child process received `Goodbye', closing down
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-1977:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-1992:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.tex modified.
+/home/marcos/dissertacao/marcos_dissertacao/ppgec.tex modified.
+NOTE: child process received `Goodbye', closing down
+
+(inkscape:5364): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+"/home/marcos/dissertacao/marcos_dissertacao/chapter/003_contribution.tex" 
+"/home/marcos/dissertacao/marcos_dissertacao/chapter/004_experiment.tex" 
+"/home/marcos/dissertacao/marcos_dissertacao/chapter/005_results.tex" 
+
+(inkscape:5364): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:5364): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2127:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+NOTE: child process received `Goodbye', closing down
+NOTE: child process received `Goodbye', closing down
+
+(inkscape:5364): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:5364): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+NOTE: child process received `Goodbye', closing down
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2142:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+00:00:01 ** Message: Orage **: Build alarm list: Added 0 alarms. Processed 0 events.
+00:00:01 ** Message: Orage **: 	Found 0 alarms of which 0 are active. (Searched 0 recurring alarms.)
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2157:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2172:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2187:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2202:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2217:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2232:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2247:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2262:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+NOTE: child process received `Goodbye', closing down
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2277:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+Remote Geeqie not running, starting...error subscribing to socket: Permission denied
+............
+Remote not available
+error saving config file: /home/marcos/.config/geeqie/geeqierc.xml
+Unable to write history lists to: /home/marcos/.config/geeqie/history
+error saving file: /home/marcos/.config/geeqie/accels
+
+** (nautilus:1732): CRITICAL **: atk_bridge_adaptor_cleanup: assertion `inited' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+
+(inkscape:20388): Gtk-CRITICAL **: IA__gtk_widget_grab_default: assertion `gtk_widget_get_can_default (widget)' failed
+kbuildsycoca4 running...
+kbuildsycoca4(21608) kdemain: Reusing existing ksycoca
+kbuildsycoca4(21608) KBuildSycoca::recreate: Recreating ksycoca file ("/var/tmp/kdecache-marcos/ksycoca4", version 216)
+kbuildsycoca4(21608) KBuildSycoca::build: Still in the time dict (i.e. deleted files) ("apps")
+kbuildsycoca4(21608) VFolderMenu::pushDocInfo: Menu "applications-kmenuedit.menu" not found.
+kbuildsycoca4(21608) VFolderMenu::processMenu: Processing KDE Legacy dirs for <KDE>
+kbuildsycoca4(21608) VFolderMenu::processKDELegacyDirs:
+kbuildsycoca4(21608) VFolderMenu::loadApplications: Looking up applications under "/usr/share/applications/"
+kbuildsycoca4(21608) VFolderMenu::loadApplications: Looking up applications under "/usr/share/applications/kde4"
+kbuildsycoca4(21608) VFolderMenu::loadApplications: Looking up applications under "/usr/local/share/applications/"
+kbuildsycoca4(21608) VFolderMenu::loadApplications: Looking up applications under "/home/marcos/.local/share/applications/"
+kbuildsycoca4(21608) KBuildSycoca::createEntry: new: "/home/marcos/.local/share/applications/IRPF2013-help.desktop" in apps
+kbuildsycoca4(21608) KBuildSycoca::createEntry: new: "/home/marcos/.local/share/applications/IRPF2013-program.desktop" in apps
+kbuildsycoca4(21608) KBuildSycoca::createEntry: new: "/home/marcos/.local/share/applications/IRPF2013-uninstall.desktop" in apps
+kbuildsycoca4(21608) KBuildSycoca::createEntry: new: "/home/marcos/.local/share/applications/IRPF2013-leiame.desktop" in apps
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-7z-compressed-tar"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-ar"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-bzip1"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-bzip1-compressed-tar"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-cabinet"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-ear"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-lzip-compressed-tar"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-lzop-compressed-tar"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-rzip"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-war"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/firefox.desktop" specifies undefined mimetype/servicetype "text/mml"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "plasma-kpart.desktop" specifies undefined mimetype/servicetype "KParts/Part"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/csv"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/excel"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/tab-separated-values"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/x-dos_ms_excel"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/x-excel"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/x-ms-excel"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "text/comma-separated-values"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/clementine.desktop" specifies undefined mimetype/servicetype "application/x-ogm-audio"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-gbr"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-pat"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-gih"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-psp"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/brasero.desktop" specifies undefined mimetype/servicetype "application/x-toc"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/x-smil"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/streamingmedia"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/x-streamingmedia"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/vnd.rn-realmedia-vbr"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-aac"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/m4a"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/mp1"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-mp1"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/mpg"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-mpg"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/rn-mpeg"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/scpls"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-pcm"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pls"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "video/x-ms-afs"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "video/x-ms-wvxvideo"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/jpg"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/x-targa"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/x-portable-greymap"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "application/pcx"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/svg-xml"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/eog.desktop" specifies undefined mimetype/servicetype "image/jpg"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/eog.desktop" specifies undefined mimetype/servicetype "image/x-gray"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/eog.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gvim.desktop" specifies undefined mimetype/servicetype "text/english"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gvim.desktop" specifies undefined mimetype/servicetype "text/x-c++"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/writer.desktop" specifies undefined mimetype/servicetype "application/x-doc"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/writer.desktop" specifies undefined mimetype/servicetype "application/vnd.stardivision.writer-global"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/writer.desktop" specifies undefined mimetype/servicetype "application/x-extension-txt"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/ristretto.desktop" specifies undefined mimetype/servicetype "image/x-pixmap"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "windowsexethumbnail.desktop" specifies undefined mimetype/servicetype "application/x-msdownload"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "video/x-flc"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-ms-asf"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wax"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/x-flac"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "misc/ultravox"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/x-extension-mp4"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-extension-m4a"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-extension-mp4"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-flac"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-smil"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-ms-asf"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wax"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-sbc"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "misc/ultravox"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "video/x-flc"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "video/x-ms-asx"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "video/x-totem-stream"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/xarchiver.desktop" specifies undefined mimetype/servicetype "application/arj"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/xarchiver.desktop" specifies undefined mimetype/servicetype "multipart/x-zip"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/xarchiver.desktop" specifies undefined mimetype/servicetype "application/x-bzip2-compressed-tar"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/x-quicktime"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/mkv"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/aiff"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-basic"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-8svx"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/8svx"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-16sv"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/168sv"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "image/ilbm"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/anim"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/mng"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/mpeg2"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg2"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/mpeg3"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg3"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/geeqie.desktop" specifies undefined mimetype/servicetype "image/svg"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/geeqie.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/geeqie.desktop" specifies undefined mimetype/servicetype "image/xpm"
+kbuildsycoca4(21608) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/chromium.desktop" specifies undefined mimetype/servicetype "text/mml"
+kbuildsycoca4(21608) KMimeAssociations::parseAllMimeAppsList: Parsing "/home/marcos/.local/share/applications/mimeapps.list"
+kbuildsycoca4(21608) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/file in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21608) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/http in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21608) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/https in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21608) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/trash in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21608) KBuildSycoca::save: Saving
+kbuildsycoca4(21608) kdemain: Emitting notifyDatabaseChanged ("apps", "apps")
+kbuildsycoca4 running...
+kbuildsycoca4(21894) kdemain: Reusing existing ksycoca
+kbuildsycoca4(21894) KBuildSycoca::recreate: Recreating ksycoca file ("/var/tmp/kdecache-marcos/ksycoca4", version 216)
+kbuildsycoca4(21894) KBuildSycoca::build: Still in the time dict (i.e. deleted files) ("apps")
+kbuildsycoca4(21894) VFolderMenu::pushDocInfo: Menu "applications-kmenuedit.menu" not found.
+kbuildsycoca4(21894) VFolderMenu::processMenu: Processing KDE Legacy dirs for <KDE>
+kbuildsycoca4(21894) VFolderMenu::processKDELegacyDirs:
+kbuildsycoca4(21894) VFolderMenu::loadApplications: Looking up applications under "/usr/share/applications/"
+kbuildsycoca4(21894) VFolderMenu::loadApplications: Looking up applications under "/usr/share/applications/kde4"
+kbuildsycoca4(21894) VFolderMenu::loadApplications: Looking up applications under "/usr/local/share/applications/"
+kbuildsycoca4(21894) VFolderMenu::loadApplications: Looking up applications under "/home/marcos/.local/share/applications/"
+kbuildsycoca4(21894) KBuildSycoca::createEntry: modified: "/home/marcos/.local/share/applications/IRPF2013-help.desktop" in apps
+kbuildsycoca4(21894) KBuildSycoca::createEntry: modified: "/home/marcos/.local/share/applications/IRPF2013-program.desktop" in apps
+kbuildsycoca4(21894) KBuildSycoca::createEntry: modified: "/home/marcos/.local/share/applications/IRPF2013-uninstall.desktop" in apps
+kbuildsycoca4(21894) KBuildSycoca::createEntry: modified: "/home/marcos/.local/share/applications/IRPF2013-leiame.desktop" in apps
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-7z-compressed-tar"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-ar"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-bzip1"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-bzip1-compressed-tar"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-cabinet"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-ear"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-lzip-compressed-tar"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-lzop-compressed-tar"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-rzip"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/file-roller.desktop" specifies undefined mimetype/servicetype "application/x-war"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/firefox.desktop" specifies undefined mimetype/servicetype "text/mml"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "plasma-kpart.desktop" specifies undefined mimetype/servicetype "KParts/Part"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/csv"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/excel"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/tab-separated-values"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/x-dos_ms_excel"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/x-excel"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "application/x-ms-excel"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/calc.desktop" specifies undefined mimetype/servicetype "text/comma-separated-values"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/clementine.desktop" specifies undefined mimetype/servicetype "application/x-ogm-audio"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-gbr"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-pat"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-gih"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-psp"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/brasero.desktop" specifies undefined mimetype/servicetype "application/x-toc"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/x-smil"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/streamingmedia"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/x-streamingmedia"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/vnd.rn-realmedia-vbr"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-aac"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/m4a"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/mp1"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-mp1"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/mpg"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-mpg"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/rn-mpeg"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/scpls"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-pcm"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pls"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "video/x-ms-afs"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "video/x-ms-wvxvideo"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/jpg"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/x-targa"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/x-portable-greymap"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "application/pcx"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gpicview.desktop" specifies undefined mimetype/servicetype "image/svg-xml"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/eog.desktop" specifies undefined mimetype/servicetype "image/jpg"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/eog.desktop" specifies undefined mimetype/servicetype "image/x-gray"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/eog.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gvim.desktop" specifies undefined mimetype/servicetype "text/english"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gvim.desktop" specifies undefined mimetype/servicetype "text/x-c++"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/writer.desktop" specifies undefined mimetype/servicetype "application/x-doc"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/writer.desktop" specifies undefined mimetype/servicetype "application/vnd.stardivision.writer-global"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/lib/libreoffice/share/xdg/writer.desktop" specifies undefined mimetype/servicetype "application/x-extension-txt"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/ristretto.desktop" specifies undefined mimetype/servicetype "image/x-pixmap"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "windowsexethumbnail.desktop" specifies undefined mimetype/servicetype "application/x-msdownload"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "video/x-flc"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-ms-asf"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wax"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/x-flac"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "misc/ultravox"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/x-extension-mp4"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-extension-m4a"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-extension-mp4"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-flac"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "application/x-smil"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-ms-asf"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wax"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "audio/x-sbc"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "misc/ultravox"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "video/x-flc"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "video/x-ms-asx"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/totem.desktop" specifies undefined mimetype/servicetype "video/x-totem-stream"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/xarchiver.desktop" specifies undefined mimetype/servicetype "application/arj"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/xarchiver.desktop" specifies undefined mimetype/servicetype "multipart/x-zip"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/xarchiver.desktop" specifies undefined mimetype/servicetype "application/x-bzip2-compressed-tar"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/x-quicktime"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/mkv"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/aiff"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-basic"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-8svx"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/8svx"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-16sv"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/168sv"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "image/ilbm"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/anim"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/mng"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/mpeg2"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg2"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/mpeg3"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg3"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/geeqie.desktop" specifies undefined mimetype/servicetype "image/svg"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/geeqie.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/geeqie.desktop" specifies undefined mimetype/servicetype "image/xpm"
+kbuildsycoca4(21894) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/chromium.desktop" specifies undefined mimetype/servicetype "text/mml"
+kbuildsycoca4(21894) KMimeAssociations::parseAllMimeAppsList: Parsing "/home/marcos/.local/share/applications/mimeapps.list"
+kbuildsycoca4(21894) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/file in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21894) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/http in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21894) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/https in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21894) KConfigGroup::readXdgListEntry: List entry x-scheme-handler/trash in "/home/marcos/.local/share/applications/mimeapps.list" is not compliant with XDG standard (missing trailing semicolon). 
+kbuildsycoca4(21894) KBuildSycoca::save: Saving
+kbuildsycoca4(21894) kdemain: Emitting notifyDatabaseChanged ("apps", "apps")
+Error [kupfer.plugin.websearch] OpenSearchSource: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/searchplugins'
+Exception in [kupfer.plugin.firefox] BookmarksSource: ValueError: No JSON object could be decoded
+Exception in thread Thread-2292:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/share/kupfer/kupfer/core/sources.py", line 77, in rescan_source
+    list(source.get_leaves(force_update=force_update))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 425, in get_leaves
+    self.cached_items = aslist(sort_func(self.get_items_forced()))
+  File "/usr/local/share/kupfer/kupfer/obj/base.py", line 163, in aslist
+    seq = list(seq)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox.py", line 78, in _get_ffx2_bookmarks
+    bookmarks = firefox_support.get_bookmarks(fpath)
+  File "/usr/local/share/kupfer/kupfer/plugin/firefox_support.py", line 158, in get_bookmarks
+    parser.feed(open(bookmarks_file).read())
+IOError: [Errno 2] No such file or directory: '/home/marcos/.mozilla/firefox/sq537q5i.default/bookmarks.html'
+
+xterm: ICE default IO error handler doing an exit(), pid = 28198, errno = 11
+xterm: ICE IO error handler doing an exit(), pid = 4032, errno = 11
+ICE IO error handler doing an exit(), pid = 21960, errno = 11
+xterm: ICE IO error handler doing an exit(), pid = 21292, errno = 11
+kupfer.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+Eclipse: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+keyrelay.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.1.
+plugin-container: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+plugin-container: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+orage: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+kdeinit4: Fatal IO error: client killed
+klauncher: Exiting on signal 15
+kdeinit4: kded4 [kdeinit]: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+[kupfer.core.sources] PeriodicRescanner: Starting new campaign, interval 3 s
+[kupfer.core.sources] PeriodicRescanner: Campaign finished, pausing 3600 s
+#

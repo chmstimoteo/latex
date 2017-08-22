@@ -1,0 +1,24 @@
+\chapter{Conclusões e Trabalhos Futuros}\label{cap:conclusion}
+
+Este trabalho investigou o uso de redes neurais artificiais, como algoritmos SVM e MLP, para a estimativa do impacto do risco, através da proposta de uma metodologia para a análise de risco em projetos de \textit{software}, a partir de dados históricos de registros de riscos. 
+
+Os resultados mostraram que as redes neurais artificiais apresentaram resultados promissores, principalmente porque um modelo MLP chamado ``MLPRegressor" obteve os menores erros de previsão. Além disso, alguns resultados apresentaram informações importantes: a SMC apresentou resultados piores comparado com o modelo de linha de base, o MRLM; o modelo ANFIS apresentou resultados piores comparado com a "MLPRegressor", porém é mais preciso 52\% na média comparado com o último modelo; é difícil melhorar ainda mais o desempenho da Análise PERT e da SMC já que todas as medidas foram tomadas para que com as informações disponíveis esses modelos pudessem apresentar os melhores resultados.
+
+Além disso, uma pesquisa rápida realizada com duzentos profissionais (membros da comunidade de prática de gerenciamento de risco do PMI, dos mais diversos campos de aplicação e setores), os quais dez responderam às perguntas feitas, informaram que, no geral, entre 0\% e 5\% é um intervalo de erros ideal de previsão de impacto de risco; 5\% e 10\% é um intervalo aceitável de erro na estimativa e 10\% e 15\% é um intervalo indesejado. Portanto, como o ``MLPRegressor" apresentou alguns valores no primeiro intervalo, REMQ médio de 0.05168 ou 5,168\%, é possível afirmar que esse modelo apresenta resultados satisfatórios.
+
+% Listar os problemas e dificuldades encontradas
+Algumas dificuldades foram encontradas nesse estudo, principalmente quanto ao pré-processamento dos dados e a seleção das redes neurais e suas variações para se obter os resultados desejados. Porque não há qualquer trabalho científico utilizando a PERIL para se tomar como base, segundo a revisão bibliográfica feita.
+
+Alguns resultados interessantes foram alcançados porém é preciso melhorar algumas técnicas utilizadas para que os resultados possam ser mais precisos e menores erros de previsão sejam obtidos. Além disso, há uma carga computacional elevada no procedimento de utilização de um algoritmo de otimização para otimizar o desempenho das redes neurais, o que demanda tempo. Como atividades futuras, foram identificadas:
+\begin{itemize}
+\item Realizar a validação prática dessa metodologia com informações reais para a estimativa e acompanhamento de riscos;
+\item Desenvolver uma abordagem eficiente e precisa para quando houver poucas informações sobre os riscos identificados num projeto e nenhum registro de riscos em projetos similares anteriores;
+\item Desenvolver uma abordagem inovadora e mais eficiente para a análise qualitativa dos riscos, baseada na classificação da natureza dos riscos;
+\item Desenvolver uma técnica para a avaliação de estratégias de mitigação de risco, baseadas no impacto se o risco ocorrer, no esforço para mitigação de risco, nas interações entre os fatores de risco e nos recursos disponíveis para os planos de mitigação;
+\item Desenvolver uma metodologia para a avaliação qualitativa, a avaliação quantitativa e planos de contingência de riscos em projetos, do ponto de vista do gerenciamento de portfólio de projetos para o alcance de objetivos estratégicos.
+\item Desenvolvimento de um \textit{canvas} para o gerenciamento de riscos em projetos de forma ágil;
+\item Implementar outros métodos de validação cruzada.
+\end{itemize}
+
+\pagebreak
+

@@ -1,0 +1,57 @@
+\chapter{Experiments}\label{cap:experiments}
+
+%Os experimentos realizados utilizaram os modelos descritos no Capítulo \ref{cap:methodology}. A base de dados utilizada é o PERIL. Eles são estabelecidos analisando os modelos de regressão que são linha de base para o estudo, seguindo para as técnicas comumente utilizadas na academia e na indústria. Após isso, o modelo estado da arte é analisado e por último, mas não menos importante, esse estudo se concentra nas técnicas propostas pela metodologia desse estudo apresentadas na Seção \ref{sec:rnas}. Os resultados para cada experimento são apresentados no Capítulo \ref{cap:results}.
+The experiments performed utilized the models presented in Chapter \ref{cap:methodology}, in which the database adopted is PERIL. They are established analysing regression models that are baseline for the study, accordingly to techniques usually utilized in academia and industry. After that, the state of art model is analyzed and, last but not least, this study concentrates in techniques proposed in work presented in Section \ref{sec:rnas}. Results for each experiment are presented in Chapter \ref{cap:results}.
+
+%O objetivo global é utilizar a metodologia proposta no Capítulo \ref{cap:methodology} para determinar uma abordagem mais precisa para a estimativa do impacto de riscos. A métrica utilizada para verificar o atingimento desse objetivo é o erro de previsão, REMQ. Uma questão a ser respondida é: As RNAs são técnicas mais precisas para a estimativa do impacto do risco no gerenciamento de projetos de software?
+General objective is to utilize the proposed method presented in Chapter \ref{cap:methodology} to determine a more precise approach to estimate risk impact. The adopted metric to verify the accomplishment of this objective is the prediction error, RMSE. A question to be answered is: Are ANNs more precise techniques to risk impact estimation in software project management?
+
+%As hipóteses para os experimentos são:
+Hypothesis for experiments are:
+
+%\begin{itemize}
+%\item $H_0$: Não há diferença entre usar as Redes Neurais Artificiais e os modelos de Estado da Arte para a estimativa do impacto de riscos;
+%\item $H_1$: As Redes Neurais Artificiais são mais precisas que os modelos de Estado da Arte para a estimativa do impacto de riscos;
+%\item $H_2$: As Redes Neurais Artificiais são menos precisas que os modelos de Estado da Arte para a estimativa do impacto de riscos.
+%\end{itemize}
+\begin{itemize}
+\item $H_0$: There is no difference between using ANNs and state of art models to risk impact estimation;
+\item $H_1$: ANNs are more precise than state of art models for risk impact estimation;
+\item $H_2$: ANNs are less precise than state of art models for risk impact estimation.
+\end{itemize}
+
+%Os objetos de controle são os códigos-fonte desenvolvidos para o experimento. Os critérios de aleatoriedade, agrupamento e balanceamento são utilizados para facilitar a análise estatística. O objeto experimental é a base de dados de risco, no nosso caso a PERIL. Por fim, os resultados são analisados estatisticamente, portanto um teste de hipótese será conduzido tão logo eles sejam obtidos.
+Control objects are the source code developed for the experiment. Randomness, clustering and balancing criterias are used to facilitate statistical analysis. The experimental object is risk database, in our case PERIL. Finally, results are analyzed statistically, therefore a hypothesis test will be conducted as soon as results are obtained.
+
+\section{Multiple Linear Regression and Regression Tree Model}
+
+%O primeiro experimento definido para este trabalho é estabelecer uma linha de base para que seja possível comparar o desempenho de outras abordagens com a base de dados selecionada. Os modelos MRLM e MAR são analisados, aquele que produzir o menor erros de previsão (REMQ) será selecionado.
+The first experiment set for this work is to establish a baseline method so that you can compare the performance of other approaches to the selected database. MRLM and MAR models are analyzed, the one which produces the smallest forecast errors (RMSE) will be selected.
+
+%Nessa análise, o código-fonte para análise dos modelos de regressão linear foram adaptados de Torgo \cite{torgo2003data} com o objetivo de realizar o treinamento, a validação cruzada, a geração das saídas previstas e o cálculo do REMQ.
+In this analysis, the source code for the analysis of linear regression models were adapted from Torgo \cite{torgo2003data} in order to perform training, cross-validation, to obtain estimated outcomes and calculation of RMSE.
+
+\section{Monte Carlo Simulation and PERT Analysis}
+
+%O segundo experimento é analisar o desempenho das técnicas convencionais utilizadas na academia e na indústria, inclusive determinadas como boas práticas pelo PMBOK \cite{PMBOK2008}. Como explicado anteriormente, essas abordagens foram configuradas para obterem o melhor desempenho possível.
+The second experiment is to analyze the performance of conventional techniques used in academia and industry, including best practices as determined by PMBOK \cite{PMBOK2008}. As explained earlier, these approaches have been configured to obtain the best possible performance.
+
+\section{MultiLayer Perceptron and variations}
+
+%O terceiro experimento tem o objetivo de analisar quais das variações da MLP obtém o menor REMQ de previsão. Há numerosas combinações possíveis de configurações da MLP, no entanto somente um subconjunto delas foi avaliado. A melhor configuração da MLP é utilizada no experimento subsequente.
+The third experiment aims to analyze which of the variations of MLP obtains the lowest estimated RMSE. There are numerous possible combinations of MLP configurations, however only a subset of them was assessed. The best MLP configuration is used in the subsequent experiment.
+
+%Esse experimento e o próximo são os experimentos mais significativos desse trabalho. A importância da avaliação de diversas alternativas a MLP tradicional baseada no algoritmo \textit{backpropagation} é de fundamental importância já que nenhum dos trabalhos anteriores refinaram esse estudo. Além disso, eles não investigaram se outras abordagens como RBF e SVM poderiam ter um melhor desempenho.
+This experiment and the next are the most significant experiments of this work. The importance of evaluating several alternatives to traditional MLP algorithm based on backpropagation is of fundamental importance since no previous work refined this study. Moreover, they did not investigate whether other approaches such as RBF and SVM could perform better.
+
+\section{MLP, SVM, RBF and ANFIS}
+
+%O quarto experimento tem o objetivo de eleger qual a melhor técnica baseada em Redes Neurais Artificiais para a previsão do impacto de riscos a partir da base de dados PERIL. As melhores configurações para cada uma das abordagens é selecionada e o REMQ é calculado para cada técnica.
+The fourth experiment aims to elect the best technique based on Artificial Neural Networks to forecast the impact of hazards from the base PERIL database. The best settings for each approach is selected and RMSE is calculated for each technique.
+
+\section{Better Model Validation}
+
+%Por fim, um teste estatístico dos resultados da melhor abordagem com os oriundos do segundo experimento é realizado para observar se o modelo baseado em Redes Neurais apresenta maior precisão que os tradicionais. Sendo validada a hipótese nula, de que as redes neurais artificiais são mais precisas e poderiam atender à real necessidade da indústria, conclui-se que através da metodologia proposta nesse trabalho é possível obter uma RNA mais precisa para a estimativa do impacto de riscos.
+Finally, a statistical test of the results of the best approach with those from the second experiment is performed to see if the model based on artificial neural network has higher precision than traditional ones. Validating the null hypothesis that artificial neural networks are more accurate and could meet the real needs of the industry, it is concluded that using the methodology proposed in this work it is possible to obtain a more precise RNA to estimate the impact of hazards.
+
+\pagebreak

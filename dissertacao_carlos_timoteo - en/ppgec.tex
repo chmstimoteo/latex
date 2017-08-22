@@ -1,0 +1,158 @@
+% ################################################################
+% # Recife, 18 February 2011                                     #
+% # Polytechnic School of Pernambuco - University of Pernambuco  #
+% # Course: Computer Engineer                                    #
+% # Author: Marcos Alvares Barbosa Junior                        #
+% #                                                              #
+% # UPE-POLI MSc Thesis Template    V0.1                         #
+% ################################################################
+%   TODO:
+%     #1:  Move the Default Configuration section to a separated file
+%     #2:  Create a LaTeX Class
+%     #3:  Create examples of Symbols, Equations, Tables, Figures, sections and sub-sections ...
+%     #4:  Discard all specific contents (: replace the thesis title with an generic value like: "Here You Put Your Thesis Title")
+%     #5:  Verify ununsed packages
+%
+\documentclass[a4paper,12pt]{upethesis}
+\usepackage{graphicx}
+\usepackage{pslatex}
+\usepackage{adjustbox}
+\usepackage{enumerate}
+\usepackage{url}
+\usepackage{epstopdf} 
+\usepackage{amsmath}
+\usepackage[linesnumbered,portuguese,ruled]{algorithm2e} % Formatação de código
+%\usepackage[ruled,linesnumbered,noend]{algorithm2e}
+%\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+%\usepackage{kbordermatrix}%
+\usepackage{blkarray}
+\graphicspath{{images/}}
+% Macro for 'List of Symbols', 'List of Notations' etc...
+\def\listofsymbols{\input{pre_textual_element/symbols} \clearpage}
+\def\addsymbol #1: #2#3{$#1$ \> \parbox{5in}{#2 \hfill \pageref{#3}}\\} 
+\def\addacronym[#1][#2]{$#1$ &\parbox{0.5in}{\hfill} #2\\} 
+\def\newnot#1{\label{#1}} 
+\renewcommand{\listalgorithmcfname}{Lista de Algoritmos}
+\newtheorem{Algorithm}{Algoritmo}
+\newcommand{\pkfail}{}
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}} 	% it helps on scientific notation
+\setlength{\unitlength}{20pt}
+\def\quadrado[#1]{\begin{picture}(2,2)
+				\put(0,0){\framebox(2,2){#1}}
+				\end{picture}}
+				
+\def\quadradonb[#1]{\begin{picture}(2,2)
+				\put(0,0){\makebox(2,2){#1}}
+				\end{picture}}
+\usepackage[table]{xcolor}
+
+% comment here if you do not want that
+\def\citacao[#1][#2]{\begin{flushright}{\vspace{0.5cm}}
+\small``\emph{#1}''\\ 
+{\footnotesize \textbf{#2}}
+\end{flushright}{\vspace{0.15cm}}}
+% uncomment here if you do not want that
+%\def\citacao[#1][#2]{}
+
+
+% % % % % % % % % %
+\usepackage{tikz}
+\usetikzlibrary{calc,fit}
+
+% code by Andrew Stacey
+% http://tex.stackexchange.com/a/50054/3954    
+\makeatletter
+\tikzset{%
+  remember picture with id/.style={%
+    remember picture,
+    overlay,
+    save picture id=#1,
+  },
+  save picture id/.code={%
+    \edef\pgf@temp{#1}%
+    \immediate\write\pgfutil@auxout{%
+      \noexpand\savepointas{\pgf@temp}{\pgfpictureid}}%
+  },
+  if picture id/.code args={#1#2#3}{%
+    \@ifundefined{save@pt@#1}{%
+      \pgfkeysalso{#3}%
+    }{
+      \pgfkeysalso{#2}%
+    }
+  }
+}
+
+\def\savepointas#1#2{%
+  \expandafter\gdef\csname save@pt@#1\endcsname{#2}%
+}
+
+\def\tmk@labeldef#1,#2\@nil{%
+  \def\tmk@label{#1}%
+  \def\tmk@def{#2}%
+}
+
+\tikzdeclarecoordinatesystem{pic}{%
+  \pgfutil@in@,{#1}%
+  \ifpgfutil@in@%
+    \tmk@labeldef#1\@nil
+  \else
+    \tmk@labeldef#1,(0pt,0pt)\@nil
+  \fi
+  \@ifundefined{save@pt@\tmk@label}{%
+    \tikz@scan@one@point\pgfutil@firstofone\tmk@def
+  }{%
+  \pgfsys@getposition{\csname save@pt@\tmk@label\endcsname}\save@orig@pic%
+  \pgfsys@getposition{\pgfpictureid}\save@this@pic%
+  \pgf@process{\pgfpointorigin\save@this@pic}%
+  \pgf@xa=\pgf@x
+  \pgf@ya=\pgf@y
+  \pgf@process{\pgfpointorigin\save@orig@pic}%
+  \advance\pgf@x by -\pgf@xa
+  \advance\pgf@y by -\pgf@ya
+  }%
+}
+\newcommand\tikzmark[2][]{%
+\tikz[remember picture with id=#2] #1;}
+\makeatother
+% end of code by Andrew Stacey
+
+\newcommand\MyBox[5][-1ex]{%
+  \tikz[remember picture,overlay,pin distance=0cm]
+  {\draw[draw=#4,line width=1pt,fill=#4!20,rectangle,rounded corners]
+( $ (pic cs:#2) + (-1ex,2ex) $ ) rectangle ( $ (pic cs:#3) + (#5,#1) $ );
+}
+}
+%
+%\fancyhead[L]{
+%    \parbox{2cm}{\includegraphics[scale=0.4]{image/poli_logo_white.jpg}}
+%}
+%
+%\fancyhead[R]{
+%    \parbox{1cm}{\includegraphics[scale=0.4]{image/upe_logo_white.jpg}}
+%}
+
+\fancyfoot[R]{
+    \footnotesize {\color{gray}{\thepage}}
+}
+
+
+\begin{document}
+  \input{pre_textual_element/001_all_in_one}
+
+% Thesis Chapters [START]
+  \input{chapter/001_introduction}
+  \input{chapter/002_background_knowledge}
+  \input{chapter/003_contribution}
+  \input{chapter/004_experiment}
+  \input{chapter/005_results}
+%  \input{chapter/006_casestudy}
+  \input{chapter/005_conclusion}
+%  \input{chapter/AppendixC}
+%  \input{chapter/AppendixD}
+% Thesis Chapters [END]
+
+% Bibliography [START]
+  \bibliographystyle{unsrt}
+  \bibliography{ppgec}
+% Bibliography [END]
+\end{document}

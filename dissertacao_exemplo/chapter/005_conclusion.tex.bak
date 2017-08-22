@@ -1,0 +1,38 @@
+\chapter{Final Considerations and Future Works}
+This chapter presents the conclusions, the discussions and future works.
+
+\section{Conclusions and Discussions of the Results}
+The Adaptive Bee and Particle Swarm Optimization (ABeePSO) is a combined algorithm that adopts an operator based on artificial bees to generate diversity for Particle Swarm Optimization with adaptive behavior (APSO). The APSO algorithm was chosen because it has a good convergence capability, but as the number of dimensions increases the algorithm loses the ability to maintain the diversity. However, a new algorithm with suitable exploitation-exploration tradeoff was obtained when the operator based on artificial bees was included in the APSO algorithm.
+
+The proposed diversity operator generates the diversity by allowing the particles to adopt the behavior of bees. A half of the swarm are guide bees in the exploration mode and the other ones are guided bees. The movement of the guide bees was modified by using the barycenter of the swarm, which was inspired in the Fish School Search algorithm, and the dispersion step. The guide bees are spread in the search space, while the Elitist Learning Strategy mechanism moves just one particle per iteration. Thus, the proposed operator can generate more diversity in a lower number of iterations than the strategy presented in the APSO algorithm, without losing the coherence with previous search processes.
+
+The analysis of the parameters is necessary to realize the adaptations of the proposed algorithm. In the analysis of the acceleration coefficients, we observed that it is not necessary to change the original approach proposed for the APSO. The acceleration rate ($\delta$) is the same. The analysis with some functions of intervals of fuzzy membership functions presented that it is necessary to decrease the \emph{Convergence} interval and to increase the \emph{Exploration} interval. This modification allows a reduction in the number of executions of the diversity operator.
+
+The analysis of the ABPSO algorithm parameters showed that these parameters values influence mainly for multimodal functions. The analysis of dispersion step was performed to adapt the behavior of the logistic function to the evolutionary factor values. The analysis of the stagnation counter is preliminary but it showed that the used value must be low. With low values, the algorithm presents a better exploitation ability.
+
+In the analysis of the results, we can observe that the presence of ABC based operator allows a better exploration ability of the search space. In the analysis of convergence, our proposal achieved better results than the other classical approaches, with the exception of functions $F2$ and $F10$. In the analysis of dimensionality, the gain of performance obtained by the ABPSO algorithm is mitigated for extremely high dimensionality (\textit{e.g.} from 500 dimensions). The statistical tests confirm that we obtained better results than the original approaches, APSO and ABC.
+
+We also tried to change the topology to include sub-swarm decentralized control by using the Clan concept. The initial results for the ClanABPSO algorithm are very encouraging since it helps to maintain the particles spread over the search process. We observed that the APSO algorithm is not the best option for the conference of leaders. It is better to use the PSO algorithm. %However, it is necessary a statistical test of this results and a depth analysis of its parameters.
+
+
+%The metric proposed Diversity Factor shows a good option to analysis the diversity of population during search process. However, we can see the metric needs to be associated the radius value and thus one can make a suitable evaluation of the swarm. The results show that FSS is the algorithm that maintains the swarm more spread, but cannot to contract the radius of the swarm as well. The ABPSO algorithm presents the variation of radius value along of iterations, but the diversity of particle cannot be visualized just with diversity factor. One can observe in the results of PSO that this algorithm does not maintain the diversity of swarm. The scouts bees movement was visualized in the results of ABC algorithm.
+
+\section{Future Works}
+This research can be extended in several lines, for example:
+\begin{itemize}
+  \item Realize a deeper analysis of the stagnation counter and the other parameters of the ClanABPSO algorithm;
+  \item Investigate the use of dynamic clans, in which it can use the adaptive behavior. One can try to use the characteristics of the guide bees to realize the migration of particles or eliminate a clan and generate other one in a new region of the search space;
+  \item Propose other types of combinations with another approaches based on swarm (for example, fireflies and bacterias), aiming to generate more heterogeneous swarms;
+  \item Apply these techniques in real world problems, such as: optimization of machine learning algorithms or supply chain management;
+  \item Develop the proposed algorithms in parallel platform and realize a comparative study with CPUs and GPUs.
+\end{itemize}
+
+
+
+
+
+
+
+
+
+\pagebreak

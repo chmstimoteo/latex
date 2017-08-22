@@ -1,0 +1,69 @@
+\chapter{Experimentos}\label{cap:experiments}
+
+Os experimentos realizados utilizaram os modelos descritos no Capítulo \ref{cap:methodology} e a base de dados PERIL. Eles foram estabelecidos, primeiramente, analisando os modelos de regressão que foram a linha de base para o estudo, e em seguida as técnicas comumente utilizadas na academia e na indústria foram abordadas. O modelo do estado da arte, o ANFIS, foi analisado e por fim, mas não menos importante, as RNAs apresentadas na Seção \ref{sec:rnas} foram analisadas. Os resultados para cada experimento são apresentados no Capítulo \ref{cap:results}.
+
+O objetivo global é utilizar a metodologia proposta no Capítulo \ref{cap:methodology} para determinar uma abordagem mais precisa para a estimativa do impacto de riscos. A métrica utilizada para atingir esse objetivo é o erro de previsão, REMQ. As questões a serem respondidas foram apresentadas no Capítulo \ref{cap:introduction}.
+
+Três foram as possíveis hipóteses para os resultados dos experimentos:
+\begin{itemize}
+\item $H_0$: não há diferença entre usar os modelos em Redes Neurais Artificiais e os modelos de Estado da Arte para as estimativas dos impactos de riscos;
+\item $H_1$: os modelos em Redes Neurais Artificiais são mais precisos do que os modelos de Estado da Arte para as estimativas dos impactos de riscos;
+\item $H_2$: os modelos em Redes Neurais Artificiais são menos precisos do que os modelos de Estado da Arte para as estimativas dos impactos de riscos.
+\end{itemize}
+
+Os objetos de controle foram os códigos-fonte de uma MLP e do PSO desenvolvidos para o experimento. Critérios de aleatoriedade, agrupamento e balanceamento foram adotados para facilitar a análise estatística. O objeto experimental foi a base de dados de risco PERIL. Por fim, os resultados foram analisados estatisticamente, através de testes de hipótese que foram conduzido tão logo os resultados foram obtidos.
+
+\section{Pré-processamento}
+
+Antes de se iniciar os experimentos, foi necessário preparar a base de dados PERIL para ser utilizada pelos modelos. Primeiro, inicia-se selecionando os registros de riscos classificados como comuns e \textit{black swam}, totalizando setecentos e setenta e dois registros de riscos. Esses registros foram apresentados no formato de uma tabela extensa completamente classificados através de um critério definido por Kendrick em seu livro \cite{kendrick2003identifying}. A tabela contém oito colunas, dentre as quais uma delas é a descrição do evento de risco ocorrido e outra o impacto do risco; as seis restantes representam as classes definidas por Kendrick que são ``\textit{Parameter}", ``\textit{Category}", ``\textit{Sub category}", ``\textit{Region}", ``\textit{Project}" e ``\textit{Date}". 
+
+A primeira dificuldade enfrentada foi transformar os dados nominais em numéricos. Decidiu-se ``binarizar" os dados de modo, primeiramente, a termos um menor número de variáveis de entrada. Por exemplo, utilizando esse critério para ``binarizar" quatro classes é necessário um número binário de quatro dígitos. Após esse passo, obteve-se uma tabela com doze colunas. É importante lembrar que a coluna de descrição foi desprezada. 
+
+A partir daí, a segunda dificuldade foi identificada que é escolher qual o método de normalização apropriada para que o histograma dos impactos normalizados pudesse se aproximar do histograma da função normal, ou seja, apresentasse a forma de sino. Os métodos analisados foram a normalização linear, normalização estatística, normalização log-normal e normalização gamma. Para auxiliar a escolha do melhor método, investigou-se qual a função de distribuição de probabilidade se ajusta ao histograma dos impactos da PERIL. Nesse caso, verificou-se que as função de distribuição de probabilidade log-normal e gamma se aproximaram mais após uma análise visual. A escolha da normalização gamma foi comprovada, logo em seguida, após a obtenção do histograma dos impactos dos riscos normalizados.
+
+Em seguida, as melhores variáveis de entrada foram escolhidas. Um número excessivo de variáveis de entrada pode degradar o desempenho de um modelo de previsão, provocando interferências na estimativa, aumento na complexidade do modelo e longos intervalos de processamento para obtenção dos resultados. Para realizar essa atividade, foi escolhido o método ``Random Forest" apresentado e descrito no livro de Torgo \cite{torgo2003data}. Esse método ordena as variáveis de entrada que estão correlacionadas com a saída. Quatro configurações foram geradas e analisadas: sem a remoção de variáveis de entrada, removendo as cinco variáveis menos importantes, removendo as dez variáveis menos importantes e removendo as quinze variáveis menos importantes.
+
+Após a análise, as quatro configurações da base de dados através da estimativa do impacto de riscos utilizando uma MLP com regra de aprendizado \textit{backpropagation}. Observou-se, que houve um aumento nos erros de previsão (REMQ) à medida que mais variáveis de entrada foram removidas. Então, nenhuma variável de entrada foi removida da base de dados pré-processada.
+
+Por fim, um método de validação cruzada com divisão de amostras foi utilizado para prevenir a possibilidade da ocorrência do \textit{underfitting} e do \textit{overfitting} e a base de dados foi estratificada, em que cada subconjunto de dados continha a quantidade igual de registros de acordo com a variável com as três principais variáveis de entrada de maior importância obtidas com o algoritmo ``\textit{Random Forest}" (``Subcategory", ``Region" e ``Parameter"). A base de dados pré-processada foi dividida em três subconjuntos balanceados: subconjunto de treinamento, de validação cruzada e teste. Esses subconjuntos eram recriados a cada simulação e a cada modelo.
+
+Portanto, após a binarização, a normalização utilizando a função gamma, a seleção das melhores variáveis de entrada, a estratificação e a divisão das amostras num subconjunto de validação cruzada, a base de dados PERIL encontrou-se preparada para ser utilizada nos experimentos subsequentes. As variáveis de entrada para o modelo são os valores 0 ou 1 das classes binarizadas, a saída esperada é o impacto do risco, o erro é calculado utilizando o impacto desejado (presente na base de dados) e o calculado.
+
+\section{Regressão Linear Múltipla e Modelo de Regressão em Árvore}
+
+%The first experiment set in this work is to establish a baseline method by comparing the performance between usual statistical linear regression model, Multiple Linear Regression (MLR) and Regression Tree Model (RTM).
+O primeiro experimento definido para este trabalho consistiu no estabelecimento de uma linha de base para que fosse possível comparar o desempenho de outras abordagens com a base de dados selecionada. Os modelos MRLM e MRA foram analisados e os seus erros de previsão (REMQ) foram comparados sendo selecionado aquele que apresentou o menor valor do erro. Os resultados foram produzidos rapidamente, devido a baixa complexidade desses modelos de regressão linear.
+
+Nenhum trabalho dentre os encontrados na literatura estabeleceram uma linha de base para os estudos posteriores. Além disso, não foi desenvolvido um \textit{benckmarking} para a estimativa do impacto de riscos. Logo, se faz necessário o estabelecimento de uma linha de base no início desse estudo.
+
+%In this study, the source code of MLR model was adapted from Torgo \cite{torgo2003data}, in order to perform linear regression model training, cross-validation, outcome prediction and RMSE evaluation. MRL and RTM methods were analyzed statistically to define the baseline linear regression model for further analysis. The results for this previous analysis are presented in Chapter \ref{cap:results}.
+Nessa análise, o código-fonte para análise dos modelos de regressão linear foram adaptados de Torgo \cite{torgo2003data} com o objetivo de realizar o treinamento, a validação cruzada, a geração das saídas previstas e o cálculo do REMQ.
+
+\section{Simulação de Monte Carlo e Análise PERT}
+
+O segundo experimento consistiu em analisar o desempenho das técnicas convencionais utilizadas na academia e na indústria, inclusive determinadas como boas práticas pelo PMBOK \cite{PMBOK2008}. Como explicado anteriormente, essas abordagens foram configuradas para obterem o melhor desempenho possível.
+
+Esses modelos produziram os resultados mais rapidamente, devido ao fato deles utilizarem cálculos estatísticos extraídos da base de dados. Para esses modelos decidiu-se não dividir a base de dados, logo todas as setecentos e setenta e duas amostras foram utilizadas. Além disso, as amostras que apresentaram as mesmas variáveis de entrada foram filtradas para que se pudesse obter os menores REMQ possíveis.
+
+\section{Perceptron de Múltiplas Camadas e suas variações}
+
+O terceiro experimento teve como objetivo analisar quais das variações da MLP obteve o menor REMQ de previsão. Há numerosas combinações possíveis de configurações da MLP, no entanto somente um subconjunto delas foi avaliado. A melhor configuração da MLP foi utilizada no experimento subsequente.
+
+Nos primeiros resultados, uma MLP simples utilizando o algoritmo \textit{backpropagation} apresentou uma REMQ média aproximadamente duas vezes maior (0,10007) que a ``MLPRegressor" obtida nos últimos resultados (0,05168). Após um estudo mais detalhado, a investigação das variações de MLPs que contém diferentes regras de aprendizado foi sugerida e, posteriormente, aprovada, já que os resultados obtidos foram duas vezes inferiores.
+
+Esse experimento e o próximo foram os experimentos mais significativos desse trabalho. A importância da avaliação de diversas alternativas à MLP tradicional, baseada no algoritmo \textit{backpropagation} foi de fundamental importância já que nenhum dos trabalhos anteriores refinaram esse estudo. Além disso, eles não investigaram se outras abordagens como RBF e SVM poderiam ter um melhor desempenho.
+
+\section{MLP, SVM, RBF e ANFIS}
+
+%The forth experiment 
+O quarto experimento teve como objetivo eleger a melhor técnica baseada em Redes Neurais Artificiais para a previsão do impacto de riscos, a partir da base de dados PERIL. As melhores configurações para cada uma das abordagens foram selecionadas e a REMQ foi calculada para cada técnica.
+
+Paralelamente a análise das variações da MLP, outras RNAs foram analisadas nesse caso a SVM e a RBF. Por último, o modelo de previsão do estado da arte ANFIS proposto por Saxena \cite{saxena2012software} foi implementado e a REMQ para previsões foram geradas.
+
+Conforme ilustrado na Figura \ref{fig:method2} do Capítulo \ref{cap:methodology}, um algoritmo de otimização foi utilizado para que os parâmetros dos modelos fossem definidos de modo a reduzir a REMQ para cada modelo. Para a MLP, os parâmetros otimizados foram a quantidade de neurônios escondidos nas duas camadas escondidas, o fator de penalidade e o parâmetro de tolerância dos valores delta. Para o SVM, os parâmetros otimizados foram a constante de complexidade, um parâmetro na função de perda, um parâmetro para o erro de arredondamento, um parâmetro de tolerância para o critério de parada e o expoente para as funções gaussianas. Já para a RBF, os parâmetros otimizados foram o número de funções de base gaussiana, um parâmetros de tolerância para os valores delta, o fator de penalidade dos pesos nas saídas e o tipo da escala de otimização.
+
+\section{Validação do Melhor Modelo}
+
+Por fim, um teste estatístico dos resultados da melhor abordagem com os oriundos do segundo experimento foi realizado para observar se o modelo baseado em Redes Neurais apresentava maior precisão do que os tradicionais. Tendo sido validada a hipótese nula, de que as redes neurais artificiais são mais precisas e que poderiam atender à real necessidade da indústria, conclui-se que através da metodologia proposta nesse trabalho que é possível a obtenção de uma RNA mais precisa para as estimativas dos impactos de riscos.
+
+\pagebreak

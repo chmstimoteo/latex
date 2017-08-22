@@ -1,0 +1,46 @@
+\chapter*{Appendix A}
+
+
+\textbf{Publications during Master degree}
+
+
+\textbf{Title:} A Cooperative Approach using Particle Swarm Optimization with Adaptive Behavior.
+
+\textbf{Authors:} L. N. Vitorino, S. F. Ribeiro and C. J. A. Bastos-Filho.
+
+\textbf{Published in:} 10th Brazilian Congress on Computational Intelligence (CBIC'2011), pages 1-8, 2011.
+
+\textbf{Abstract:}Particle Swarm Optimization (PSO) has been widely used to solve real world optimization problems. Since the original PSO fails to maintain the diversity along the search process, some PSO variations have been proposed to overcome this limitation. The recently introduced Adaptive Particle Swarm Optimization (APSO) presents faster convergence, while maintaining the population diversity, by including into the PSO algorithm the auto-adaptation of the parameters according to the current spatial distribution of the swarm. Besides, there are some PSO variations which incorporate a cooperative behavior, such as the Clan Particle Swarm Optimization (ClanPSO). In this paper, we propose to include the auto-adaptation ability solely in the Clans of the ClanPSO algorithm and compare its performance to previous approaches. We evaluated our proposal in six benchmark functions recently proposed in IEEE Congress on Evolutionary Computation 2010. Our proposal obtained similar or better results in terms of fitness when compared to the original ClanAPSO, but presents a lower computational cost. We obtained better results when compared to other cooperative approaches and the classical PSO approaches.
+
+\
+
+\
+\textbf{Title:} A Hybrid Swarm Intelligence Optimizer based on Particles and Artificial Bees for High-Dimensional Search Spaces.
+
+\textbf{Authors:} L. N. Vitorino, S. F. Ribeiro and C. J. A. Bastos-Filho.
+
+\textbf{Published in:} IEEE Congress on Evolutionary Computation 2012 (CEC'2012), 381-386, 2012.
+
+\textbf{Abstract:} Real-world problems can present search spaces with hundreds of dimensions and swarm intelligence algorithms have been developed to solve this type of problems. Particle Swarm Optimization (PSO) presents a fast convergence in continuous problems, but it cannot maintain diversity along the search process. On the other hand, Artificial Bee Colony (ABC) presents the capability to generate diversity when the guide bees are in the exploration mode. We propose in this paper to introduce a mechanism based on the ABC to generate diversity in an adaptive PSO approach and analyze its performance in high dimensional search spaces. The swarm switches its behavior depending on the dispersion of the swarm. We evaluated our proposal in a well known set of 20 benchmark functions recently proposed in 2010
+and our proposal achieved better performance than PSO, APSO and ABC in most of the cases.
+
+\
+
+\
+\textbf{Title:} A Mechanism based on Artificial Bee Colony to Generate Diversity in Particle Swarm Optimization.
+
+\textbf{Authors:} L. N. Vitorino, S. F. Ribeiro and C. J. A. Bastos-Filho.
+
+\textbf{Published in:} The 3rd International Congress on Swarm Intelligence, 2012.
+
+\textbf{Abstract:} Particle Swarm Optimization (PSO) presents a fast convergence in continuous problems, but it cannot maintain diversity along the entire search process. On the other hand, Artificial Bee Colony (ABC) presents the capability to generate diversity when the guide bees are in the exploration mode. We propose in this paper to introduce a mechanism based on the ABC to generate diversity when the PSO stagnates. The swarm entities switches between two pre-defined behaviors depending on the evolutionary state. We used the Adaptive PSO variation since it presents better adaptation capabilities and it also has a mechanism to evaluate the evolutionary state. We evaluated our proposal for all benchmark functions recently proposed for large scale optimization in CEC2010 and our proposal achieved better performance in most of the cases.
+
+
+\textbf{Observation:} This paper was selected to Special Issue entitled "Swarm Intelligence for Neural Networks" (Special Issue: SINN 2012) in Neurocomputing (famous SCI-indexed Journal, IF=1.429).
+\
+
+\
+
+
+
+\pagebreak

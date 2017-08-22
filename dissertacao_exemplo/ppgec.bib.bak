@@ -1,0 +1,676 @@
+% This file was created with JabRef 2.6.
+% Encoding: Cp1252
+
+@ARTICLE{eps08,
+  author = {Joshua M. Epstein},
+  title = {Why Model?},
+  journal = {Journal of Artificial Societies and Social Simulation},
+  year = {2008},
+  volume = {11},
+  number = {4 12}
+}
+@book{Fuzzy:Ziimermann2001,
+    author    = {H.-J. Zimmermann},
+    title     = {Fuzzy Set Theory and its Applications},
+    year      = {2001},
+    pages     = {544},
+    publisher = {Springer}
+}
+
+@book{GA:Mitchell1998,
+    author    = {M. Mitchell},
+    title     = {An Introduction to Genetic Algorithms},
+    year      = {1998},
+    pages     = {221},
+    publisher = {The MIT Press}
+}
+
+@book{NN:Rumelhart1987,
+    author    = {D. E. Rumelhart and J. L. McClelland},
+    title     = {Parallel Distributed Processing: Explorations in the Microstructure of Cognition},
+    year      = {1987},
+    pages     = {1190},
+    publisher = {The MIT Press}
+}
+
+
+@ARTICLE{GA:Guo2008,
+  author = {P. Guo and X. Wang and Y. Han},
+  title = {The Enhanced Genetic Algorithms for the Optimization Design},
+  journal = {3rd International Conference on Biomedical Engineering and Informatics (BMEI)},
+  year = {2010},
+  volume = {7},
+  pages = {2990--2994}
+}
+
+@book{DE:Prince2005,
+    author    = {K. Prince and R. M. Storn and J. A. Lampinen},
+    title     = {Differential Evolution: A Pratical Approach to Global Optimization},
+    year      = {2005},
+    pages     = {538},
+    publisher = {Springer}
+}
+
+@ARTICLE{DE:Gao2010,
+  author = {L. Gao-yang and L. Ming-guang},
+  title = {The Summary of Differential Evolution Algorithm and its Improvements},
+  journal = {3rd International Conference on Advanced Computer Theory and Engineering (ICACTE)},
+  year = {2010},
+  volume = {3},
+  pages = {153--156}
+}
+
+@book{ES:Beyer2001a,
+    author    = {H. Beyer},
+    title     = {The Theory of Evolution Strategies},
+    year      = {2001},
+    pages     = {381},
+    publisher = {Springer}
+}
+
+@book{ES:Beyer2001b,
+    author    = {H. Beyer and H. Schwefel},
+    title     = {Evolution Strategies - A comprehensive introduction},
+    year      = {2002},
+    pages     = {3--52},
+    publisher = {Springer}
+}
+
+@book{Opt,
+    author    = {X. S. Yang},
+    title     = {Introduction to Mathematichal Optimization: from Linear Programming to Metaheuristics},
+    year      = {2008},
+    pages     = {160},
+    publisher = {Cambridge International Science Publishing}
+}
+
+@ARTICLE{SI:Beni1989,
+  author  = {G. Beni and J. Wang},
+  title   = {Swarm Intelligence in Cellular Robotic Systems},
+  journal = {Proceedings of NATO Advanced Workshop on Robots and Biological Systems},
+  year    = {1989},
+  volume  = {102},
+  pages   = {703--704}
+}
+
+@ARTICLE{SI:Serapiao2009,
+  author = { [In Portuguese] A. B. S. Serapiao},
+  title = {Fundamentos de Otimizacao por Inteligencia de Enxames: uma visao geral},
+  journal = {SBA: Controle \& Automacao Sociedade Brasileira de Automatica},
+  year = {2009},
+  volume = {20},
+  pages = {271--304},
+  issue = {3},
+}
+
+@ARTICLE{SI:Houle2010,
+  author  = {M. E. Houle and H. Kriegel and P. Kroger and E. Schubert and A. Zimek},
+  title   = {Can Shared-Neighbor Distances Defeat the Curse of Dimensionality?},
+  journal = {Proceedings of the 22nd International Conference on Scientific and Statistical Database Management},
+  year    = {2010},
+  pages   = {482--500}
+}
+
+@book{SI:Powell2007,
+    author    = {W. B. Powell},
+    title     = {Approximate Dynamic Programming: Solving the Curses of Dimensionality},
+    year      = {2007},
+    pages     = {460},
+    publisher = {John Wiley \& Sons},
+    address   = {Hoboken, New Jersey}
+}
+
+@ARTICLE{SI:Radovanovic2010,
+  author  = {M. Radovanovic and A. Nanopoulos and M. Ivanovic},
+  title   = {Hubs in Space: Popular Nearest Neighbors in High-Dimensional Data},
+  journal = {Journal of Machine Learning Research 11},
+  year    = {2010},
+  pages   = {2487--2531}
+}
+
+@TECHREPORT{SI:Wolpert1995,
+  author      = {D. H. Wolpert and W. G. Macready},
+  title       = {No Free Lunch Theorems for Search},
+  journal     = {Technical Report SFI-TR-95-02-010},
+  year        = {1995},
+  institution = {Santa Fe Institute},
+}
+
+@ARTICLE{SI:Wolpert1997,
+  author  = {D. H. Wolpert and W. G. Macready},
+  title   = {No Free Lunch Theorems for Optimization},
+  journal = {IEEE Transactions on Evolutionary Computation},
+  year    = {1997},
+  volume  = {1},
+  pages   = {67--82},
+  issue   = {1},
+}
+
+@ARTICLE{SI:Droste2002,
+  author  = {S. Droste and T. Jansen and I. Wegener},
+  title   = {Optimization with Randomized Search Heuristics - the (A)NFL Theorem, Realistic Scenarios and Difficult Functions},
+  journal = {Theoretical Computer Science},
+  year    = {2002},
+  volume  = {287},
+  pages   = {131--144},
+  issue   = {1},
+}
+
+@MISC{SI:Bee2012,
+  author =       {The Ecologist},
+  title =        {Heavy bee colony losses in US could lead to price rise},
+  howpublished = {\url{http://www.theecologist.org/News/news_round_up/477710/heavy_bee_colony_losses_in_us_could_lead_to_price_rise.html}},
+  year =         {2012},
+  month =        {May},
+  note =         {Online; Accessed: 05/15/2012}
+}
+
+@MISC{SI:Fish2012,
+  author =       {R. Campbell},
+  title =        {AquariumPros, Inc. Minnesota - Aquarium Maintenance Service and Sales},
+  howpublished = {\url{http://aquariumprosmn.com/tag/saltwater/page/2/}},
+  year =         {2012},
+  month =        {May},
+  note =         {Online; Accessed: 05/15/2012}
+}
+
+@MISC{SI:Bird2012,
+  author =       {Y. Sigurdardottir},
+  title =        {Murder is Everywhere - seven renowned crime writers blog from different corners of the world},
+  howpublished = {\url{http://http://murderiseverywhere.blogspot.com.br/2011/01/coincidence.html}},
+  year =         {2012},
+  month =        {May},
+  note =         {Online; Accessed: 05/15/2012}
+}
+
+
+@book{PSO:Kennedy,
+    author    = {J. Kennedy and R. Eberhart and Y. Shi},
+    title     = {Swarm Intelligence},
+    year      = {2001},
+    pages     = {512},
+    publisher = {Morgan Kaufmann},
+    address   = {340 Pine Street, Sixth Floor, San Francisco, CA, USA}
+}
+
+@inproceedings{PSO:Eberhart1995,
+    author = {R. Eberhart and J. Kennedy},
+    title = {Particle Swarm Optimization},
+    booktitle = {Proceedings of IEEE International Conference on Neural Networks},
+    publisher = {IEEE Service Center},
+    pages = {1942--1948},
+    year = {1995}
+}
+
+@ARTICLE{PSO:Eberhart1995a,
+  author = {R. Eberhart and J. Kennedy},
+  title = {A new optimizer using particle swarm theory},
+  journal = {MHS'95. Proceedings of the Sixth International Symposium on Micro Machine and Human Science},
+  year = {1995},
+  pages = {39--43},
+  publisher = {IEEE},
+}
+
+@ARTICLE{PSO:Clerc2002,
+  author = {M. Clerc and J. Kennedy},
+  title = {The Particle Swarm-explosion, Stability, and Convergence in a Multidimensional Complex Space},
+  journal = {IEEE Transactions on Evolutionary Computation},
+  year = {2002},
+  volume = {6},
+  number = {1},
+  pages = {58--73},
+  publisher = {IEEE},
+}
+
+@ARTICLE{PSO:Clerc99,
+  author = {M. Clerc},
+  title = {The swarm and the queen: towards a deterministic and adaptive particle swarm optimization},
+  journal = {Proceedings of the 1999 Congress on Evolutionary Computation, CEC'99},
+  year = {1999},
+  volume = {3},
+  publisher = {IEEE},
+}
+
+@ARTICLE{PSO:Schoene,
+  author = {T. Schoene and S. A. Ludwig and R. J. Spiteri},
+  title = {Step-Optimized Particle Swarm Optimization},
+  journal = {Proceedings of the 2012 Congress on Evolutionary Computation, CEC'12},
+  year = {2012},
+  pages = {654--662},
+  publisher = {IEEE},
+}
+
+@ARTICLE{PSO:KennedyA,
+  author = {J. Kennedy and R. Mendes},
+  title = {Population Structure and Particle Swarm Performance},
+  journal = {Proceedings of the 2002 Congress on Evolutionary Computation, CEC'02},
+  year = {2002},
+  pages = {1671--1676},
+  publisher = {IEEE},
+}
+
+@ARTICLE{PSO:KennedyB,
+  author = {J. Kennedy and R. Mendes},
+  title = {Neighborhood Topologies in Fully-Informed and Best-Of-Neighborhood Particle Swarms},
+  journal = {IEEE Transactions on Systems, Man and Cybernetics, Part C: Applications and Reviews},
+  year = {2006},
+  pages = {515--519},
+  publisher = {IEEE},
+}
+
+@ARTICLE{PSO:Shi,
+  author    = {Y. Shi and R. Eberhart},
+  title     = {A Modified Particle Swarm Optimizer},
+  journal   = {Proceedings of 1998 IEEE International Conference Evolutionary Computation},
+  year      = {1998},
+  publisher = {IEEE},
+  pages     = {69--73},
+}
+
+@ARTICLE{PSO:Lian2006,
+  author    = {Z. Lian and B. Jiao and X. Gu},
+  title     = {A Similar Particel Swarm Optimization Algorithm for Jo-shop Scheduling to Minimize Makespan},
+  journal   = {Applied Mathematics and Computation},
+  year      = {2006},
+  volume    = {183},
+  pages     = {1008--1017},
+  issue     = {2},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{PSO:Lu2002,
+  author    = {W. Z. Lu and H. Y. Fan and A. Y. T. Leung and J. C. K. Wong},
+  title     = {Analysis of Pollutant Levels in Central Hong Kong Applying Neural Network Method with Particle Swarm Optimization},
+  journal   = {Environmental Monitoring and Assessment},
+  year      = {2002},
+  volume    = {79},
+  pages     = {217--230},
+  number    = {3},
+  publisher = {Springer}
+}
+
+@ARTICLE{PSO:,
+  author    = {D. Bratton and J. Kennedy},
+  title     = {Defining a Standard for Particle Swarm Optimization},
+  journal   = {IEEE Swarm Intelligence Symposium (SIS'2007)},
+  year      = {2007},
+  pages     = {120--127}
+}
+
+@ARTICLE{PSO:Wachowiak2004,
+  author = {M. P. Wachowiak and R. Smol{\'\i}kov{\'a} and Y. Zheng and J. M. Zurada and A. S. Elmaghraby},
+  title = {{An approach to multimodal biomedical image registration utilizing particle swarm optimization}},
+  journal = {IEEE Transactions on Evolutionary Computation},
+  year = {2004},
+  volume = {8},
+  pages = {289--301},
+  number = {3},
+  publisher = {IEEE}
+}
+
+
+@ARTICLE{ClanPSO:Carvalho2008,
+  author    = {D. F. Carvalho and C. J. A. Bastos-Filho},
+  title     = {Clan Particle Swarm Optimization},
+  journal   = {IEEE Congress on Evolutionary Computation, 2008},
+  year      = {2008},
+  publisher = {IEEE},
+  pages     = {3044--3051},
+}
+
+@ARTICLE{ClanPSO:Carvalho2009,
+  author    = {C. J. A. Bastos-Filho and D. F. Carvalho and E. M. N. Figueiredo and P. B. C. de Miranda},
+  title     = {Dynamic Clan Particle Swarm Optimization},
+  journal   = {2009 Ninth International Conference on Intelligent Systems Design and Applications},
+  year      = {2009},
+  publisher = {IEEE},
+  pages     = {249--254},
+}
+
+@ARTICLE{ClanAPSO:Pontes2011,
+    author    = {M. R. Pontes and F. B. Lima-Neto and C. J. A. Bastos-Filho},
+    title     = {Adaptive Clan Particle Swarm Optimization},
+    journal   = {Proceedings of IEEE Swarm Intelligence Symposium},
+    year      = {2011},
+    pages     = {17--22},
+    publisher = {IEEE Computer Society}
+}
+
+@ARTICLE{ClanAPSO:Vitorino2011,
+    author    = {L. N. Vitorino and S. F. Ribeiro and C. J. A. Bastos-Filho},
+    title     = {A Cooperative Approach using Particle Swarm Optimization with Adaptive Behavior},
+    journal   = {10th Brazilian Congress on Computational Intelligence (CBIC'2011)},
+    year      = {2011},
+    pages     = {1--8},
+    publisher = {Brazilian Society on Computational Intelligence (SBIC)}
+}
+
+@ARTICLE{MultiPSO:Bastos2008,
+    author    = {C. J. A. Bastos-Filho and M. P. Caraciolo and P. B. C. Miranda and D. F. Carvalho},
+    title     = {Multi-ring Particle Swarm Optimization},
+    journal   = {Proceedings of the 10th Brazilian Symposium on Neural Networks},
+    year      = {2008},
+    pages     = {111--116},
+    publisher = {IEEE Computer Society Washington, DC, USA}
+}
+
+@TECHREPORT{ABC:Karaboga2005,
+  author = {D. Karaboga},
+  title = {An idea based on honey bee swarm for numerical optimization},
+  journal = {Tech Report TR06 Erciyes Univ Press Erciyes},
+  year = {2005},
+  institution = {Erciyes University, Engineering Faculty, Computer Engineering Department},
+}
+
+@article{ABC:Karaboga2006,
+    author = {B. Basturk and D. Karaboga},
+    title = {An artificial bee colony (ABC) algorithm for numeric function optimization},
+    journal = {IEEE Swarm Intelligence Symposium},
+    pages = {12--14},
+    year = {2006}
+}
+
+@ARTICLE{ABC:Karaboga2007,
+  author = {D. Karaboga and B. Akay},
+  title = {A powerful and efficient algorithm for numerical function optimization: Artificial Bee Colony (ABC) algorithm},
+  journal = {Journal of Global Optimization},
+  year = {2007},
+  volume = {39},
+  pages = {459--471},
+  issue = {13},
+  publisher = {The Association for Computing Machinery - ACM},
+}
+
+
+@ARTICLE{ABC:Karaboga2009a,
+  author = {D. Karaboga and B. Akay},
+  title = {A compartive study of Artificial Bee Colony algorithm},
+  journal = {Applied Mathematics and Computation - AMC},
+  year = {2009},
+  volume = {214},
+  pages = {108--132},
+  issue = {1},
+  publisher = {Elsevier},
+}
+
+@INBOOK{ABC:Karaboga2009b,
+  AUTHOR =       {D. Karaboga and B. Akay},
+  TITLE =        {A survey: algorithms simulating bee swarm intelligence},
+  pages =        {61--85},
+  PUBLISHER =    {Springer},
+  YEAR =         {2009},
+  volume =       {31},
+  issue =       {4},
+  booktitle =    {Artificial Intelligence Review},
+}
+
+@ARTICLE{ABC:Ziarati2011,
+  author  = {K. Ziarati and R. Akbari and V. Zeighami},
+  title   = {On the Performance of Bee Algorithms for Resource-Constrained Project Scheduling Problem},
+  journal = {Applied Soft Computing},
+  year    = {2011},
+  volume  = {11},
+  pages   = {3720--3733},
+  issue   = {4},
+}
+
+@ARTICLE{ABC:Murgan2012,
+  author  = {R. Murugan and M. R. Mohan},
+  title   = {Artificial Bee Colony Optimization for the Combined Heat and Power Economic Dispatch Problem},
+  journal = {ARPN Journal of Engineering and Applied Sciences},
+  year    = {2012},
+  volume  = {7},
+  pages   = {597--604},
+  number  = {5},
+}
+
+
+@inproceedings{BCO:Teodorovic2005,
+  author  = {D. Teodorovic and M. Dell'orco},
+  title   = {Bee Colony Optimization: A cooperative Learning Approch to Complex Transportation Problems},
+  booktitle = {Proceedings of the 16th Mini-EURO Conference on Advanced OR and AI Methods in Transportation},
+  pages = {51--60},
+  year = {2005}
+}
+
+@ARTICLE{BCO:Teodorovic2006,
+  author = {D. Teodorovic},
+  title = {Bee Colony Optimization: Principles and Applications},
+  journal = {8th Seminar on Neural Network Applications in Eletrical Engineering},
+  year = {2009},
+  pages = {151--156},
+  publisher = {IEEE},
+}
+
+@TECHREPORT{BA:Pham2005,
+  author = {D. T. Pham and A. Ghanbarzadeh and E. Ko and S. Otri and S. Rahim and M. Zaidi},
+  title = {The Bees Algorithm},
+  journal = {Techical Note},
+  year = {2005},
+  institution = {Manufacturing Engineering Center, Cardiff University, Cardiff CF24 3AA, UK},
+}
+
+@ARTICLE{BA:Pham2007,
+  author = {D. T. Pham and S. Otri and A. Afify and M. Mahmuddin and H. Al-Jabbouli},
+  title = {Data Clustering using The Bees Algorithm},
+  journal = {40th CIRP International Manufacturing Systems Seminar, Liverpool},
+  year = {2007},
+}
+
+@ARTICLE{BSO:Akbari2009,
+  author = {R. Akbari and A. Mohammadi and K. Ziarati},
+  title = {A powerful Bee Swarm Optimization Algorithm},
+  journal = {INMIC'09. IEEE 13th International Multitoptic Conference},
+  year = {2009},
+  pages = {1--6},
+  publisher = {IEEE},
+}
+
+@INPROCEEDINGS{BSO:Akbari2010,
+    author = {R. Akbari and A. Mohammadi and K. Ziarati},
+    title = {A novel bee swarm optimization algorithm for numerial function optimization},
+    booktitle = {Comunications in Nonlinear Science and Numerial Simulation},
+    year = {2010},
+    pages = {3142--3155},
+    volume = {15},
+    issue = {10},
+    publisher = {Elsevier}
+}
+
+@article{FSS:Bastos-Filho2008,
+    author = {C. J. A. Bastos-Filho and F. B. Lima-Neto and A. J. C. C. Lins and A. I. S. Nascimento and M. P. Lima},
+    title = {A novel Search Algorithm based on Fish School Behavior},
+    journal = {IEEE International Conference on Systems, Man, and Cybernetics},
+    pages = {2646--2651},
+    year = {2008}
+}
+
+@ARTICLE{FSS:BastosFilho2009,
+  author    = {C. J. A. Bastos-Filho and F. B. Lima Neto and M. F. C. Sousa and M. R. Pontes and S. S. Madeiro},
+  title     = {On the influence of the swimming operators in the Fish School Search algorithm},
+  journal   = {2009 IEEE International Conference on Systems, Man and Cybernetics},
+  year      = {2009},
+  publisher = {IEEE},
+  pages     = {5012--5017},
+}
+
+
+@INBOOK{FSS:Lins2012,
+  AUTHOR =       {A. J. C. C. Lins and C. J. A. Bastos-Filho and D. N. O. Nascimento and M. A. C. Oliveira Junior and F. B. Lima Neto},
+  TITLE =        {Analysis of Performance of the Fish School Search Algorithm Running in Graphic Processing Units},
+  pages =        {17--32},
+  YEAR =         {2012},
+  isbn =         {978-953-51-0364-6},
+  booktitle =    {InTech - Theory and New Applications of Swarm Intelligence},
+}
+
+@ARTICLE{FSA:Yazdani2012,
+  author    = {D. Yazdani and M. R. Akbarzadeh-Totonchi and B. Nasiri and M. R. Meybodi},
+  title     = {A New Artificial Fish Swarm Algorithm for Dynamic Optimiazation},
+  journal   = {Proceedings of the 2012 Congress on Evolutionary Computation, CEC'12},
+  year      = {2012},
+  publisher = {IEEE},
+  pages     = {472--479},
+}
+
+@INPROCEEDINGS{ACO:Dorigo1999,
+    author = {M. Dorigo and G. Di Caro},
+    title = {Ant Colony Optimization: A New Meta-Heuristic},
+    booktitle = {Proceedings of the Congress on Evolutionary Computation},
+    year = {1999},
+    pages = {1470--1477},
+    publisher = {IEEE Press}
+}
+
+@INPROCEEDINGS{ACO:Dorigo2005,
+    author = {M. Dorigo and C. Blum},
+    title = {Ant Colony Optimization Theory: A survey},
+    booktitle = {Theoretical Computer Science},
+    year = {2005},
+    pages = {243--278},
+    volume = {344},
+    issue = {2-3},
+    publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{ACS:Dorigo,
+    author = {M. Dorigo},
+    title = {Ant Colony System: a cooperative learning approach to the traveling salesman problem},
+    booktitle = {IEEE Transactions on Evolutionary Computation},
+    year = {1997},
+    pages = {53--66},
+    publisher = {IEEE}
+}
+
+@INPROCEEDINGS{MMAS:Kovarik,
+    author = {O. Kovarik and P. Kordik},
+    title = {Max-Min Ant System with Linear Memory Complexity},
+    booktitle = {Proceedings of the 2012 Congress on Evolutionary Computation, CEC'12},
+    year = {2012},
+    pages = {1469--1473},
+    publisher = {IEEE}
+}
+
+@ARTICLE{GSO:Krishnanand2009,
+    author = {K. N. Krishnanand and Debasish Ghose},
+    title = {Glowworm swarm optimization for simultaneous capture of multiple local optima of multimodal functions},
+    journal = {Swarm Intelligence},
+    pages = {87-124},
+    year = {2009},
+    publisher = {Springer}
+}
+
+@INPROCEEDINGS{FA:Yang2009,
+    author = {X.-S. Yang},
+    title = {Forefly Algorithms for Multimodal Optimization},
+    booktitle = {Proceedings of the 5th International Conference on Stochastic Algorithms: Foundations and Applications},
+    year = {2009},
+    pages = {169--178},
+    publisher = {Springer}
+}
+
+@ARTICLE{BFO:Das2009,
+    author = {S. Das and A. Biswas and S. Dasgupta and A. Abraham},
+    title = {Bacterial Forafing Optimization Algorithm: Theoretical Foundations, Analysis and Applications},
+    journal = {Studies in Computational Intelligence},
+    pages = {23--55},
+    year = {2009},
+    publisher = {Springer}
+}
+
+@article{BFA:Muller2002,
+    author = {S. D. Muller and J. Marchetto and S. Airaghi and P. Kournoutsakos},
+    title = {Optimization based on Bacterial Chemotaxis},
+    journal = {IEEE Transactions on Evolutionary Computation},
+    volume = {6},
+    issue = {1},
+    pages = {16--29},
+    year = {2002}
+}
+
+@article{APSO:Zhan2009,
+    author = {Z. Zhan and J. Zhang and Y. Li and H. Chung},
+    title = {Adaptive Particle Swarm Optimization},
+    journal = {IEEE Transactions on Systems, Man and Cybernetics, Part B: Cybernetics},
+    volume = {39},
+    number = {6},
+    pages = {1362--1381},
+    year = {2009}
+}
+
+@book{APSO:Su2011,
+    author    = {T. J. Su and M. Y. Huang and Y. J. Sun},
+    title     = {An Adaptive Particle Swarm Optimization for the Coverage of Wireless Sensor Network},
+    year      = {2011},
+    volume    = {218},
+    pages     = {386--391},
+    publisher = {Communications in Computer and Information Science @Springer-Verlag},
+    address   = {Berlin Heidelberg}
+}
+
+@TechReport{CEC:Tang2010,
+  author      = {K. Tang and X. Li and P. N. Suganthan and Z. Yang and T. Weise},
+  title       = {Benchmark Functions of the CEC'2010 Special Session and Competition on Large Scale Global Optimization},
+  institution = {University of Science and Technology of China (USTC), School of Computer Science and Technology, Nature Inspired Computation and Applications Laboratory (NICAL): China},
+  year        = {2010}
+}
+
+@TechReport{CEC:Suganthan2005,
+  author      = {P. N. Suganthan and N. Hansen, J. J. Liang and K. Deb and Y.-P. Chen and A. Auger and S. Tiwari},
+  title       = {Problem Definitions and Evaluation Criteria for the CEC 2005 Special Session on Real-Parameter Optimization},
+  institution = {Nanyang Technological University (NTU), Singapore},
+  year        = {2005}
+}
+
+@MASTERSTHESIS{DOSS:Castro2010,
+  AUTHOR =       {[In Portuguese] R. M. C. de S. Castro},
+  TITLE =        {Uma Ferramenta Computacional para Analise de Algoritmos de Otimizacao para Sistemas Dinamicos baseados em Inteligencia de Enxames},
+  SCHOOL =       {Escola Politecnica de Pernambuco - Universidade de Pernambuco (POLI - UPE)},
+  YEAR =         {2010}
+}
+
+@BOOK{DOSS:Java2005,
+  AUTHOR =       {K. Arnald and J. Gosling and D. Holmes},
+  TITLE =        {The Java Programming Language, Fourth Edition},
+  PUBLISHER =    {Addison Wesley Professional},
+  YEAR =         {2005}
+}
+
+
+@MISC{DOSS:Maven2011,
+  author =       {The Apache Software Foundation},
+  title =        {Maven - Welcome to Apache Maven},
+  howpublished = {\url{http://maven.apache.org}},
+  year =         {2011},
+  month =        {January},
+  note =         {Online; Accessed: 01/10/2011}
+}
+
+
+@MISC{DOSS:Eclipse2011,
+  author =       {The Eclipse Foundation},
+  title =        {Eclipse - The Eclipse Foundation open source community website},
+  howpublished = {\url{http://www.eclipse.org}},
+  year =         {2011},
+  month =        {January},
+  note =         {Online; Accessed: 01/10/2011}
+}
+
+
+@MISC{DOSS:Origin2011,
+  author =       {OriginLab Corporation},
+  title =        {OriginLab - Origin and OriginPro - Data Analysis and Graphing Software},
+  howpublished = {\url{http://www.originlab.com}},
+  year =         {2011},
+  month =        {January},
+  note =         {Online; Accessed: 01/10/2011}
+}
+
+@MISC{Wil:Lowry2011,
+  author =       {R. Lowry},
+  title =        {Concepts \& Applications of Inferential Statistics},
+  howpublished = {\url{http://vassarstats.net/textbook/}},
+  year =         {2011},
+  month =        {November},
+  note =         {Online; Accessed: 11/16/2011}
+}

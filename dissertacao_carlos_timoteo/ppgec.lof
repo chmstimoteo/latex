@@ -1,0 +1,31 @@
+\select@language {brazil}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Exemplo de Resultado da Simula\IeC {\c c}\IeC {\~a}o Monte Carlo.\relax }}{14}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Modelo de Regress\IeC {\~a}o em \IeC {\'A}rvore para o PERIL.\relax }}{17}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o gr\IeC {\'a}fica da MLP com tr\IeC {\^e}s camadas.\relax }}{20}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Vetores de Suporte e Hiperplano de Separa\IeC {\c c}\IeC {\~a}o \IeC {\'o}timo.\relax }}{22}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Vetores de Suporte e Hiperplano de Separa\IeC {\c c}\IeC {\~a}o \IeC {\'o}timo.\relax }}{27}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces (a) Um modelo \textit {fuzzy} de Sugeno de primeira ordem com duas entradas e duas regras; (b) arquitetura equivalente ANFIS.\relax }}{32}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Esquema de Sele\IeC {\c c}\IeC {\~a}o da Melhor Rede Neural Artificial.s\relax }}{35}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Fluxograma do estudo realizado.\relax }}{37}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Primeiras seis vari\IeC {\'a}veis de entrada.\relax }}{40}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \IeC {\'U}ltimas seis vari\IeC {\'a}veis de entrada.\relax }}{41}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Histograma do impacto e forma da fun\IeC {\c c}\IeC {\~a}o de distribui\IeC {\c c}\IeC {\~a}o de ajuste.\relax }}{42}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Um modelo MLP utilizado no estudo.\relax }}{44}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \textit {Boxplots} para erros normalizados dos modelos de regress\IeC {\~a}o linear, em que MRLM \IeC {\'e} ``cv.lm.v1", $MRA_1$ \IeC {\'e} ``cv.rpart.v1", $MRA_2$ \IeC {\'e} ``cv.rpart.v2" e $MRA_3$ \IeC {\'e} ``cv.rpart.v3".\relax }}{53}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces \textit {Boxplots} para erros normalizados dos modelos de regress\IeC {\~a}o linear.\relax }}{54}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces \textit {Boxplots} para erros normalizados de v\IeC {\'a}rias MLPs.\relax }}{55}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \textit {Boxplots} para os erros normalizados das RNAs.\relax }}{57}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Gr\IeC {\'a}fico de converg\IeC {\^e}ncia do ANFIS.\relax }}{58}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces \textit {Boxplots} para previs\IeC {\~o}es de impacto esperados e calculados para SVM.\relax }}{58}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Amostras de previs\IeC {\~o}es de impacto esperado e calculado para SVM.\relax }}{59}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces \textit {Boxplots} para previs\IeC {\~o}es de impactos desejados e calculados para RBF.\relax }}{59}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Amostras de previs\IeC {\~o}es de impactos desejados e calculados para RBF.\relax }}{60}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces \textit {Boxplots} para previs\IeC {\~o}es de impacto esperados e calculados para MLPRegressor.\relax }}{60}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Amostras de previs\IeC {\~o}es de impacto esperado e calculado para MLPRegressor.\relax }}{61}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces \textit {Boxplots} dos erros normalizados para as t\IeC {\'e}cnicas de valida\IeC {\c c}\IeC {\~a}o.\relax }}{62}
+\addvspace {10\p@ }

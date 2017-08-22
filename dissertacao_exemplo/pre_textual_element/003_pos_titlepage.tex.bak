@@ -1,0 +1,37 @@
+\begin{titlepage}
+%    \begin{figure}[ht]
+%    \mbox{\includegraphics[scale=0.4]{image/poli_logo.jpg}}\hfill
+%    \mbox{\includegraphics[scale=0.4]{image/upe_logo.jpg}}
+%  \end{figure}
+  \begin{center}
+	%\includegraphics[scale=0.2]{image/UPE_brasao}\\
+	\textbf{University de Pernambuco}\\
+	\textbf{Polytechnic School of Pernambuco}\\
+    \textbf{Postgraduate Program in Computing Engineering}\\[3cm]
+
+    Lumadaiara do Nascimento Vitorino\\[2cm]
+{
+\Large
+    \textbf{An Operator based on Artificial Bees to Generate Diversity for Particle Swarm Optimization}\\[2cm]
+}
+    Master's Dissertation\\
+  \end{center}
+
+  \begin{flushright}
+  
+    Dissertation presented to Postgraduate\\
+    Program in Computing Engineering as\\
+    a partial requirement for obtaining the\\
+    Degree of Master of Science in Computer\\
+    Engineering.\\[2cm]
+    Supervisor: Prof. DSc. Carmelo José Albanez Bastos Filho\\
+    
+  \end{flushright}
+
+\begin{center}
+  {\color{white} xx}\vfill
+  Recife, July de 2012
+\end{center}
+
+\end{titlepage}
+

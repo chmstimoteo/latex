@@ -1,0 +1,194 @@
+\begin{thebibliography}{}
+
+\bibitem[Amari et~al., 1996a]{amari1996statistical}
+Amari, S., Murata, N., M{\"u}ller, K.-R., Finke, M., and Yang, H. (1996a).
+\newblock Statistical theory of overtraining-is cross-validation asymptotically
+  effective?
+\newblock {\em Advances in neural information processing systems}, pages
+  176--182.
+
+\bibitem[Amari et~al., 1996b]{amari1996new}
+Amari, S.-i., Cichocki, A., Yang, H.~H., et~al. (1996b).
+\newblock A new learning algorithm for blind signal separation.
+\newblock {\em Advances in neural information processing systems}, pages
+  757--763.
+
+\bibitem[Attarzadeh and Ow, 2010]{attarzadeh2010novel}
+Attarzadeh, I. and Ow, S.~H. (2010).
+\newblock A novel soft computing model to increase the accuracy of software
+  development cost estimation.
+\newblock In {\em Computer and Automation Engineering (ICCAE), 2010 The 2nd
+  International Conference on}, volume~3, pages 603--607. IEEE.
+
+\bibitem[Bannerman, 2008]{bannerman2008risk}
+Bannerman, P.~L. (2008).
+\newblock Risk and risk management in software projects: A reassessment.
+\newblock {\em Journal of Systems and Software}, 81(12):2118--2133.
+
+\bibitem[Boehm, 1991]{BOEHM1991}
+Boehm, B.~W. (1991).
+\newblock Software risk management: principle and practices.
+\newblock {\em IEEE Software}, 8:32--41.
+
+\bibitem[Budzier and Flyvbjerg, 2013]{budzier2013double}
+Budzier, A. and Flyvbjerg, B. (2013).
+\newblock Double whammy-how ict projects are fooled by randomness and screwed
+  by political intent.
+\newblock {\em arXiv preprint arXiv:1304.4590}.
+
+\bibitem[Dan, 2013]{dan2013improving}
+Dan, Z. (2013).
+\newblock Improving the accuracy in software effort estimation: Using
+  artificial neural network model based on particle swarm optimization.
+\newblock In {\em Service Operations and Logistics, and Informatics (SOLI),
+  2013 IEEE International Conference on}, pages 180--185. IEEE.
+
+\bibitem[Dzega and Pietruszkiewicz, 2010]{dzega2010classification}
+Dzega, D. and Pietruszkiewicz, W. (2010).
+\newblock Classification and metaclassification in large scale data mining
+  application for estimation of software projects.
+\newblock In {\em Cybernetic Intelligent Systems (CIS), 2010 IEEE 9th
+  International Conference on}, pages 1--6. IEEE.
+
+\bibitem[Haimes, 2011]{haimes2011risk}
+Haimes, Y.~Y. (2011).
+\newblock {\em Risk modeling, assessment, and management}.
+\newblock John Wiley \& Sons.
+
+\bibitem[Hall et~al., 2009]{hall2009weka}
+Hall, M., Frank, E., Holmes, G., Pfahringer, B., Reutemann, P., and Witten,
+  I.~H. (2009).
+\newblock The weka data mining software: an update.
+\newblock {\em ACM SIGKDD Explorations Newsletter}, 11(1):10--18.
+
+\bibitem[Han et~al., 2006]{han2006data}
+Han, J., Kamber, M., and Pei, J. (2006).
+\newblock {\em Data mining: concepts and techniques}.
+\newblock Morgan kaufmann.
+
+\bibitem[Haykin, 1994]{haykin1994neural}
+Haykin, S. (1994).
+\newblock {\em Neural networks: a comprehensive foundation}.
+\newblock Prentice Hall PTR.
+
+\bibitem[Higuera and Haimes, 1996]{higuera1996software}
+Higuera, R.~P. and Haimes, Y.~Y. (1996).
+\newblock Software risk management.
+\newblock Technical report, DTIC Document.
+
+\bibitem[Hu et~al., 2007]{hu2007software}
+Hu, Y., Huang, J., Chen, J., Liu, M., and Xie, K. (2007).
+\newblock Software project risk management modeling with neural network and
+  support vector machine approaches.
+\newblock In {\em Natural Computation, 2007. ICNC 2007. Third International
+  Conference on}, volume~3, pages 358--362. IEEE.
+
+\bibitem[Huang et~al., 2004]{huang2004neuro}
+Huang, X., Ho, D., Ren, J., and Capretz, L.~F. (2004).
+\newblock A neuro-fuzzy tool for software estimation.
+\newblock In {\em Software Maintenance, 2004. Proceedings. 20th IEEE
+  International Conference on}, page 520. IEEE.
+
+\bibitem[Institute, 2008]{PMBOK2008}
+Institute, P.~M. (2008).
+\newblock {\em A Guide to the Project Management Body of Knowledge}.
+
+\bibitem[Kendrick, 2003]{kendrick2003identifying}
+Kendrick, T. (2003).
+\newblock {\em Identifying and managing project risk: essential tools for
+  failure-proofing your project}.
+\newblock Amacom: New York.
+
+\bibitem[Kwak and Stoddard, 2004]{kwak2004project}
+Kwak, Y. and Stoddard, J. (2004).
+\newblock Project risk management: lessons learned from software development
+  environment.
+\newblock {\em Technovation}, 24(11):915--920.
+
+\bibitem[Kwak and Ibbs, 2000]{kwak2000calculating}
+Kwak, Y.~H. and Ibbs, C.~W. (2000).
+\newblock Calculating project management's return on investment.
+\newblock {\em Project Management Journal}, 31(2):38--47.
+
+\bibitem[Kwak and Ingall, 2007]{kwak2007exploring}
+Kwak, Y.~H. and Ingall, L. (2007).
+\newblock Exploring monte carlo simulation applications for project management.
+\newblock {\em Risk Management}, 9(1):44--57.
+
+\bibitem[Lazzerini and Mkrtchyan, 2011]{lazzerini2011analyzing}
+Lazzerini, B. and Mkrtchyan, L. (2011).
+\newblock Analyzing risk impact factors using extended fuzzy cognitive maps.
+\newblock {\em Systems Journal, IEEE}, 5(2):288--297.
+
+\bibitem[Lin, 1996]{linlee1996neuralfuzzy}
+Lin, C.T., L.~C. (1996).
+\newblock Neural fuzzy systems: A neuro-fuzzy synergism to intelligent systems.
+
+\bibitem[Priddy and Keller, 2005]{priddy2005artificial}
+Priddy, K.~L. and Keller, P.~E. (2005).
+\newblock {\em Artificial Neural Networks: An introduction}, volume~68.
+\newblock SPIE Press.
+
+\bibitem[Rumelhart et~al., 1985]{rumelhart1985learning}
+Rumelhart, D.~E., Hinton, G.~E., and Williams, R.~J. (1985).
+\newblock Learning internal representations by error propagation.
+\newblock Technical report, DTIC Document.
+
+\bibitem[Saxena and Singh, 2012]{saxena2012software}
+Saxena, U.~R. and Singh, S. (2012).
+\newblock Software effort estimation using neuro-fuzzy approach.
+\newblock In {\em Software Engineering (CONSEG), 2012 CSI Sixth International
+  Conference on}, pages 1--6. IEEE.
+
+\bibitem[Schmidt et~al., 2001]{schmidt2001identifying}
+Schmidt, R., Lyytinen, K., Keil, M., and Cule, P. (2001).
+\newblock Identifying software project risks: an international delphi study.
+\newblock {\em Journal of management information systems}, 17(4):5--36.
+
+\bibitem[Shevade et~al., 1999]{Shevade1999}
+Shevade, S., Keerthi, S., Bhattacharyya, C., and Murthy, K. (1999).
+\newblock Improvements to the smo algorithm for svm regression.
+\newblock In {\em IEEE Transactions on Neural Networks}.
+
+\bibitem[Siegel, 1956]{siegel1956nonparametric}
+Siegel, S. (1956).
+\newblock Nonparametric statistics for the behavioral sciences.
+
+\bibitem[Smola and Schoelkopf, 1998]{Smola1998}
+Smola, A. and Schoelkopf, B. (1998).
+\newblock A tutorial on support vector regression.
+\newblock Technical report.
+\newblock NeuroCOLT2 Technical Report NC2-TR-1998-030.
+
+\bibitem[Support, 2005]{Ibbotson2005}
+Support, I.~P. (2005).
+\newblock {\em Monte Carlo Simulation}.
+\newblock IbbotsonAssociates, 225 North Michigan Avenue Suite 700 Chicago, IL
+  60601-7676.
+
+\bibitem[Taleb, 2001]{taleb2001fooled}
+Taleb, N. (2001).
+\newblock {\em Fooled by randomness}.
+\newblock Nwe York: Random House.
+
+\bibitem[Torgo, 2003]{torgo2003data}
+Torgo, L. (2003).
+\newblock Data mining with r.
+\newblock {\em Learning by case studies. University of Porto, LIACC-FEP. URL:
+  http://www. liacc. up. pt/ltorgo/DataMiningWithR/. Accessed on}, 7(09).
+
+\bibitem[Valenca, 2005]{valenca2005aplicando}
+Valenca, M. J.~S. (2005).
+\newblock Aplicando redes neurais: um guia completo.
+\newblock {\em Livro Rapido, Olinda--PE}.
+
+\bibitem[Venables et~al., 2002]{venables2002introduction}
+Venables, W.~N., Smith, D.~M., and Team, R. D.~C. (2002).
+\newblock An introduction to r.
+
+\bibitem[Yu, 2011]{yu2011software}
+Yu, P. (2011).
+\newblock Software project risk assessment model based on fuzzy theory.
+\newblock {\em Computer Knowledge and Technology}, 16:049.
+
+\end{thebibliography}

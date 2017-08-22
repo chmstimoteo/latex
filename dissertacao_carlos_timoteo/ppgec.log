@@ -1,0 +1,1655 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.10)  15 OCT 2014 10:58
+entering extended mode
+**ppgec.tex
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\upethesis.cls
+Document Class: upethesis 2011/02/24 v0.1 Marcos' modified report class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen103
+\extrarowheight=\dimen104
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen105
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip45
+\L@UnitsRaiseTextstyle=\skip46
+\L@UnitsRaiseScriptstyle=\skip47
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen108
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen109
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks22
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\units\units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip60
+\subfigcapskip=\skip61
+\subfigcaptopadj=\dimen117
+\subfigbottomskip=\skip62
+\subfigcapmargin=\dimen118
+\subfiglabelskip=\skip63
+\c@subfigure=\count101
+\c@lofdepth=\count102
+\c@subtable=\count103
+\c@lotdepth=\count104
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip64
+\subfig@bottom=\skip65
+) (C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count105
+\lst@gtempboxa=\box28
+\lst@token=\toks24
+\lst@length=\count106
+\lst@currlwidth=\dimen119
+\lst@column=\count107
+\lst@pos=\count108
+\lst@lostspace=\dimen120
+\lst@width=\dimen121
+\lst@newlines=\count109
+\lst@lineno=\count110
+\lst@maxwidth=\dimen122
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count111
+\lst@skipnumbers=\count112
+\lst@framebox=\box29
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+\TX@col@width=\dimen123
+\TX@old@table=\dimen124
+\TX@old@col=\dimen125
+\TX@target=\dimen126
+\TX@delta=\dimen127
+\TX@cols=\count113
+\TX@ftn=\toks25
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks26
+\minrowclearance=\skip66
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count114
+\Gm@cntv=\count115
+\c@Gm@tempcnt=\count116
+\Gm@bindingoffset=\dimen128
+\Gm@wd@mp=\dimen129
+\Gm@odd@mp=\dimen130
+\Gm@even@mp=\dimen131
+\Gm@layoutwidth=\dimen132
+\Gm@layoutheight=\dimen133
+\Gm@layouthoffset=\dimen134
+\Gm@layoutvoffset=\dimen135
+\Gm@dimlist=\toks27
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithm2e\algorithm2e.s
+ty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count117
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip67
+\skiplinenumber=\skip68
+\skiprule=\skip69
+\skiphlne=\skip70
+\skiptext=\skip71
+\skiplength=\skip72
+\algomargin=\skip73
+\skipalgocfslide=\skip74
+\algowidth=\dimen136
+\inoutsize=\dimen137
+\inoutindent=\dimen138
+\interspacetitleruled=\dimen139
+\interspacealgoruled=\dimen140
+\interspacetitleboxruled=\dimen141
+\algocf@inoutbox=\box30
+\algocf@inputbox=\box31
+\AlCapSkip=\skip75
+\AlCapHSkip=\skip76
+\algoskipindent=\skip77
+\algocf@nlbox=\box32
+\algocf@hangingbox=\box33
+\algocf@untilbox=\box34
+\algocf@skipuntil=\skip78
+\algocf@capbox=\box35
+\algoheightruledefault=\skip79
+\algoheightrule=\skip80
+\algotitleheightruledefault=\skip81
+\algotitleheightrule=\skip82
+\c@algocfline=\count118
+\c@algocfproc=\count119
+\c@algocf=\count120
+\algocf@algoframe=\box36
+\algocf@algobox=\box37
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+)
+\c@ContinuedFloat=\count121
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count122
+\U@D=\dimen149
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+Package color Info: Redefining color white on input line 29.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pslatex\pslatex.sty"
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+\XKV@depth=\count123
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox\collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box38
+)
+\tc@llx=\dimen150
+\tc@lly=\dimen151
+\tc@urx=\dimen152
+\tc@ury=\dimen153
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen154
+\adjbox@Height=\dimen155
+\adjbox@Depth=\dimen156
+\adjbox@Totalheight=\dimen157
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count124
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box39
+\sift@deathcycles=\count125
+\@vwid@loff=\dimen158
+\@vwid@roff=\dimen159
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\blkarray\blkarray.sty
+\c@BAenumi=\count126
+\BA@col=\count127
+\BA@block@cnt=\count128
+\BA@final@box=\box40
+\BA@colsep=\dimen160
+\BA@ftn=\toks31
+\BAextrarowheight=\dimen161
+\BAextraheightafterhline=\dimen162
+\BAarrayrulewidth=\dimen163
+\BAdoublerulesep=\dimen164
+\BAfootskip=\dimen165
+\BA@dashbox=\box41
+\BA@ddashbox=\box42
+)
+\c@Algorithm=\count129
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+\rownum=\count130
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.st
+y (C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon.tex
+\pgfutil@everybye=\toks32
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-l
+atex.def
+\pgfutil@abb=\box43
+ (C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.co
+de.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.st
+y
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.st
+y
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.
+code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfi
+ltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count131
+\c@pgf@countb=\count132
+\c@pgf@countc=\count133
+\c@pgf@countd=\count134
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
+pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
+common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyss
+oftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count135
+\pgfsyssoftpath@bigbuffer@items=\count136
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysp
+rotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.
+code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.co
+de.tex
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.co
+de.tex)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.
+code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count137
+\pgfmath@box=\box44
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.code.tex
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.basic.code.tex)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.trigonometric.code.tex)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.random.code.tex)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.comparison.code.tex)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.base.code.tex)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.round.code.tex)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.misc.code.tex)))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.c
+ode.tex
+\c@pgfmathroundto@lastzeros=\count138
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+oints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
+copes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box45
+\pgf@hbox=\box46
+\pgf@layerbox@main=\box47
+\pgf@picture@serial@count=\count139
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreg
+raphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen193
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
+ransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreq
+uick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreo
+bjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorea
+rrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
+hade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count140
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorei
+mage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoree
+xternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box48
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorel
+ayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
+ransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+atterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesh
+apes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box49
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulepl
+ot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
+-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
+-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.co
+de.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen200
+\pgffor@skip=\dimen201
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrar
+yplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count141
+\pgfplotmarksize=\dimen202
+)
+\tikz@lastx=\dimen203
+\tikz@lasty=\dimen204
+\tikz@lastxsaved=\dimen205
+\tikz@lastysaved=\dimen206
+\tikzleveldistance=\dimen207
+\tikzsiblingdistance=\dimen208
+\tikz@figbox=\box50
+\tikz@tempbox=\box51
+\tikztreelevel=\count142
+\tikznumberofchildren=\count143
+\tikznumberofcurrentchild=\count144
+\tikz@fig@count=\count145
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulema
+trix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count146
+\pgfmatrixcurrentcolumn=\count147
+\pgf@matrix@numberofcolumns=\count148
+)
+\tikz@expandcount=\count149
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+libraries\tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2008/06/21 v2.10 (rcs-revision 1.3)
+)
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 139.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 13
+9.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count150
+\scratchdimen=\dimen209
+\scratchbox=\box52
+\nofMPsegments=\count151
+\nofMParguments=\count152
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen210
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
+\everyMPtoPDFconversion=\toks42
+)
+\c@lstlisting=\count156
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(42.67912pt, 700.96107pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=650.0pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-66.59087pt
+* \headheight=80.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/001_all_i
+n_one.tex
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/002_title
+page.tex <image/UPE_brasao.jpg, id=4, 367.62386pt x 458.23282pt>
+File: image/UPE_brasao.jpg Graphic file (type jpg)
+
+<use image/UPE_brasao.jpg>
+Package pdftex.def Info: image/UPE_brasao.jpg used on input line 4.
+(pdftex.def)             Requested size: 62.49522pt x 77.89854pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+ [1
+
+{C:/Users/carlos/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/c
+arlos/LaTEX/dissertacao_carlos_timoteo/image/UPE_brasao.jpg>])
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/003_pos_t
+itlepage.tex
+File: image/UPE_brasao.jpg Graphic file (type jpg)
+ <use image/UPE_brasao.jpg>
+Package pdftex.def Info: image/UPE_brasao.jpg used on input line 7.
+(pdftex.def)             Requested size: 62.49522pt x 77.89854pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 26
+.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 26
+.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 26
+.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+ [1])
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/005_dedic
+ation.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+ [1])
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/006_epigr
+aph.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+ [2
+
+])
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/007_abstr
+act_native_language.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
+
+ []
+
+
+Overfull \hbox (19.58528pt too wide) in paragraph at lines 12--16
+\OT1/ptm/m/n/12 Gerenciamento de Pro-je-tos, An[]alise de Ris-cos, PE-RIL, Re-d
+es Neu-rais Ar-ti-fi-ci-ais, Simula[][]ao
+ []
+
+[4])
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/008_abstr
+act_foreign_language.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--16
+
+ []
+
+[5]) (C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.toc [6
+
+])
+\tf@toc=\write4
+ [7]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.lof)
+\tf@lof=\write5
+ [8
+
+]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/acronyms.
+tex) [9
+
+]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\pre_textual_element/symbols.t
+ex) [10
+
+
+] (C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.loa)
+\tf@loa=\write6
+ [11
+
+
+]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.lot
+Overfull \hbox (3.99821pt too wide) in paragraph at lines 11--11
+ [][] []\OT1/ptm/m/n/12 Estat[]sticas des-cri-ti-vas para er-ros nor-ma-li-za-
+dos dos mo-de-los de re-gress[]ao 
+ []
+
+)
+\tf@lot=\write7
+ [12
+
+])
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\chapter/001_introduction.tex
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 16.
+
+Overfull \hbox (1.12996pt too wide) in paragraph at lines 17--18
+[]\OT1/ptm/m/n/12 desenvolvimento de um plano de res-pos-tas a even-tos ines-pe
+-ra-dos, co-nhe-cido como
+ []
+
+[1
+
+] [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 75--83
+
+ []
+
+[5] [6])
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\chapter/002_background_knowle
+dge.tex [7]
+Cap\'{\i }tulo 2.
+
+Overfull \hbox (2.28157pt too wide) in paragraph at lines 6--8
+\OT1/ptm/m/n/12 si-ana (RCB), Re-des Neu-rais Ar-ti-fi-ci-ais (RNAs), An[]alise
+ de Dis-cri-mi-nan-tes (AD), []Arvore
+ []
+
+[8
+
+] [9] [10] [11] [12]
+<image/montecarlo.png, id=92, 472.01344pt x 456.95718pt>
+File: image/montecarlo.png Graphic file (type png)
+
+<use image/montecarlo.png>
+Package pdftex.def Info: image/montecarlo.png used on input line 133.
+(pdftex.def)             Requested size: 250.95476pt x 242.95313pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13] [14 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/montecarlo.png
+>] [15] <image/regressiontreemodel.pdf, id=104, 415.5525pt x 415.5525pt>
+File: image/regressiontreemodel.pdf Graphic file (type pdf)
+
+<use image/regressiontreemodel.pdf>
+Package pdftex.def Info: image/regressiontreemodel.pdf used on input line 258.
+(pdftex.def)             Requested size: 418.25368pt x 334.06137pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16] [17 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/regressiontree
+model.pdf>]
+Overfull \hbox (2.00325pt too wide) in paragraph at lines 308--309
+[]\OT1/ptm/m/n/12 O mo-delo do neur[]onio de Mc-Cul-loch e Pitts pro-cura re-pr
+e-sen-tar o neur[]onio biol[]ogico
+ []
+
+
+Overfull \hbox (1.65973pt too wide) in paragraph at lines 308--309
+\OT1/ptm/m/n/12 uti-li-zando uma re-gra de propaga[][]ao e uma fun[][]ao de ati
+va[][]ao. Con-si-dere $\OML/ptmcm/m/it/12 x[]; x[]; x[]; :::; x[]$\OT1/ptm/m/n/
+12 ,
+ []
+
+[18] <image/mlp.png, id=120, 448.67625pt x 224.037pt>
+File: image/mlp.png Graphic file (type png)
+ <use image/mlp.png>
+Package pdftex.def Info: image/mlp.png used on input line 372.
+(pdftex.def)             Requested size: 250.95476pt x 125.30943pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 380.
+ [20 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/mlp.png (PNG copy)
+>] <image/svm.png, id=129, 205.36725pt x 185.493pt>
+File: image/svm.png Graphic file (type png)
+ <use image/svm.png>
+Package pdftex.def Info: image/svm.png used on input line 418.
+(pdftex.def)             Requested size: 250.95476pt x 226.67473pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (7.13046pt too wide) in paragraph at lines 426--428
+\OT1/ptm/m/n/12 quadr[]atico. Esta fun[][]ao erro cal-cu-lada da amos-tra de da
+-dos []e cha-mada de Risco Emp[]rico.
+ []
+
+[21] [22 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/svm.png (PNG c
+opy)>] [23] [24] [25] <image/gd.png, id=146, 331.99031pt x 201.00093pt>
+File: image/gd.png Graphic file (type png)
+
+<use image/gd.png>
+Package pdftex.def Info: image/gd.png used on input line 631.
+(pdftex.def)             Requested size: 250.95476pt x 151.94032pt.
+ [26] [27 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/gd.png>] [28]
+
+Overfull \hbox (3.74373pt too wide) in paragraph at lines 724--726
+[]\OT1/ptm/m/n/12 Um as-pecto im-por-tante nos m[]etodos de gra-di-ente con-ju-
+gado s[]ao os ve-to-res de dire[][]ao
+ []
+
+
+Overfull \hbox (20.49869pt too wide) in paragraph at lines 737--739
+\OT1/ptm/m/n/12 No m[]etodo de New-ton uma aproxima[][]ao quadr[]atica []e uti-
+li-zada ao inv[]es de uma aproxima[][]ao
+ []
+
+[29] [30]
+Overfull \hbox (12.54129pt too wide) in paragraph at lines 793--795
+\OT1/ptm/m/n/12 O Al-go-ritmo de Levenberg-Marquardt adap-ta-ti-va-mente va-ria
+ as atualiza[][]oes de par[]ametros
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 811.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 813.
+<image/anfis.png, id=164, 570.63188pt x 401.24907pt>
+File: image/anfis.png Graphic file (type png)
+ <use image/anfis.png>
+Package pdftex.def Info: image/anfis.png used on input line 820.
+(pdftex.def)             Requested size: 292.77629pt x 205.87106pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31] [32 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/anfis.png>])
+[33]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\chapter/003_contribution.tex
+Cap\'{\i }tulo 3.
+
+Overfull \hbox (2.1476pt too wide) in paragraph at lines 5--6
+[]\OT1/ptm/m/n/12 Segundo, []e ne-cess[]ario re-a-li-zar um pr[]e-processamento
+ dos da-dos para que as vari[]aveis
+ []
+
+
+Overfull \hbox (2.6291pt too wide) in paragraph at lines 7--8
+\OT1/ptm/m/n/12 varia[][]ao da meta-heur[]stica Otimiza[][]ao por En-xame de P
+art[]culas (PSO - \OT1/ptm/m/it/12 Par-ti-cle Swarm
+ []
+
+<image/MetodologiaDissertacao2.png, id=174, 372.39125pt x 398.48875pt>
+File: image/MetodologiaDissertacao2.png Graphic file (type png)
+
+<use image/MetodologiaDissertacao2.png>
+Package pdftex.def Info: image/MetodologiaDissertacao2.png used on input line 1
+3.
+(pdftex.def)             Requested size: 188.21288pt x 201.40852pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[34
+
+] [35 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/MetodologiaDisser
+tacao2.png>]
+<image/MetodologiaDissertacao.png, id=181, 307.90031pt x 450.18187pt>
+File: image/MetodologiaDissertacao.png Graphic file (type png)
+
+<use image/MetodologiaDissertacao.png>
+Package pdftex.def Info: image/MetodologiaDissertacao.png used on input line 42
+.
+(pdftex.def)             Requested size: 188.21288pt x 275.19443pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36] [37 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/MetodologiaDis
+sertacao.png>] [38] [39] <image/input1_6.pdf, id=196, 415.5525pt x 415.5525pt>
+File: image/input1_6.pdf Graphic file (type pdf)
+
+<use image/input1_6.pdf>
+Package pdftex.def Info: image/input1_6.pdf used on input line 220.
+(pdftex.def)             Requested size: 292.77629pt x 292.787pt.
+
+<image/input7_12.pdf, id=197, 415.5525pt x 415.5525pt>
+File: image/input7_12.pdf Graphic file (type pdf)
+
+<use image/input7_12.pdf>
+Package pdftex.def Info: image/input7_12.pdf used on input line 235.
+(pdftex.def)             Requested size: 292.77629pt x 292.787pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<image/impact_histogram.pdf, id=198, 415.5525pt x 415.5525pt>
+File: image/impact_histogram.pdf Graphic file (type pdf)
+
+<use image/impact_histogram.pdf>
+Package pdftex.def Info: image/impact_histogram.pdf used on input line 250.
+(pdftex.def)             Requested size: 209.12683pt x 209.12633pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/input1_6.pdf>]
+Overfull \hbox (1.38034pt too wide) in paragraph at lines 270--271
+\OT1/ptm/m/n/12 A An[]alise PERT tamb[]em uti-li-zou a base de da-dos com-pleta
+ e so-mente as sa[]das poss[]veis
+ []
+
+[41 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/input7_12.pdf>]
+[42 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/impact_histogram.pd
+f>]
+Overfull \hbox (4.65425pt too wide) in paragraph at lines 312--313
+[]\OT1/ptm/m/n/12 Cada part[]cula no PSO re-pre-senta uma configura[][]ao can-
+di-data. A fun[][]ao de avalia[][]ao
+ []
+
+
+Overfull \hbox (10.83727pt too wide) in paragraph at lines 322--323
+\OT1/ptm/m/n/12 Algumas varia[][]oes do mo-delo da MLP fo-ram uti-li-za-das nes
+se es-tudo. Di-ver-sos par[]ametros
+ []
+
+
+Overfull \hbox (12.43457pt too wide) in paragraph at lines 322--323
+\OT1/ptm/m/n/12 po-dem ser al-te-ra-dos tais como a quan-ti-dade de ca-ma-das e
+s-con-di-das, o n[]umero de neur[]onios
+ []
+
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\image/mlp.pdf_tex
+<image/mlp.pdf, id=221, 640.3925pt x 800.9925pt>
+File: image/mlp.pdf Graphic file (type pdf)
+ <use image/mlp.pdf>
+Package pdftex.def Info: image/mlp.pdf used on input line 52.
+(pdftex.def)             Requested size: 230.04079pt x 287.72153pt.
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[43] [44 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/mlp.pdf>]
+[45] [46]) [47]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\chapter/004_experiment.tex
+Cap\'{\i }tulo 4.
+[48
+
+]
+Overfull \hbox (7.19057pt too wide) in paragraph at lines 22--23
+\OT1/ptm/m/n/12 log-normal e normaliza[][]ao gamma. Para au-xi-liar a es-co-lha
+ do me-lhor m[]etodo, investigou-
+ []
+
+[49] [50]) [51]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\chapter/005_results.tex
+Cap\'{\i }tulo 5.
+<image/mrl_ex1.pdf, id=253, 415.5525pt x 415.5525pt>
+File: image/mrl_ex1.pdf Graphic file (type pdf)
+ <use image/mrl_ex1.pdf>
+Package pdftex.def Info: image/mrl_ex1.pdf used on input line 33.
+(pdftex.def)             Requested size: 418.25368pt x 418.27168pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[52
+
+] [53 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/mrl_ex1.pdf>]
+<image/arte_ex2.pdf, id=292, 415.5525pt x 415.5525pt>
+File: image/arte_ex2.pdf Graphic file (type pdf)
+ <use image/arte_ex2.pdf>
+Package pdftex.def Info: image/arte_ex2.pdf used on input line 69.
+(pdftex.def)             Requested size: 292.77629pt x 270.42857pt.
+
+Overfull \hbox (6.15947pt too wide) in paragraph at lines 80--81
+\OT1/ptm/m/n/12 Broyden-Fletcher-Goldfarb-Shanno \OT1/ptm/m/it/12 Back-pro-pa-g
+a-tion\OT1/ptm/m/n/12 , Gra-di-ente Con-ju-gado Es-ca-lo-nado,
+ []
+
+[54 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/arte_ex2.pdf>]
+<image/mlps_ex3.pdf, id=303, 1027.84pt x 489.83pt>
+File: image/mlps_ex3.pdf Graphic file (type pdf)
+ <use image/mlps_ex3.pdf>
+Package pdftex.def Info: image/mlps_ex3.pdf used on input line 104.
+(pdftex.def)             Requested size: 418.25368pt x 187.62851pt.
+
+[55 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/mlps_ex3.pdf>]
+<image/anns_ex4.pdf, id=314, 415.5525pt x 415.5525pt>
+File: image/anns_ex4.pdf Graphic file (type pdf)
+ <use image/anns_ex4.pdf>
+Package pdftex.def Info: image/anns_ex4.pdf used on input line 137.
+(pdftex.def)             Requested size: 292.77629pt x 270.42857pt.
+
+<image/epocas.png, id=316, 642.4pt x 481.8pt>
+File: image/epocas.png Graphic file (type png)
+ <use image/epocas.png>
+Package pdftex.def Info: image/epocas.png used on input line 146.
+(pdftex.def)             Requested size: 418.25368pt x 279.12161pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<image/smoreg_ex4.pdf, id=318, 415.5525pt x 415.5525pt>
+File: image/smoreg_ex4.pdf Graphic file (type pdf)
+
+<use image/smoreg_ex4.pdf>
+Package pdftex.def Info: image/smoreg_ex4.pdf used on input line 156.
+(pdftex.def)             Requested size: 292.77629pt x 270.42857pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<image/smoreg_ex4_2.pdf, id=320, 415.5525pt x 415.5525pt>
+File: image/smoreg_ex4_2.pdf Graphic file (type pdf)
+
+<use image/smoreg_ex4_2.pdf>
+Package pdftex.def Info: image/smoreg_ex4_2.pdf used on input line 166.
+(pdftex.def)             Requested size: 292.77629pt x 292.787pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<image/rbfreg_ex4.pdf, id=321, 415.5525pt x 415.5525pt>
+File: image/rbfreg_ex4.pdf Graphic file (type pdf)
+
+<use image/rbfreg_ex4.pdf>
+Package pdftex.def Info: image/rbfreg_ex4.pdf used on input line 176.
+(pdftex.def)             Requested size: 292.77629pt x 270.42857pt.
+ [56]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<image/rbfreg_ex4_2.pdf, id=326, 415.5525pt x 415.5525pt>
+File: image/rbfreg_ex4_2.pdf Graphic file (type pdf)
+
+<use image/rbfreg_ex4_2.pdf>
+Package pdftex.def Info: image/rbfreg_ex4_2.pdf used on input line 186.
+(pdftex.def)             Requested size: 292.77629pt x 292.787pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<image/mlpreg_ex4.pdf, id=327, 415.5525pt x 415.5525pt>
+File: image/mlpreg_ex4.pdf Graphic file (type pdf)
+
+<use image/mlpreg_ex4.pdf>
+Package pdftex.def Info: image/mlpreg_ex4.pdf used on input line 196.
+(pdftex.def)             Requested size: 292.77629pt x 270.42857pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<image/mlpreg_ex4_2.pdf, id=329, 415.5525pt x 415.5525pt>
+File: image/mlpreg_ex4_2.pdf Graphic file (type pdf)
+
+<use image/mlpreg_ex4_2.pdf>
+Package pdftex.def Info: image/mlpreg_ex4_2.pdf used on input line 206.
+(pdftex.def)             Requested size: 292.77629pt x 292.787pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[57 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/anns_ex4.pdf>]
+Overfull \vbox (15.27972pt too high) has occurred while \output is active []
+
+
+[58 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/epocas.png> <C:/Use
+rs/carlos/LaTEX/dissertacao_carlos_timoteo/image/smoreg_ex4.pdf>] [59 <C:/Users
+/carlos/LaTEX/dissertacao_carlos_timoteo/image/rbfreg_ex4.pdf> <C:/Users/carlos
+/LaTEX/dissertacao_carlos_timoteo/image/smoreg_ex4_2.pdf>] [60 <C:/Users/carlos
+/LaTEX/dissertacao_carlos_timoteo/image/mlpreg_ex4.pdf> <C:/Users/carlos/LaTEX/
+dissertacao_carlos_timoteo/image/rbfreg_ex4_2.pdf>]
+<image/validacao_ex5.pdf, id=376, 415.5525pt x 415.5525pt>
+File: image/validacao_ex5.pdf Graphic file (type pdf)
+
+<use image/validacao_ex5.pdf>
+Package pdftex.def Info: image/validacao_ex5.pdf used on input line 237.
+(pdftex.def)             Requested size: 292.77629pt x 270.42857pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[61 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/mlpreg_ex4_2.pdf>]
+[62 <C:/Users/carlos/LaTEX/dissertacao_carlos_timoteo/image/validacao_ex5.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[63]) [64]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\chapter/005_conclusion.tex
+Cap\'{\i }tulo 6.
+
+Overfull \hbox (29.37804pt too wide) in paragraph at lines 15--16
+[]\OT1/ptm/m/n/12 Desenvolver uma abor-da-gem efi-ci-ente e pre-cisa para quand
+o hou-ver pou-cas informa[][]oes
+ []
+
+[65
+
+] [66]) (C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.bbl [67
+
+]
+[68] [69] [70] [71]) [72]
+(C:\Users\carlos\LaTEX\dissertacao_carlos_timoteo\ppgec.aux) ) 
+Here is how much of TeX's memory you used:
+ 17757 strings out of 493921
+ 309440 string characters out of 3144873
+ 385017 words of memory out of 3000000
+ 20522 multiletter control sequences out of 15000+200000
+ 59704 words of font info for 120 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 56i,13n,75p,1863b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/courier/ucrr8a.pfb><C:/Users/carlos/AppData/Roaming/MiKTeX/2.9/fon
+ts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
+/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb
+i8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ppgec.pdf (85 pages, 1826228 bytes).
+PDF statistics:
+ 463 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+

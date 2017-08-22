@@ -1,0 +1,103 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: ppgec.aux
+The style file: unsrt.bst
+Database file #1: ppgec.bib
+Warning--entry type for "HIGUERAHAIMES1996" isn't style-file defined
+--line 66 of file ppgec.bib
+I was expecting a `,' or a `}'---line 86 of file ppgec.bib
+ :   
+ :   timestamp = {2003.09.20-23}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 191 of file ppgec.bib
+ :   
+ :   publisher = {Project Management Institute, Inc.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 217 of file ppgec.bib
+ :  
+ :  keywords = {Tolerância a Falhas, Dependabilidade, Modelos estocásticos, EDSPN},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 427 of file ppgec.bib
+ :   
+ :   publisher={Editora Olinda, PE}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 502 of file ppgec.bib
+ : @book{PMBOK2008
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 509 of file ppgec.bib
+ : @article{BOEHM1991
+ :                   ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 573 of file ppgec.bib
+ :   
+ :   timestamp = {2003.09.20-23}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 584 of file ppgec.bib
+ : @article{bannerman2008risk
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 648 of file ppgec.bib
+ : @article{CHAOS2009
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 662 of file ppgec.bib
+ : @article{kwak2007exploring
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 723 of file ppgec.bib
+ : @article{valenca2005aplicando
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 783 of file ppgec.bib
+ : @article{kwak2007exploring
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2813 of file ppgec.bib
+ : @book{haykin-1994
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3047 of file ppgec.bib
+ :  @book{han2006data
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3054 of file ppgec.bib
+ :  @article{widrow1960adaptive
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--empty publisher in KEND2003BOOK
+Warning--empty journal in CHAOS2009
+Warning--empty publisher in PMBOK2008
+Warning--empty journal in KPMG2005
+Too many commas in name 1 of "Keshlaf, A., Riddle, S." for entry KESHLAFRIDDLE2010
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in PRACTICESTANDARD2009
+Too many commas in name 1 of "Lin, C.T., Lee, C.S.G." for entry linlee1996neuralfuzzy
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in linlee1996neuralfuzzy
+Too many commas in name 1 of "MCCulloch, W., Pitts, W." for entry MCCULLOCKPITTS1943
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in widrow1960adaptive
+Warning--empty publisher in HAYKIN2007
+Warning--empty publisher in valenca1995fundamentos
+Warning--empty year in valenca1995fundamentos
+Too many commas in name 1 of "Hu, Y., Huang, J., Chen, J., Liu, M., Xie, K." for entry HUHUANG2007
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Hu, Y., Huang, J., Chen, J., Liu, M., Xie, K." for entry HUHUANG2007
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Hu, Y., Huang, J., Chen, J., Liu, M., Xie, K." for entry HUHUANG2007
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Hu, Y., Huang, J., Chen, J., Liu, M., Xie, K." for entry HUHUANG2007
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Hu, Y., Huang, J., Chen, J., Liu, M., Xie, K." for entry HUHUANG2007
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Hu, Y., Huang, J., Chen, J., Liu, M., Xie, K." for entry HUHUANG2007
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Hu, Y., Huang, J., Chen, J., Liu, M., Xie, K." for entry HUHUANG2007
+while executing---line 944 of file unsrt.bst
+Warning--can't use both volume and number fields in saini2002artificial
+Warning--empty journal in siegel1956nonparametric
+(There were 25 error messages)

@@ -1,0 +1,44 @@
+\chapter{Planejamento}
+O risco pode ser compreendido matematicamente como o produto da probabilidade de ocorrência de um risco e o impacto. Já, catástrofe é o impacto somado com logaritmo neperiano da probabilidade de ocorrência do risco.
+
+\section{Função para otimização}
+
+\subsection{Risco}
+A função Risco é definida tal que
+\begin{equation}
+	f(P,i) = Pi
+	\label{eq:funcao_risco}
+\end{equation}
+onde $P \in \left[ 0; 1 \right]$ indica a probabilidade de ocorrência de um risco e $i$ indica o impacto esperado quando o risco ocorrer. A Figura \ref{fig:risco} apresenta o formato da função quando $i = 20$
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/risco.png}
+		\caption{Função Risco para i = 20.}
+		\label{fig:risco}
+	\end{center}
+\end{figure}
+
+\subsection{Catástrofe}
+A função Catástrofe é definida tal que
+\begin{equation}
+	g(P,i) = i + \ln (P)
+	\label{eq:funcao_catastrofe}
+\end{equation}
+onde $P \in \left[ 0; 1 \right]$ indica a probabilidade de ocorrência de um risco e $i$ indica o impacto esperado quando o risco ocorrer. A Figura \ref{fig:catastrofe} apresenta o formato da função quando $i = 20$
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.5\textwidth]{img/catastrofe.png}
+		\caption{Função Catástrofe para i = 20.}
+		\label{fig:catastrofe}
+	\end{center}
+\end{figure}
+
+Sobrepondo as duas funções, o objetivo é encontrar o \textit{pareto front} ou o conjunto de soluções dominantes para as duas funções acima, levando em consideração que existe um custo máximo a ser satisfeito. A Figura \ref{fig:funcoes_otimizacao} apresenta as funções \ref{eq:funcao_risco} e \ref{eq:funcao_catastrofe} sobrepostas.
+
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.8\textwidth]{img/funcoes_otimizacao.png}
+		\caption{Funções Risco e Catástrofe Sobrepostas para i = 20.}
+		\label{fig:funcoes_otimizacao}
+	\end{center}
+\end{figure}

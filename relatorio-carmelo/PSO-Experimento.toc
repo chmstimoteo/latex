@@ -1,0 +1,13 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{3}
+\contentsline {section}{\numberline {1.1}Algoritmo PSO}{3}
+\contentsline {section}{\numberline {1.2}Algoritmo MOPSO-CDR}{3}
+\contentsline {section}{\numberline {1.3}Base de Dados - PERIL 2008}{4}
+\contentsline {chapter}{\numberline {2}Planejamento}{5}
+\contentsline {section}{\numberline {2.1}Fun\c c\~ao para otimiza\c c\~ao}{5}
+\contentsline {subsection}{\numberline {2.1.1}Risco}{5}
+\contentsline {subsection}{\numberline {2.1.2}Cat\'astrofe}{5}
+\contentsline {chapter}{\numberline {3}Opera\c c\~ao}{7}
+\contentsline {chapter}{\numberline {4}Resultados}{8}
+\contentsline {section}{\numberline {4.1}Resultados obtidos}{8}
+\contentsline {chapter}{\numberline {5}Conclus\~ao}{9}

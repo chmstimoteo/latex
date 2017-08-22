@@ -1,0 +1,68 @@
+\chapter{Introduction}\label{cap:introduction}
+Computational Intelligence is a research area that proposes nature-inspired computational methodologies and approaches. These techniques aim to solve complex problems of real-world in which the traditional methodologies are ineffective or infeasible. This area is divided in: Fuzzy Logic \cite{Fuzzy:Ziimermann2001} and based population techniques.
+
+The main based population approaches are: evolutionary approaches (Genetic Algorithm (GA) \cite{GA:Mitchell1998} \cite{GA:Guo2008}, Differential Evolution (DE) \cite{DE:Gao2010} \cite{DE:Prince2005}, Evolutionary Strategies (ES) \cite{ES:Beyer2001a} \cite{ES:Beyer2001b}), optimization based on swarm (PSO) (Particle Swarm Optimization \cite{PSO:Eberhart1995} \cite{PSO:Eberhart1995a}, Ant Colony Optimization (ACO) \cite{ACO:Dorigo1999} \cite{ACO:Dorigo2005}, Artificial Bee Colony (ABC) \cite{ABC:Karaboga2005} \cite{ABC:Karaboga2006}, Fish School Search (FSS) \cite{FSS:Bastos-Filho2008}, Fish Swarm Algorithm (FSA) \cite{FSA:Yazdani2012}, Bacterial Foraging Algorithm (BFA) \cite{BFA:Muller2002}, Bacterial Foraging Optimization (BFO) \cite{BFO:Das2009}, Glowworm Swarm Optimization (GSO) \cite{GSO:Krishnanand2009}, Firefly Algorithm (FA) \cite{FA:Yang2009}), among others.
+
+Swarm intelligence became one of the research areas of computational intelligence that more expanded in recent years. The expression `Swarm Intelligence' was introduced for first time by Gerardo Beni and Jing Wang in 1989 \cite{SI:Beni1989}. The term `swarm' is used basically to refer any structured collection of agents able to interact. 
+Swarm Intelligence is a set of intelligent systems developed where collective behavior of simple individuals achieves consistent solutions.
+These systems are composed by agents that interact each other and their environment. From this interaction, emerge global behaviors that were not observed in the agents individually.
+
+The main properties of a swarm intelligence system are \cite{SI:Serapiao2009}: \emph{proximity} - the agents should be able to interact; \emph{quality} - the agents should be able to evaluate their behaviors; \emph{diversity} - allows system reacts the unexpected situations; \emph{stability} - not all environment variations should affect the behavior of an agent; \emph{adaptability} - adequacy capability to environment variations.
+
+The swarm Intelligence techniques originated from the study of collective behavior of animals and insects in the nature and, subsequently, their use to solve optimization and search problems. These algorithms are self-organized, distributed, autonomous, flexible and dynamic. Among several approaches, the algorithms most known to solve continuous problems without restriction are: Particle Swarm Optimization (PSO), Artificial Bee Colony (ABC) and Fish School Search (FSS), among others.
+
+The PSO algorithm was inspired in behavior of birds flocks (see Figure \ref{fig:flock_birds}). Basically, this algorithm has a particle swarm, where each particle is a potential solution for the problem. The particle moves based on its velocity, that is calculated considering the best position found by it (cognitive memory) and the best position found by its neighborhood (social memory).
+\begin{figure}[!h]
+\centering
+ \includegraphics[width=0.45\textwidth]{image/flock_of_birds.jpg}
+ \caption{\small{Example of flock of birds in the nature [Adapted from: \cite{SI:Bird2012}].}}
+ \label{fig:flock_birds}
+\end{figure}
+
+The ABC algorithm was inspired in behavior of honey bees (see Figure \ref{fig:bee_colony}). In the algorithm, the bee colony has three type of bees: employed, onlooker and scout. The food sources are the potential solution for the problem, where an employed bee is associated with a food source. The employed bee explores the food source and shares the information (through the dance of bees) to onlooker bee, that is responsible to choose a food source (preferentially, richer) and explore it. When the employed bee abandons the food source, it becomes scout bees and, then, will seek a new food source.
+\begin{figure}[!h]
+\centering
+ \includegraphics[width=0.45\textwidth]{image/bee_colony.png}
+ \caption{\small{Example of bee colony in the nature [Adapted from: \cite{SI:Bee2012}].}}
+ \label{fig:bee_colony}
+\end{figure}
+
+The FSS algorithm was inspired in behavior of school of fish (see Figure \ref{fig:school_fish}). In this algorithm, the fish positions are potential solutions for the problem and their weights represent the success in search process. The algorithm execution is realized based on operators that were inspired in the individual (foraging for food) and collective behavior (mutual protection) of fish to guarantee the survivability of the entire group. As like ABC algorithm, the fish move to the food source most promising. Based on the increase of weight of fish, the school will direct the sense of its search and also to expand or contract its radius.
+\begin{figure}[!h]
+\centering
+ \includegraphics[width=0.45\textwidth]{image/school_of_fish.jpg}
+ \caption{\small{Example of school of fish in the nature [Adapted from: \cite{SI:Fish2012}].}}
+ \label{fig:school_fish}
+\end{figure}
+
+Each of these algorithms has particularities, strengths and weaknesses. Moreover, these algorithms are used for optimization and search, and usually have mechanisms to simultaneously represent success, to guarantee convergence and maintain diversity.
+
+These algorithms have excellent skills to solve complex problems, many of them lose their efficiency as applied to very complex problems, for example with 1,000 decision variables. The use of problems with high dimensionality, continuous, multimodal and variables with different degrees of dependence  allows to simulate optimization environments closer to the real world.
+
+In this scenario, combining swarm intelligence algorithms can be a alternative to solve complex problems of high dimensionality. To develop algorithms that combine good mechanisms for different algorithms, it cannot lose the basic characteristics of a system in Swarm Intelligence and establishing the suitable exploitation-exploration tradeoff.
+
+\section{Motivation and Objectives}
+The optimization problems present several challenges, such as: the ``Curse of Dimensionality'' effect \cite{SI:Houle2010} \cite{SI:Powell2007} \cite{SI:Radovanovic2010} and the ``No Free Lunch'' theorem \cite{SI:Wolpert1995} \cite{SI:Wolpert1997} \cite{SI:Droste2002}.
+
+The curse of dimensionality refers to phenomenon that arises when analyzing high-dimensionality search spaces (often with hundreds or thousands of dimensions) that do not occurs in low-dimensionality. This means that,  when the dimensionality increases, the volume of the search space increases. With this scenario, it is expected that the optimization algorithms work well to solve problems with low dimensionality and have complexity proportional to the increase of dimensions number. Actually, with the increase of dimensions number generates the exponential growth of the evaluations of objective functions. This behavior interferes in the convergence ability of optimization algorithms.
+
+The theorem \emph{Not Free Lunch} was introduced by David Wolpert and William G. Macready \cite{SI:Wolpert1995}. This theorem says that if an optimization algorithm achieves superior results on some problems, it must present a performance inferior on other problems. Thus, it is important to define what group of problems the optimization algorithm can be solve because there is not a optimization algorithm able to solve all of problem and achieve the best solutions.
+
+The swarm intelligence algorithms present the ability to solve complex problems. However, a lot of them reduces their efficiency when applied in problems of high dimensionality. Thus, the main objective is: to propose a combined algorithm that has the adaptive behavior of the Adaptive Particle Swarm Optimization (APSO) algorithm and the diversity capability through of operator based on  the Artificial Bee Colony (ABC) algorithm to solve problems very complex with high dimensionality.
+
+\section{Contributions}
+The main contribution of this Master thesis is the combined algorithm called Adaptive Bee and Particle Swarm Optimization. This algorithm was combination result of two well known swarm intelligence algorithms: Adaptive Particle Swarm Optimization (APSO) \cite{APSO:Zhan2009} and Artificial Bee Colony (ABC) \cite{ABC:Karaboga2005}. O proposed algorithm has an new operator of maintain the diversity in the swarm, using the idea of behavior changing of the guide bees present in ABC algorithm. The experiment results show that our proposal achieved better results in complex functions with high-dimensional search space. This means that, our proposal can maintain good convergence and the capability escape local minima when the search space with a number of dimensions very high, this behavior is visualized mainly in multimodal functions.
+
+
+\section{Document Structure}
+For better understanding of this thesis is indicated a sequential reading, because of its structure, that is organized as follows:
+\begin{itemize}
+  \item Chapter \ref{cap:introduction} presented the motivation, objectives of this master thesis;
+  \item Chapter \ref{cap:Swarm} describes the state-of-art regarding swarm intelligence optimizers;
+  \item Chapter \ref{cap:contribution} describes our proposal, the ABPSO algorithm;
+  \item Chapter 4 presents the new metric of evaluation (Diversity Factor), methodology and experiments;
+  \item Chapter 5 presents the discussions about the results;
+  \item Chapter 6 describes presents some conclusions and future works.
+\end{itemize}
+
+

@@ -1,0 +1,28 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Example - bkp - 10pp.aux
+The style file: apalike.bst
+Database file #1: example.bib
+I was expecting a `,' or a `}'---line 86 of file example.bib
+ :   
+ :   timestamp = {2003.09.20-23}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 154 of file example.bib
+ : @book{haykin1994neural
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 257 of file example.bib
+ : @article{kwak2007exploring
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "mizuno2001prediction"
+Too many commas in name 1 of "Lin, C.T., Lee, C.S.G." for entry linlee1996neuralfuzzy
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Lin, C.T., Lee, C.S.G." for entry linlee1996neuralfuzzy
+while executing---line 1020 of file apalike.bst
+Warning--empty publisher in PMBOK2008
+Too many commas in name 1 of "Lin, C.T., Lee, C.S.G." for entry linlee1996neuralfuzzy
+while executing---line 1095 of file apalike.bst
+Warning--empty journal in linlee1996neuralfuzzy
+Warning--empty journal in siegel1956nonparametric
+Warning--empty institution in Smola1998
+(There were 6 error messages)

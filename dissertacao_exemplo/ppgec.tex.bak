@@ -1,0 +1,48 @@
+% ################################################################
+% # Recife, 18 February 2011                                     #
+% # Polytechnic School of Pernambuco - University of Pernambuco  #
+% # Course: Computer Engineer                                    #
+% # Author: Marcos Alvares Barbosa Junior                        #
+% #                                                              #
+% # UPE-POLI MSc Thesis Template    V0.1                         #
+% ################################################################
+%   TODO:
+%     #1:  Move the Default Configuration section to a separeted file
+%     #2:  Create a LaTeX Class
+%     #3:  Create examples of Symbols, Equations, Tables, Figures, sections and sub-sections ...
+%     #4:  Discat all specific contents (: replace the thesis title with an generic value like: "Here You Put Your Thesis Title")
+%     #5:  Verify ununsed packages
+%
+\documentclass[a4paper,12pt]{upethesis}
+%
+%\fancyhead[L]{
+%    \parbox{2cm}{\includegraphics[scale=0.4]{image/poli_logo_white.jpg}}
+%}
+%
+%\fancyhead[R]{
+%    \parbox{1cm}{\includegraphics[scale=0.4]{image/upe_logo_white.jpg}}
+%}
+
+\fancyfoot[R]{
+    \parbox{30.0cm}{\footnotesize { \color{gray}{Lumadaiara do Nascimento Vitorino \hspace{5cm} PPGEC UPE/POLI - Page \thepage}}  }
+}
+
+
+\begin{document}
+  \input{pre_textual_element/001_all_in_one}
+
+% Thesis Chapters [START]
+  \input{chapter/001_introduction}
+  \input{chapter/002_background_knowledge}
+  \input{chapter/003_contribution}
+  \input{chapter/004_experiment}
+  \input{chapter/005_results}
+  \input{chapter/005_conclusion}
+  \input{chapter/AppendixC}
+% Thesis Chapters [END]
+
+% Bibliography [START]
+  \bibliographystyle{alpha}
+  \bibliography{ppgec}
+% Bibliography [END]
+\end{document}

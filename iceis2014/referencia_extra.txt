@@ -1,0 +1,9 @@
+
+@inproceedings{mizuno2001prediction,
+  title={On prediction of cost and duration for risky software projects based on risk questionnaire},
+  author={Mizuno, Osamu and Adachi, Takuya and Kikuno, Tohru and Takagi, Yasunari},
+  booktitle={Quality Software, 2001. Proceedings. Second Asia-Pacific Conference on},
+  pages={120--128},
+  year={2001},
+  organization={IEEE}
+}

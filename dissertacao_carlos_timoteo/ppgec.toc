@@ -1,0 +1,74 @@
+\select@language {brazil}
+\contentsline {chapter}{Lista de Figuras}{viii}
+\contentsline {chapter}{Lista de Siglas}{ix}
+\contentsline {chapter}{Lista de S\IeC {\'\i }mbolos}{x}
+\contentsline {chapter}{Lista de Algoritmos}{xi}
+\contentsline {chapter}{Lista de Tabelas}{xii}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {1.2}Descri\IeC {\c c}\IeC {\~a}o do Problema}{3}
+\contentsline {section}{\numberline {1.3}Objetivos}{5}
+\contentsline {subsection}{\numberline {1.3.1}Quest\IeC {\~o}es de Pesquisa}{5}
+\contentsline {subsection}{\numberline {1.3.2}Objetivo Geral}{5}
+\contentsline {subsection}{\numberline {1.3.3}Objetivos Espec\IeC {\'\i }ficos}{5}
+\contentsline {chapter}{\numberline {2}Referencial Te\IeC {\'o}rico}{8}
+\contentsline {section}{\numberline {2.1}Trabalhos Relacionados}{8}
+\contentsline {section}{\numberline {2.2}Gerenciamento de Risco em Projetos}{9}
+\contentsline {subsection}{\numberline {2.2.1}An\IeC {\'a}lise Qualitativa de Riscos}{11}
+\contentsline {subsection}{\numberline {2.2.2}An\IeC {\'a}lise Quantitativa de Riscos}{11}
+\contentsline {section}{\numberline {2.3}T\IeC {\'e}cnicas Convencionais para An\IeC {\'a}lise de Risco}{12}
+\contentsline {subsection}{\numberline {2.3.1}Simula\IeC {\c c}\IeC {\~a}o de Monte Carlo}{12}
+\contentsline {subsection}{\numberline {2.3.2}An\IeC {\'a}lise PERT}{13}
+\contentsline {section}{\numberline {2.4}T\IeC {\'e}cnicas Estat\IeC {\'\i }sticas e de Computa\IeC {\c c}\IeC {\~a}o Inteligente para An\IeC {\'a}lise de Risco}{15}
+\contentsline {subsection}{\numberline {2.4.1}Modelo de Regress\IeC {\~a}o Linear M\IeC {\'u}ltipla}{15}
+\contentsline {subsection}{\numberline {2.4.2}Modelo de Regress\IeC {\~a}o em \IeC {\'A}rvore}{16}
+\contentsline {section}{\numberline {2.5}Redes Neurais Artificiais}{18}
+\contentsline {subsection}{\numberline {2.5.1}Perceptron de M\IeC {\'u}ltiplas Camadas}{19}
+\contentsline {subsubsection}{Algoritmo \textit {Backpropagation}}{20}
+\contentsline {subsection}{\numberline {2.5.2}M\IeC {\'a}quina Vetor de Suporte}{21}
+\contentsline {subsection}{\numberline {2.5.3}Rede com Fun\IeC {\c c}\IeC {\~a}o de Base Radial}{23}
+\contentsline {subsection}{\numberline {2.5.4}Regras de Aprendizado}{26}
+\contentsline {subsubsection}{Aprendizado por Gradiente Descendente}{26}
+\contentsline {subsubsection}{Aprendizado por Widrow-Hoff}{27}
+\contentsline {subsubsection}{Aprendizado por Corre\IeC {\c c}\IeC {\~a}o de Erro}{27}
+\contentsline {subsubsection}{Aprendizado baseado em Mem\IeC {\'o}ria}{28}
+\contentsline {subsubsection}{Aprendizado por Gradiente Conjugado Escalonado}{29}
+\contentsline {subsubsection}{Aprendizado por Quasi-Newton}{29}
+\contentsline {subsubsection}{Aprendizado por Broyden-Fletcher-Goldfarb-Shanno \textit {Backpropagation}}{30}
+\contentsline {subsubsection}{Aprendizado por Backpropagation e Secante de Um-passo}{30}
+\contentsline {subsubsection}{Aprendizado por Levenberg-Marquardt}{31}
+\contentsline {section}{\numberline {2.6}Sistema \textit {Neuro-Fuzzy}}{31}
+\contentsline {subsection}{\numberline {2.6.1}Sistema de Infer\IeC {\^e}ncia \textit {Fuzzy} baseado em Rede Adaptativa}{31}
+\contentsline {subsubsection}{Arquitetura do ANFIS}{32}
+\contentsline {chapter}{\numberline {3}Metodologia}{34}
+\contentsline {section}{\numberline {3.1}Base de dados PERIL}{36}
+\contentsline {subsection}{\numberline {3.1.1}\textit {Black Swans}}{39}
+\contentsline {section}{\numberline {3.2}Pr\IeC {\'e}-processamento dos Dados}{39}
+\contentsline {section}{\numberline {3.3}Modelos de Estado da Arte}{40}
+\contentsline {subsection}{\numberline {3.3.1}Simula\IeC {\c c}\IeC {\~a}o de Monte Carlo}{40}
+\contentsline {subsection}{\numberline {3.3.2}An\IeC {\'a}lise PERT}{41}
+\contentsline {section}{\numberline {3.4}Modelos de Regress\IeC {\~a}o Linear}{41}
+\contentsline {subsection}{\numberline {3.4.1}Modelo de Regress\IeC {\~a}o Linear M\IeC {\'u}ltipla}{42}
+\contentsline {subsection}{\numberline {3.4.2}Modelo de Regress\IeC {\~a}o em \IeC {\'A}rvore}{42}
+\contentsline {section}{\numberline {3.5}Otimiza\IeC {\c c}\IeC {\~a}o por Enxame de Part\IeC {\'\i }culas}{42}
+\contentsline {section}{\numberline {3.6}Redes Neurais Artificiais}{43}
+\contentsline {subsection}{\numberline {3.6.1}MLPs}{43}
+\contentsline {subsection}{\numberline {3.6.2}SVM}{44}
+\contentsline {subsection}{\numberline {3.6.3}RBF}{45}
+\contentsline {subsection}{\numberline {3.6.4}ANFIS}{46}
+\contentsline {chapter}{\numberline {4}Experimentos}{48}
+\contentsline {section}{\numberline {4.1}Pr\IeC {\'e}-processamento}{48}
+\contentsline {section}{\numberline {4.2}Regress\IeC {\~a}o Linear M\IeC {\'u}ltipla e Modelo de Regress\IeC {\~a}o em \IeC {\'A}rvore}{50}
+\contentsline {section}{\numberline {4.3}Simula\IeC {\c c}\IeC {\~a}o de Monte Carlo e An\IeC {\'a}lise PERT}{50}
+\contentsline {section}{\numberline {4.4}Perceptron de M\IeC {\'u}ltiplas Camadas e suas varia\IeC {\c c}\IeC {\~o}es}{50}
+\contentsline {section}{\numberline {4.5}MLP, SVM, RBF e ANFIS}{51}
+\contentsline {section}{\numberline {4.6}Valida\IeC {\c c}\IeC {\~a}o do Melhor Modelo}{51}
+\contentsline {chapter}{\numberline {5}Resultados}{52}
+\contentsline {section}{\numberline {5.1}Regress\IeC {\~a}o Linear M\IeC {\'u}ltipla e Modelo de Regress\IeC {\~a}o em \IeC {\'A}rvore}{52}
+\contentsline {section}{\numberline {5.2}Simula\IeC {\c c}\IeC {\~a}o de Monte Carlo e An\IeC {\'a}lise PERT}{53}
+\contentsline {section}{\numberline {5.3}Perceptron de M\IeC {\'u}ltiplas Camadas e suas varia\IeC {\c c}\IeC {\~o}es}{55}
+\contentsline {section}{\numberline {5.4}MLP, SVM, RBF e ANFIS}{56}
+\contentsline {section}{\numberline {5.5}Valida\IeC {\c c}\IeC {\~a}o do Melhor Modelo}{58}
+\contentsline {section}{\numberline {5.6}Previs\IeC {\~a}o do Impacto e Intervalo de Confian\IeC {\c c}a}{62}
+\contentsline {section}{\numberline {5.7}Considera\IeC {\c c}\IeC {\~o}es Finais}{63}
+\contentsline {chapter}{\numberline {6}Conclus\IeC {\~o}es e Trabalhos Futuros}{65}

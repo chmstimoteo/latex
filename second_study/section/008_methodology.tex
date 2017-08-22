@@ -1,0 +1,149 @@
+\section{Metodologia}
+
+
+Esse projeto de pesquisa é realizado baseado nas seguintes atividades:
+
+\begin{enumerate}
+\item Pesquisa Bibliográfica das Áreas de Conhecimento:
+	\begin{itemize}
+	\item Gerenciamento de Projetos
+	\item Gerenciamento de Risco de Projetos
+	\item Análise de Risco de Projetos de Software
+	\item Probabilidade e Estatística
+	\item Confiabilidade de Sistemas
+	\item Métodos Estatísticos para Análise de Risco
+	\item Métodos Formais para Análise de Risco
+	\item Redes Neurais Artificiais
+	\item Inteligência de Enxames
+	\end{itemize}
+\item Levantamento de Bases de Dados com informações de Riscos de Gerenciamento de Projetos de Software
+\item Levantamento de Ferramentas necessárias para o Tratamento dos Dados contidos nas Bases
+\item Definição de Métricas Quantitativas e os Parâmetros para Análise de Risco de Projetos de Software
+\item Avaliação dos Resultados das Métricas
+\item Definição do Grau de Exposição ao Risco de um Projeto
+\item Suporte a Tomada de Decisões Estratégicas de Mitigação de Riscos
+\end{enumerate}
+
+
+\subsection{Base de Dados}
+
+\subsubsection{Base de Dados PERIL}
+
+Um melhor gerenciamento de riscos começa com a identificação de problemas potenciais. A adoção das ferramentas disponíveis como: revisão das lições aprendidas, \textit{brainstorming}, entrevistas, opinião especializada; são alternativas relativamente eficientes, porém muitas vezes apresentam alto custo. Uma proposta acessível, de baixo custo e extensível é utilizar a base de dados do PERIL \cite{KEND2003BOOK}.
+
+Durante alguns anos, em \textit{Workshops} de Gerenciamento de Riscos, foram realizadas entrevistas com centenas de líderes de projetos para conhecer problemas de projetos típicos já enfrentados, definindo o que havia ocorrido e o impacto disso no projeto. Esses dados foram agrupados no banco de dados \textit{Project Experience Risk Information Library} (PERIL) \cite{KENDRICK2003}.
+
+Em projetos, os riscos encontrados podem ser classificados como "conhecidos", aqueles antecipados no planejamento, ou "desconhecidos", encontrados durante a execução do projeto. O objetivo da análise dessa base de dados é prover um \textit{framework} para identificação de riscos de modo a aumentar o número de riscos conhecidos, e diminuir o número de riscos desconhecidos.
+
+Alguns características dessa base de dados:
+\begin{enumerate}
+  \item Os dados são descorrelacionados: eles representam uma pequena fração de dezenas de milhares de projetos realizados pelo gerente de projeto, por quem eles foram coletados;
+  \item PERIL apresenta viés (\textit{bias}): a informação não foi coletada aleatoriamente.
+  \item PERIL representa somente os riscos mais significantes.
+\end{enumerate}
+
+A maioria dos projetos teve duração entre 6 meses e 1 ano, e a equipe continha entre 10 e 25 pessoas. No total, 649 riscos foram identificados e categorizados nos seguintes tipos: escopo, cronograma e recurso. A categoria escopo é composta das seguintes subcategorias: mudança e defeito. A categoria cronograma é composta das subcategorias: dependência, estimativa e atraso. Já, recursos é composta das seguintes subcategorias: dinheiro, terceirização e pessoas.
+
+Uma desvantagem dessa base de dados, é que ela somente contabiliza riscos que tiveram impacto negativo no projeto. As oportunidades não foram identificadas e maximizadas com esse estudo.
+
+No entanto, um dos grandes benefícios é que o autor apresenta alguns riscos como \textit{black swans} \cite{KEND2003BOOK}: representando a idéia de riscos com amplo impacto, difíceis de prever e raros de ocorrer. Se o risco tiver impacto negativo, é conhecido como catástrofe, ao passo que, se tiver impacto positivo, é conhecido como recompensa.
+
+\subsubsection{Bases de Dados de Riscos de Software}
+
+Outras bases de dados utilizadas para previsão de custo de software e de defeito de software também serão consideradas nesse estudo. Nos manuais dessas bases de dados existe a definição indireta da métrica de risco a ser extraída. Essas bases de dados públicas estão disponíveis em \textit{http://promise.site.uottawa.ca/SERepository/datasets-page.html}.
+
+Durante o estudo as bases de dados que se adaptarem aos objetivos do estudo serão selecionadas.
+
+\subsection{Ferramentas}
+
+\subsubsection{TimeNET}
+
+TimeNET (\textit{Timed Net Evaluation Tool}) é um pacote de software para a modelagem e avaliação de redes de Petri estocásticas com tempos de disparo não exponencialmente distribuídos. TimeNET foi desenvolvido na Technische Universität Berlin em vários projectos de investigação. A interface gráfica é fornecida para a especificação do modelo e várias análises especializadas além de simulação para a avaliação do modelo automatizado. A implementação dos componentes de análise e simulação é baseada em resultados de pesquisas recentes \cite{german1995timenet}.
+
+\subsubsection{SPNP}
+
+SPNP é um pacote de GSPN poderoso desenvolvido na Universidade de Duke. SPNP permite a modelagem de comportamentos de sistemas complexos. Construções avançadas estão disponíveis, tais como a marcação de multiplicidades de arco dependentes, permitindo as funções, vetores de lugares ou transições e sub-redes; além disso, o poder expressivo completo da linguagem de programação C está disponível para aumentar a flexibilidade da descrição da rede.
+
+Solucionadores de estado estacionário e transiente sofisticados estão disponíveis. Finalmente, o utilizador não está limitada a um conjunto pré-definido de medidas: expressões detalhadas refletindo exatamente as medidas requeridas podem ser facilmente especificadas \cite{ciardo1989spnp}.
+
+%Corrigir tradução do Weka
+\subsubsection{Weka}
+
+O projeto WEKA tem como objetivo fornecer um conjunto abrangente de algoritmos de aprendizado de máquina e ferramentas para pré-processamento de dados para pesquisadores e profissionais afins. Ele permite ao usuário tentar comparar rapidamente diferentes métodos de aprendizado de máquina a partir de um conjunto de dados. Sua arquitetura modular e extensível permite que processos sofisticados de mineração de dados possam ser construído a partir da vasta coleção de algoritmos de aprendizagem de base e ferramentas fornecidas. Estender esse kit de ferramentas é fácil graças a existência de: uma API, plugins e a instalação que automatiza a integração de novos algoritmos de aprendizado com o WEKA.
+
+Ele inclui algoritmos de regressão, classificação, agrupamento, mineração de regras de associação e seleção de atributos. A exploração preliminar dos dados é realizada através de visualização de dados e muitas ferramentas de pré-processamento \cite{hall2009weka}.
+
+\subsection{Estudos de Caso}
+
+Alguns estudos de casos precisam ser definidos para avaliar qual das alternativas utilizadas apresentam melhores desempenhos.
+
+O primeiro estudo de caso é comparar o desempenho da adoção de Redes de Petri, Árvores de Falha, Redes Bayesianas e Lógica Fuzzy. Nesse estudo de caso, o objetivo é verificar qual a melhor alternativa para realizar a análise qualitativa dos riscos do projeto.
+
+O segundo estudo de caso é comparar o desempenho da adoção de Redes Neurais MLP, Máquinas de Vetor de Suporte, Simulação de Monte Carlo e um método estatístico convencional de Regressão Linear. Nesse caso, o objetivo é verificar qual alternativa oferece menor erro na estimativa do impacto dos riscos.
+
+\subsubsection{Atividades Realizadas}
+
+Durante um ano de pesquisa algumas atividades foram realizadas, as principais atividades são listadas e descritas abaixo:
+
+\begin{enumerate}
+\item Estudo do Guia de Boas Práticas do PMBOK 2008 \cite{PMBOK2008}: Foi realizada a inscrição num Curso Preparatório para obtenção do Certificado CAPM. As aulas eram semanais, contabilizando 4h/semana. Dois meses depois, após submissão ao exame, o Certificado de Gerenciamento de Projetos CAPM foi obtido.
+\item Estudo do conceito de Risco e Perigo: Lendo sobre os conceitos de Risco, observou-se importância no estudo dos perigos e catástrofes. A teoria de Confiabilidade de Sistemas aborda os conceitos de tempo de sobrevivência, confiabilidade, disponibilidade, função perigo. Apresentando esses conceitos ao orientador foi observada uma relação desses conceitos com a definição proposta por Boehm \cite{BOEHM1991}. A representação gráfica da função de sobrevivência é similar ao do risco. Essa relação inspira esse estudo e a publicação dessa relação, visto que não encontramos nenhum autor que tivesse observado esse fato.
+\item Estudo dos conceitos de Probabilidade e Estatística: Observou-se que as técnicas convencionais para Análise Quantitativa de Riscos \cite{PRACTICESTANDARD2009} utilizam técnicas estatísticas como diagrama PERT e CPM, Simulação de Monte Carlo, Árvore de Falha. Portanto, os conceitos de Probabilidade e Estatística básica foram adquiridos e aprofundou-se em Modelos de Box \& Jenkins e Modelos de Markov, que é a base para Redes de Petri Estocásticas.
+\item Levantamento de Base de Dados: Foi localizado no motor de busca do site do PMI.org (\textit{http://www.pmi.org}) a base de dados PERIL publicada em alguns artigos. Em seguida, contactou-se o autor dos artigos por email e a base de dados foi solicitada.
+\item Estudo de Redes Neurais Artificias: Analisando o PERIL, observou-se que fosse interessante extrair uma previsão dos dados contidos nessa base de dados. Para realizar essa atividade, estudou-se Redes Neurais Artificias e foi implementada uma rede neural MLP e um programa que realizava a previsão de alguns dados de testes. A partir desse estudo, algumas métricas e parâmetros de análise de riscos foram definidos. Por fim, foi realizado um experimento empírico para a determinação dos melhores parâmetros da MLP, no contexto da base de dados PERIL. Mais detalhes sobre os resultados, será descrito na seção de Resultados Preliminares.
+\item Estudo de técnicas de Computação Inteligente: Após a implementação do programa para previsão do impacto de riscos a partir da MLP, surge uma necessidade conhecida da implementação de um algoritmo de otimização dos parâmetros da rede neural artificial. Nesse caso, observou-se que uma implementação do híbrida do PSO+MLP é suficiente para que o algoritmo de previsão se adapte aos dados que estão sendo tratados.
+\item Revisão Bibliográfica: Diante dos resultados obtidos e do conhecimento obtido em Análise de Risco, foi necessário realizar uma revisão bibliográfica para identificar o estado da arte e validar o trabalho já realizado.
+\end{enumerate}
+
+\subsubsection{Resultados Preliminares}
+
+O método utilizado para realizar a estimativa do impacto de riscos num projeto de software a partir da base de dados do PERIL é o seguinte:
+\begin{enumerate}
+\item Obtenção da base de dados do PERIL 
+\item Pré-processamento dos dados: Binarização dos campos textuais e normalização gamma dos impactos, para todas as colunas da base de dados. O intervalo de normalização é entre 0.15 e 0.85, conforme sugere Valença \cite{valenca2005aplicando}. Além disso, os dados foram embaralhados aleatoriamente.
+\item Rede Neural MLP: Os parâmetros da rede neural após otimização empírica foram:
+	\begin{itemize}
+	\item $\alpha = 0.5; \beta = 0.1$
+	\item Quantidade de neurônios nas camadas: Entrada = 12; Escondida = 10; Saída = 1 (Impacto)
+	\item Aprendizado: Algoritmo \textit{Back Propagation}
+	\item Condição de Parada: Erro Médio Absoluto (EMA) de Testes e Validação Cruzada convergirem.
+	\end{itemize}
+\item Cálculo do EMA e Erro Percentual Médio Absoluto (EPMA) para os dados de Teste.
+\item Validação Estatística dos Erros: 30 experimentos.
+\end{enumerate}
+
+Para a definição dos parâmetros ótimos, foi realizado um estudo estatístico empírico com os seguintes passos:
+\begin{enumerate}
+\item Determinação das variáveis: número de neurônio da camada escondida, $\alpha$ e $\beta$
+\item Execução de 30 experimentos
+\item Análise Gráfica e/ou Teste Estatístico Wilcoxon para seleção dos melhores valores
+\end{enumerate}
+
+O intervalo de valores aceitável para as variáveis número de neurônios da camada escondida ($n$), $\alpha$ e $\beta$ são apresentados na Tabela \ref{tab:intervalovariaveis}.
+
+\begin{center}
+ \begin{tabular}{|l|c|c|c|}
+  \hline
+  \multicolumn{4}{|c|}{\textbf{Intervalo de Valores}} \\
+  \hline
+  \multicolumn{1}{|c|}{} &$n$ &$\alpha$ &$\beta$ \\
+  \hline
+   Mínimo & 10  & 0.5  & 0.1 \\
+   Máximo & 100 & 0.9 & 0.5 \\
+  \hline
+%  \label{tab:intervalovariaveis}
+ \end{tabular}
+\end{center}
+
+Os resultados indicam que a configuração que obtinha os menores EMA para o PERIL são: $n=10$, $\alpha=0.5$ e $\beta=0.1$. A Figura \ref{fig:erros} mostram os resultados para as dez primeiras configurações avaliadas fixando a quantidade de neurônios, em que $n=10$. Observa-se que os trinta experimentos para as dez primeiras configurações são apresentados por \textit{boxplots}. Nesse caso, o \textit{boxplot} mais a esquerda é o que apresenta os menores erros de previsão. Para essa configuração foi obtido um Erro Percentual Médio Absoluto de 15\%.
+
+\begin{center}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1.1\textwidth]{image/boxplots_1a10.png}
+	\caption{\textit{Boxplots} das configurações do MLP}
+	\label{fig:erros}
+\end{figure}
+\end{center}
+
+\pagebreak

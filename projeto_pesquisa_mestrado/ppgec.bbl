@@ -1,0 +1,265 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{FNM{\etalchar{+}}07}
+
+\bibitem[AM95]{MBEA1995}
+Balbo G. Conte G. et~al. Ajmone~Marsan, M.
+\newblock Modelling with generalized stochastic petri nets.
+\newblock {\em Wiley series in parallel computing}, 1995.
+
+\bibitem[Ban08]{bannerman2008risk}
+Paul~L Bannerman.
+\newblock Risk and risk management in software projects: A reassessment.
+\newblock {\em Journal of Systems and Software}, 81(12):2118--2133, 2008.
+
+\bibitem[BC13]{bonini2013}
+Stephano Bonini and Giuliana Caivano.
+\newblock The survival analysis approach in basel ii credit risk management:
+  modeling danger rates in the loss given default parameter.
+\newblock {\em Journal of Credit Risk}, 9(1):101--118, 2013.
+
+\bibitem[BMM99]{bandyopadhyay1999framework}
+Kakoli Bandyopadhyay, Peter~P Mykytyn, and Kathleen Mykytyn.
+\newblock A framework for integrated risk management in information technology.
+\newblock {\em Management Decision}, 37(5):437--445, 1999.
+
+\bibitem[Boe91]{BOEHM1991}
+B.~W. Boehm.
+\newblock Software risk management: principle and practices.
+\newblock {\em IEEE Software}, 8:32--41, 1991.
+
+\bibitem[Car12]{CARDOSO2012}
+Tasinaffo P. M. Montini D. A. Fernandes D. D. da Cunha A. M. Dias L. A~V.
+  Cardoso, F. R.~M.
+\newblock A formal control model for risks management within software projects.
+\newblock In {\em Proceedings of the 2012 Ninth International Conference on
+  Information Technology - New Generations}, ITNG '12, pages 452--457,
+  Washington, DC, USA, 2012. IEEE Computer Society.
+
+\bibitem[CMT89]{ciardo1989spnp}
+Gianfranco Ciardo, Jogesh Muppala, and Kishor Trivedi.
+\newblock Spnp: stochastic petri net package.
+\newblock In {\em Petri Nets and Performance Models, 1989. PNPM89., Proceedings
+  of the Third International Workshop on}, pages 142--151. IEEE, 1989.
+
+\bibitem[CW96]{chapman1996project}
+Chris Chapman and Stephen Ward.
+\newblock {\em Project risk management: processes, techniques and insights}.
+\newblock John Wiley, 1996.
+
+\bibitem[Fai94]{fairley1994risk}
+Richard Fairley.
+\newblock Risk management for software projects.
+\newblock {\em Software, IEEE}, 11(3):57--67, 1994.
+
+\bibitem[Fer07]{MURILO2007}
+S.~M.~M. Fernandes.
+\newblock Avaliação de dependabilidade de sistemas com mecanismos tolerantes a
+  falha: Desenvolvimento de um método híbrido baseado em edspn e diagrama de
+  blocos.
+\newblock PhD Thesis, 2007.
+
+\bibitem[FNM{\etalchar{+}}07]{fenton2007predicting}
+Norman Fenton, Martin Neil, William Marsh, Peter Hearty, David Marquez, Paul
+  Krause, and Rajat Mishra.
+\newblock Predicting software defects in varying development lifecycles using
+  bayesian nets.
+\newblock {\em Information and Software Technology}, 49(1):32--43, 2007.
+
+\bibitem[GKZH95]{german1995timenet}
+Reinhard German, Christian Kelling, Armin Zimmermann, and G{\"u}nter Hommel.
+\newblock Timenet: a toolkit for evaluating non-markovian stochastic petri
+  nets.
+\newblock {\em Performance Evaluation}, 24(1):69--87, 1995.
+
+\bibitem[Gro09]{CHAOS2009}
+The~Standish Group.
+\newblock Chaos report.
+\newblock 2009.
+
+\bibitem[GT90]{geist1990reliability}
+Robert Geist and Kishor~S. Trivedi.
+\newblock Reliability estimation of fault-tolerant systems: Tools and
+  techniques.
+\newblock {\em Computer}, 23(7):52--61, 1990.
+
+\bibitem[Hai09]{Haimes2009}
+Yacov Y(University of~Virginia) Haimes.
+\newblock {\em {Risk Modeling, Assesment and Management}}.
+\newblock John Wiley \& Sons, Inc., 3rd edition edition, 2009.
+
+\bibitem[Hay07]{HAYKIN2007}
+S.~Haykin.
+\newblock {\em Redes Neurais: Princípios e Práticas}.
+\newblock 2007.
+
+\bibitem[HFH{\etalchar{+}}09]{hall2009weka}
+Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann,
+  and Ian~H Witten.
+\newblock The weka data mining software: an update.
+\newblock {\em ACM SIGKDD Explorations Newsletter}, 11(1):10--18, 2009.
+
+\bibitem[Hig96]{HIGUERAHAIMES1996}
+Y.~Y. Higuera, R. P. e~Haimes.
+\newblock Software risk management, 1996.
+
+\bibitem[HS11]{holzmann2011developing}
+Vered Holzmann and Israel Spiegler.
+\newblock Developing risk breakdown structure for information technology
+  organizations.
+\newblock {\em International Journal of Project Management}, 29(5):537--546,
+  2011.
+
+\bibitem[HTT00]{HirelTT00}
+Christophe Hirel, Bruno Tuffin, and Kishor~S. Trivedi.
+\newblock Spnp: Stochastic petri nets. version 6.0.
+\newblock In Boudewijn~R. Haverkort, Henrik~C. Bohnenkamp, and Connie~U. Smith,
+  editors, {\em Computer Performance Evaluation: Modelling Techniques and
+  Tools, 11th International Conference, TOOLS 2000, Schaumburg, IL, USA, March
+  27-31, 2000, Proceedings}, volume 1786 of {\em Lecture Notes in Computer
+  Science}, pages 354--357. Springer, 2000.
+
+\bibitem[Hu07]{HUHUANG2007}
+Huang J. Chen J. Liu M. Xie~K. Hu, Y.
+\newblock Software project risk management modeling with neural network and
+  support vector machine approaches.
+\newblock {\em Third International Conference on Natural Computation (ICNC)},
+  2007.
+
+\bibitem[Ins07]{SEI2007}
+SEI Software~Engineering Institute.
+\newblock {\em CMMI - Capability Maturity Model Integration}.
+\newblock 2007.
+
+\bibitem[Ins08]{PMBOK2008}
+Project~Management Institute.
+\newblock {\em A Guide to the Project Management Body of Knowledge}.
+\newblock 2008.
+
+\bibitem[Ins09a]{PRACTICESTANDARD2009}
+Project~Management Institute.
+\newblock Practice standard for project risk management.
+\newblock 2009.
+
+\bibitem[Ins09b]{BENCHMARK2009}
+Project~Management Institute.
+\newblock Relatorio principal perspectiva geral estudo de benchmarking em
+  gerenciamento de projetos.
+\newblock 2009.
+
+\bibitem[Isl09]{ISLAM2009}
+S.~Islam.
+\newblock Software development risk management model - a goal driven approach.
+\newblock {\em Proc. Of ESEC FSE Doctoral Symposium 09 Amsterdam The
+  Netherlands}, pages 5--8, 2009.
+
+\bibitem[Jen96]{jensen1996introduction}
+Finn~V Jensen.
+\newblock {\em An introduction to Bayesian networks}, volume 210.
+\newblock UCL press London, 1996.
+
+\bibitem[Jia04]{JIANGCHEN2004}
+Chen~Y. Jiang, G.
+\newblock Coordinate metrics and process model to manage software project risk.
+\newblock {\em International Engineering Management Conference}, 2004.
+
+\bibitem[JN07]{jensen2007bayesian}
+Finn~Verner Jensen and Thomas~Dyhre Nielsen.
+\newblock {\em Bayesian networks and decision graphs}.
+\newblock Springer, 2007.
+
+\bibitem[Ken03a]{KEND2003BOOK}
+T.~Kendrick.
+\newblock {\em Identifying and Managing Project Risk: Essential Tools for
+  Failure-Proofing your Project}.
+\newblock 2003.
+
+\bibitem[Ken03b]{KENDRICK2003}
+T.~Kendrick.
+\newblock Overcoming project risk: Lessons from the peril database.
+\newblock {\em Proceedings of PMI Global Congress}, 2003.
+
+\bibitem[Kes10]{KESHLAFRIDDLE2010}
+Riddle~S. Keshlaf, A.
+\newblock Risk management for web and distributed software development
+  projects.
+\newblock {\em The Fifth International Conference on Internet Monitoring and
+  Protection}, 2010.
+
+\bibitem[KI07]{kwak2007exploring}
+Young~Hoon Kwak and Lisa Ingall.
+\newblock Exploring monte carlo simulation applications for project management.
+\newblock {\em Risk Management}, 9(1):44--57, 2007.
+
+\bibitem[KPM05]{KPMG2005}
+KPMG.
+\newblock Global it project management survey.
+\newblock 2005.
+
+\bibitem[LLWS12]{li2012integrated}
+Jianping Li, Minglu Li, Dengsheng Wu, and Hao Song.
+\newblock An integrated risk measurement and optimization model for trustworthy
+  software process management.
+\newblock {\em Information Sciences}, 191:47--60, 2012.
+
+\bibitem[MCC43]{MCCULLOCKPITTS1943}
+Pitts~W. MCCulloch, W.
+\newblock A logical calculus of ideas immanent in nervous activity.
+\newblock {\em Bulletin of Mathematical Biophisics}, pages 115--133, 1943.
+
+\bibitem[Nea93]{neal1993probabilistic}
+Radford~M Neal.
+\newblock Probabilistic inference using markov chain monte carlo methods.
+\newblock 1993.
+
+\bibitem[NW05]{ngai2005fuzzy}
+Eric~WT Ngai and FKT Wat.
+\newblock Fuzzy decision support system for risk analysis in e-commerce
+  development.
+\newblock {\em Decision support systems}, 40(2):235--255, 2005.
+
+\bibitem[Osu12]{OSUNDAHUNSI2012}
+A.~Osundahunsi.
+\newblock Effective project risk management using the concept of risk velocity,
+  agility and resiliency.
+\newblock {\em CAMERON International, Houston, TX, USA}, page~13, 2012.
+
+\bibitem[Pet62]{PETRI1962}
+C.~A. Petri.
+\newblock Kommunikation mut automaten.
+\newblock {\em PhD thesis, Schriften des IIM Nr. 2, Bonn}, 1962.
+
+\bibitem[Sch84]{schmucker1984fuzzy}
+Kurt~J Schmucker.
+\newblock {\em Fuzzy sets, natural language computations, and risk analysis}.
+\newblock Computer Science Press Rockville, MD, 1984.
+
+\bibitem[Val05]{valenca2005aplicando}
+M.~J.~S. Valença.
+\newblock Aplicando redes neurais: um guia completo.
+\newblock {\em Livro Rápido, Olinda--PE}, 2005.
+
+\bibitem[Vir09]{VIRINE2009}
+L.~Virine.
+\newblock Project risk analysis: How to make better choices in the uncertain
+  times.
+\newblock {\em Proceedings of PMI Global Congress}, 2009.
+
+\bibitem[Wil95]{WILLIAMS95}
+T.~M. Williams.
+\newblock A classified bibliography of recent research relating to project risk
+  management.
+\newblock {\em European Journal of Operational Research}, pages 18--38, 1995.
+
+\bibitem[WPB99]{williams1999software}
+Ray~C Williams, George~J Pandelios, and Sandra~G Behrens.
+\newblock {\em Software Risk Evaluation (SRE) Method Description: Version 2.0}.
+\newblock Carnegie Mellon University, Software Engineering Institute, 1999.
+
+\bibitem[YZ{\etalchar{+}}09]{yu2009application}
+Benhai Yu, Jinlong Zhang, et~al.
+\newblock The application of fault tree analysis in software project risk
+  management.
+\newblock In {\em Management and Service Science, 2009. MASS'09. International
+  Conference on}, pages 1--4. IEEE, 2009.
+
+\end{thebibliography}

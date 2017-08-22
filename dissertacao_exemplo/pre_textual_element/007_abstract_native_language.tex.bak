@@ -1,0 +1,15 @@
+\begin{flushbottom}
+\textbf{PORTUGUESE LANGUAGE ABSTRACT}
+\\
+\\
+\\
+A \'{a}rea de Intelig\^{e}ncia de enxames se tornou uma das \'{a}reas de pesquisa da intelig\^{e}ncia computacional que mais se expandiu nos \'{u}ltimos anos. Os algoritmos de intelig\^{e}ncia de enxames s\~{a}o geralmente usados para otimiza\c{c}\~{a}o e busca, e normalmente apresentam mecanismos para simultaneamente representar sucesso, garantir converg\^{e}ncia e manter a diversidade. O algoritmo otimiza\c{c}\~{a}o por enxames de part\'{i}culas (PSO) utiliza a melhor posi\c{c}\~{a}o encontrada no espa\c{c}o de busca e intensifica a busca em determinadas regi\~{o}es mais promissoras. Por outro lado, o algoritmo de otimiza\c{c}\~{a}o por colmeias artificiais (ABC) utiliza o conceito de fontes de alimento, as quais as abelhas exploram e caso n\~{a}o hajam melhorias de qualidade, elas v\~{a}o buscar novas fontes de alimento.
+
+Estes algoritmos apresentam excelentes habilidades para resolver problemas complexos, contudo muitos perdem a sua efici\^{e}ncia quanto aplicados em problemas de alta dimensionalidade, por exemplo com 1000 vari\'{a}veis de decis\~{a}o. Diante deste cen\'{a}rio, combinar algoritmos de intelig\^{e}ncia de enxames pode ser uma alternativa para resolver problemas complexos de alta dimensionalidade.
+
+Nesta disserta\c{c}\~{a}o, a proposta \'{e} combinar o algoritmo PSO com comportamento adaptativo, que possui um bom mecanismo de converg\^{e}ncia, com o ABC, com a sua capacidade de manter a diversidade. Esse algoritmo combinado \'{e} chamado de \textit{Adaptive Bee and Particle Swarm Optimization} (ABeePSO). O desempenho do algoritmo ABeePSO foi avaliado utilizando as fun\c{c}\~{o}es de teste apresentadas no CEC 2010. Foram analisadas  converg\^{e}ncia, diversidade e escalabilidade. Tamb\'{e}m foram realizadas compara\c{c}\~{o}es com outras t\'{e}cnicas de intelig\^{e}ncia de enxames presentes na literatura. Os resultados indicam que o desempenho do ABeePSO foi superior principalmente em espa\c{c}os de busca de alta dimensionalidade.  	
+\\
+\\
+\\  Recife, July 2012
+\end{flushbottom}
+\newpage

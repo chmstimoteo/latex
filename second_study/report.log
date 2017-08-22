@@ -1,0 +1,939 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.10)  27 NOV 2013 17:10
+entering extended mode
+**report.tex
+(C:\Users\carlos\LaTEX\second_study\report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+Package babel Info: Making " an active character on input line 145.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+\l@brazilian = a dialect from \language\l@portuges 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\units\units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip43
+\L@UnitsRaiseTextstyle=\skip44
+\L@UnitsRaiseScriptstyle=\skip45
+))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+\c@ContinuedFloat=\count90
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count91
+\sf@farskip=\skip46
+\sf@captopadj=\dimen113
+\sf@capskip=\skip47
+\sf@nearskip=\skip48
+\c@subfigure=\count92
+\c@subfigure@save=\count93
+\c@lofdepth=\count94
+\c@subtable=\count95
+\c@subtable@save=\count96
+\c@lotdepth=\count97
+\sf@top=\skip49
+\sf@bottom=\skip50
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count98
+\lst@gtempboxa=\box28
+\lst@token=\toks20
+\lst@length=\count99
+\lst@currlwidth=\dimen114
+\lst@column=\count100
+\lst@pos=\count101
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count102
+\lst@lineno=\count103
+\lst@maxwidth=\dimen117
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count104
+\lst@skipnumbers=\count105
+\lst@framebox=\box29
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen118
+\extrarowheight=\dimen119
+\NC@list=\toks21
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\TX@col@width=\dimen120
+\TX@old@table=\dimen121
+\TX@old@col=\dimen122
+\TX@target=\dimen123
+\TX@delta=\dimen124
+\TX@cols=\count106
+\TX@ftn=\toks22
+)
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks23
+\minrowclearance=\skip53
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count107
+\Gm@cntv=\count108
+\c@Gm@tempcnt=\count109
+\Gm@bindingoffset=\dimen125
+\Gm@wd@mp=\dimen126
+\Gm@odd@mp=\dimen127
+\Gm@even@mp=\dimen128
+\Gm@layoutwidth=\dimen129
+\Gm@layoutheight=\dimen130
+\Gm@layouthoffset=\dimen131
+\Gm@layoutvoffset=\dimen132
+\Gm@dimlist=\toks24
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip54
+\f@ncyO@elh=\skip55
+\f@ncyO@erh=\skip56
+\f@ncyO@olh=\skip57
+\f@ncyO@orh=\skip58
+\f@ncyO@elf=\skip59
+\f@ncyO@erf=\skip60
+\f@ncyO@olf=\skip61
+\f@ncyO@orf=\skip62
+)
+(C:\Users\carlos\LaTEX\second_study\report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+
+(C:\Users\carlos\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen133
+\scratchbox=\box30
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen134
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks26
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count116
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(42.67912pt, 700.96107pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=650.0pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-66.59087pt
+* \headheight=80.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\carlos\LaTEX\second_study\section/001_titlepage.tex
+<image/poli_logo.jpg, id=1, 292.84406pt x 208.52907pt>
+File: image/poli_logo.jpg Graphic file (type jpg)
+
+<use image/poli_logo.jpg>
+Package pdftex.def Info: image/poli_logo.jpg used on input line 3.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+<image/upe_logo.jpg, id=2, 292.84406pt x 208.52907pt>
+File: image/upe_logo.jpg Graphic file (type jpg)
+ <use image/upe_logo.jpg>
+Package pdftex.def Info: image/upe_logo.jpg used on input line 4.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+<image/ecomp_logo.jpg, id=3, 444.15938pt x 201.75375pt>
+File: image/ecomp_logo.jpg Graphic file (type jpg)
+
+<use image/ecomp_logo.jpg>
+Package pdftex.def Info: image/ecomp_logo.jpg used on input line 8.
+(pdftex.def)             Requested size: 88.83029pt x 40.35002pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/carlos/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/c
+arlos/LaTEX/second_study/image/poli_logo.jpg> <C:/Users/carlos/LaTEX/second_stu
+dy/image/upe_logo.jpg> <C:/Users/carlos/LaTEX/second_study/image/ecomp_logo.jpg
+>])
+(C:\Users\carlos\LaTEX\second_study\section/100_report.tex
+<image/poli_logo_white.jpg, id=14, 292.84406pt x 208.52907pt>
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 14.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+<image/upe_logo_white.jpg, id=15, 292.84406pt x 208.52907pt>
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 14.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (80.0pt): 
+ Make it at least 83.41014pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1 <C:/Users/carlos/LaTEX/second_study/image/poli_logo_white.jpg> <C:/Users/car
+los/LaTEX/second_study/image/upe_logo_white.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 33.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 33.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[2]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 51.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 51.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[3]
+Overfull \hbox (19.42609pt too wide) in paragraph at lines 62--63
+[]\OT1/cmr/m/n/12 Boehm [[]], Chap-man [[]], Fair-ley [[]], Bandyo-padhyay et a
+l. [[]]
+ []
+
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 68.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 68.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[4]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 91.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 91.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[5] <image/montecarlo.png, id=33, 472.01344pt x 456.95718pt>
+File: image/montecarlo.png Graphic file (type png)
+
+<use image/montecarlo.png>
+Package pdftex.def Info: image/montecarlo.png used on input line 100.
+(pdftex.def)             Requested size: 250.95476pt x 242.95313pt.
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 104.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 104.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[6]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 115.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 115.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[7 <C:/Users/carlos/LaTEX/second_study/image/montecarlo.png>]
+<image/faulttree.png, id=41, 233.37187pt x 284.56313pt>
+File: image/faulttree.png Graphic file (type png)
+
+<use image/faulttree.png>
+Package pdftex.def Info: image/faulttree.png used on input line 123.
+(pdftex.def)             Requested size: 125.47737pt x 153.0018pt.
+
+Overfull \hbox (0.53087pt too wide) in paragraph at lines 129--129
+[]\OT1/cmr/bx/n/14.4 Tecnicas Es-tatsticas e de Com-putac~ao In-te-li-gente
+ para
+ []
+
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 134.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 134.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[8 <C:/Users/carlos/LaTEX/second_study/image/faulttree.png>]
+<image/bayesian.png, id=47, 292.09125pt x 181.42781pt>
+File: image/bayesian.png Graphic file (type png)
+
+<use image/bayesian.png>
+Package pdftex.def Info: image/bayesian.png used on input line 145.
+(pdftex.def)             Requested size: 250.95476pt x 155.88092pt.
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 153.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 153.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[9 <C:/Users/carlos/LaTEX/second_study/image/bayesian.png>]
+<image/redepetri.png, id=55, 428.35031pt x 211.54031pt>
+File: image/redepetri.png Graphic file (type png)
+
+<use image/redepetri.png>
+Package pdftex.def Info: image/redepetri.png used on input line 160.
+(pdftex.def)             Requested size: 250.95476pt x 123.93294pt.
+
+Overfull \hbox (6.56969pt too wide) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 biologicos, com-po-nen-tes es-sen-ci-ais para o pro-ces-sa-men
+to das in-formac~oes do cerebro,
+ []
+
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 170.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 170.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[10 <C:/Users/carlos/LaTEX/second_study/image/redepetri.png>]
+<image/mlp.png, id=59, 448.67625pt x 224.037pt>
+File: image/mlp.png Graphic file (type png)
+ <use image/mlp.png>
+Package pdftex.def Info: image/mlp.png used on input line 176.
+(pdftex.def)             Requested size: 250.95476pt x 125.30943pt.
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 188.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 188.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[11 <C:/Users/carlos/LaTEX/second_study/image/mlp.png (PNG copy)>]
+<image/svm.png, id=64, 205.36725pt x 185.493pt>
+File: image/svm.png Graphic file (type png)
+ <use image/svm.png>
+Package pdftex.def Info: image/svm.png used on input line 193.
+(pdftex.def)             Requested size: 250.95476pt x 226.67473pt.
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 207.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 207.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[12 <C:/Users/carlos/LaTEX/second_study/image/svm.png (PNG copy)>]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 255.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 255.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[13]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 303.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 303.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[14]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 330.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 330.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[15]
+Overfull \hbox (30.43884pt too wide) in paragraph at lines 334--335
+\OT1/cmr/m/n/12 dos publicas est~ao dis-ponveis em \OT1/cmr/m/it/12 http://p
+romise.site.uottawa.ca/SERepository/datasets-
+ []
+
+
+Overfull \hbox (0.17253pt too wide) in paragraph at lines 348--349
+[]\OT1/cmr/m/n/12 Solucionadores de es-tado es-ta-cionario e tran-si-ente so-f
+is-ti-ca-dos est~ao dis-ponveis.
+ []
+
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 354.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 354.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[16]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 372.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 372.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[17]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 385.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 385.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[18]
+
+LaTeX Warning: Reference `tab:intervalovariaveis' on page 19 undefined on input
+ line 403.
+
+<image/boxplots_1a10.png, id=92, 1028.34187pt x 490.08093pt>
+File: image/boxplots_1a10.png Graphic file (type png)
+
+<use image/boxplots_1a10.png>
+Package pdftex.def Info: image/boxplots_1a10.png used on input line 424.
+(pdftex.def)             Requested size: 460.08159pt x 219.26312pt.
+
+Overfull \hbox (41.82791pt too wide) in paragraph at lines 424--425
+ [][] 
+ []
+
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 428.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 428.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[19]) (C:\Users\carlos\LaTEX\second_study\report.bbl
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 43.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 43.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[20 <C:/Users/carlos/LaTEX/second_study/image/boxplots_1a10.png>]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+
+<use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 121.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 121.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[21]
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 203.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 203.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[22])
+File: image/poli_logo_white.jpg Graphic file (type jpg)
+ <use image/poli_logo_white.jpg>
+Package pdftex.def Info: image/poli_logo_white.jpg used on input line 60.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (60.23004pt too wide) has occurred while \output is active
+[][] 
+ []
+
+File: image/upe_logo_white.jpg Graphic file (type jpg)
+<use image/upe_logo_white.jpg>
+Package pdftex.def Info: image/upe_logo_white.jpg used on input line 60.
+(pdftex.def)             Requested size: 117.13554pt x 83.41014pt.
+
+Overfull \hbox (88.6828pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[23] (C:\Users\carlos\LaTEX\second_study\report.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5475 strings out of 493921
+ 80763 string characters out of 3144873
+ 143730 words of memory out of 3000000
+ 8663 multiletter control sequences out of 15000+200000
+ 12517 words of font info for 48 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 44i,19n,44p,1226b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (24 pages, 572678 bytes).
+PDF statistics:
+ 161 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

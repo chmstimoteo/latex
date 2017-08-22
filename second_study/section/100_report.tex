@@ -1,0 +1,428 @@
+\section{Descrição do Problema}
+
+Risco é um conceito que muitos consideram difícil de ser compreendido: uma medida da probabilidade e da severidade de efeitos adversos \cite{Haimes2009}. Uma limitação dessa definição é a dificuldade prática em estimar a probabilidade e o impacto de diversos fatores de risco, especialmente em projetos de software. As probabilidades somente podem ser definidas com significância para atividades que são repetidas muitas vezes sob circunstâncias controladas, no entanto, a natureza única de muitas atividades de projetos de software não permite a estimativa precisa de suas probabilidades. Uma abordagem clássica na teoria da decisão \cite{bannerman2008risk} define risco como uma variação numa distribuição de probabilidade de resultados, não um resultado provável.
+
+Outra limitação dessa definição é que ela abrange somente ameaças conhecidas ou previsíveis, oferecendo opções limitadas para gerenciar ameaças não percebidas, como também, não reconhece ameaças imprevisíveis. Essa é uma consequência da definição de risco em termos de probabilidade e impacto; já que, para avaliar a probabilidade e o impacto é necessário ser capaz de prever uma eventualidade \cite{bannerman2008risk}.
+
+Além disso, existe outra questão: as melhores decisões são baseadas na quantificação numérica - determinada pelos padrões do passado - ou na avaliação subjetiva das incertezas? Não é possível quantificar o futuro com certeza, mas através da probabilidade, é possível prevê-lo a partir do passado. Apesar de ser difícil encontrar um projeto de software padrão, é possível classificar atividades e definir padrões que possibilitem a estimativa. Para Bannerman \cite{bannerman2008risk}, a solução comum para esse problema em projetos de software é observar o risco de um modo mais geral, em termos da incerteza, e avaliá-lo qualitativamente. 
+
+Haimes \cite{Haimes2009} considera duas premissas na pesquisa de análise de riscos, que também serão consideradas neste estudo. Uma, que o risco é comumente quantificado através da fórmula matemática de expectativa. No entanto, mesmo que essa fórmula permita uma medida valiosa do risco, ela falha em reconhecer e/ou acentuar consequências de eventos extremos. Tom Kendrick apresenta no seu livro \cite{KEND2003BOOK} um \textit{framework} para a identificação e gerenciamento de catástrofes. A outra, por sua vez, afirma que uma das tarefas mais difícil em análise de sistemas é saber como modelá-lo. Portanto, novas propostas para a análise quantitativa e modelagem de sistemas sob o ponto de vista de seus riscos contribuirão para o avanço científico da área.
+
+Os processos realizados na fase de execução de projetos de software são atividades de alto risco, ocasionando resultados com desempenho variável. Uma pesquisa na indústria \cite{bannerman2008risk} sugere que somente cerca de um quarto dos projetos de software alcançam sucesso - isto é, eles finalizam dentro do cronograma, no orçamento e como especificado - e bilhões de dólares são perdidos anualmente através de falhas de projeto ou projetos que não entregam os benefícios prometidos. Evidências sugerem que isso é um problema global \cite{KPMG2005}, impactando organizações do setor público e privado.
+
+Embora o gerenciamento de risco na gestão de projetos de software seja um processo saudável, sua utilização ainda está aquém das expectativas. Algumas causas disso são o acúmulo de responsabilidades dos gerentes de projetos, a baixa importância atribuída a essa área, a falta de conhecimento em gestão de riscos, os custos envolvidos nas atividades de gestão de risco, a falta de habilidade para lidar com as técnicas e ferramentas específicas. Como consequência, o projeto está sujeito à influência negativa de riscos sem haver um plano de contingência, o que pode ocasionar o fracasso do projeto. De acordo com o \textit{benchmarking} realizado em 2009 pelo \textit{Project Management Institute} \cite{BENCHMARK2009}, em 20\% dos projetos seus gerentes não realizam todos os processos de planejamento; 46\% dos gerentes realizam atividades de gerenciamento em tempo parcial; apenas 35\% dos projetos o gerenciamento de riscos é realizado de acordo com uma metodologia formal, estruturada por políticas, procedimentos e formulários.
+
+\section{Objetivos}
+
+\subsection{Questões da Pesquisa}
+
+Como definir e modelar os riscos no gerenciamento de projetos de software, também considerando as catástrofes? \\
+Como analisar quantitativamente os risco no gerenciamento de projetos de software? \\
+Quais os dados disponíveis de registros de riscos de projetos de software para realizar os estudos? \\
+Como desenvolver um modelo para previsão de riscos em gerenciamento de projetos de software eficiente para o suporte a tomada de decisão? \\
+
+\subsection{Objetivo Geral}
+
+O objetivo geral deste projeto de mestrado está associado à pesquisa e desenvolvimento de uma nova abordagem para a análise de risco no gerenciamento de projetos de software, baseado em técnicas de computação inteligente e em formalismos matemáticos para a modelagem de sistemas dinâmicos. 
+
+\subsection{Objetivos Específicos}
+\begin{itemize}
+  \item Desenvolver uma técnica baseada em Redes de Petri para a previsão da probabilidade de riscos em gerenciamento de projetos de software
+  \item Desenvolver uma técnica para a previsão do impacto dos riscos baseada em computação inteligente para o gerenciamento de riscos de projetos de software
+  \item Desenvolver um método para o suporte a tomada de decisão para a definição de estratégias de mitigação de riscos e seu gerenciamento em projetos de software
+\end{itemize}
+
+\section{Motivação}
+
+Existe uma dificuldade na interpretação do conceito de risco. Principalmente quanto a aplicação desse conhecimento no desenvolvimento e utilização de técnicas eficientes para a análise de risco no gerenciamento de projetos de software. A gestão de riscos e incertezas em projetos de software, é fundamental para a disciplina de gerenciamento de projetos. Entretanto, em momentos econômicos de crise torna-se muito mais difícil realizar o gerenciamento de riscos, devido aos custos incorridos.
+
+Em 2009, o CHAOS Report \cite{CHAOS2009} mostrou que 32\% dos projetos alcançaram sucesso - foram entregues no prazo, no orçamento e com os requisitos prometidos -, 44\% dos projetos foram desafiados; não menos importante, 24\% dos projetos falharam e foram cancelados. Isso ocorre devido aos riscos envolvidos nas atividades e a um gerenciamento de risco de software ausente ou deficiente \cite{ISLAM2009}. 
+
+Como prever possíveis eventos a curto, médio e longo prazos? Ao analisar os riscos e incertezas, os gerentes de projeto muitas vezes confiam na intuição, em vez de lógica e análise detalhada. No entanto, o pensamento intuitivo é frequentemente alvo de ilusões, que causam erros mentais previsíveis e decisões eventualmente pobres. O método para conciliar o efeito dessas ilusões psicológicas é uma avaliação sistemática dos riscos e esforços na mitigação dos mesmos através de métodos analíticos. É difícil gerenciar algo que não pode ser medido: gerentes de projeto deveriam quantificar a probabilidade de risco, os resultados, e seu efeito cumulativo em um projeto. Além disso, é importante avaliar as várias opções de mitigação: o custo de cada opção e o tempo necessário para a realização da mitigação \cite{VIRINE2009}.
+
+Já que é uma área de pesquisa que vem crescendo, novas e melhores metodologias para identificar, medir e controlar itens de risco de software precisam ser desenvolvidas. Keshlaf e Riddle \cite{KESHLAFRIDDLE2010} concluem que mesmo que existam muitas abordagens ainda há uma grande lacuna com relação ao que é praticado pelas indústrias de software. Além disso, vale a pena perceber que não existe uma solução única para o conduzir o gerenciamento de riscos adequadamente \cite{VIRINE2009}. 
+
+Alguns benefícios da boa gestão de riscos de projetos de software são: a redução de custos incorridos com mudanças no software; o desenvolvimento de um plano de respostas a eventos inesperados, ou seja, um plano de contingência de riscos; a previsão da probabilidade da ocorrência de eventos indesejados; o seguimento das linhas de base de custo, cronograma e qualidade. Tais fatores podem determinar o sucesso dos projetos \cite{HIGUERAHAIMES1996} \cite{PMBOK2008}.
+
+
+\section{Estado da Arte}
+
+A Gerência de Riscos de Projetos foi formalmente apresentada à comunidade de Engenharia de Software através da proposta do modelo Espiral de Barry Boehm \cite{BOEHM1991}. Seguindo-se a esse evento muitas abordagens e modelos foram apresentados, destacando-se o programa do SEI (\textit{Software Engineering Institute}) \cite{HIGUERAHAIMES1996} e, atualmente, os mais conhecidos modelo CMMI (\textit{Capability Maturity Model Integration}) \cite{SEI2007} e o Guia PMBOK (\textit{Project Management Book of Knowledge}) \cite{PMBOK2008}.
+
+O Gerenciamento de riscos de projetos é um dos principais tópicos de interesse dos pesquisadores e trabalhadores da área de gerenciamento de projetos. Tanto que um \textit{survey} realizado por Williams em 1995 \cite{WILLIAMS95} inclui 241 referências.
+
+\subsection{Gerenciamento de Riscos de Projetos}
+
+O Gerenciamento de Risco envolve processos de planejamento, identificação, avaliação e priorização dos mesmos. De acordo com o PMBOK \cite{PMBOK2008}, riscos podem ser definidos como um evento incerto ou condição que, se ocorrer, tem um efeito em pelo menos um dos objetivos do projeto. Ele pode ser considerado tanto como ameaça (impacto negativo) ou oportunidade (impacto positivo). Numa definição melhor, gerenciamento de riscos pode ser definido como o processo de analisar a exposição ao risco e determinar como melhor lidar com essa exposição. Um objetivo dessa área não é somente a identificação, mas também desenvolver uma abordagem robusta para gerenciar proativamente o impacto no projeto \cite{OSUNDAHUNSI2012}.
+
+Para o PMBOK \cite{PMBOK2008}, os processos de gerenciamento de risco do projeto são direcionados para aumentar a probabilidade e o impacto de eventos que são esperados para afetar positivamente o projeto, bem como para diminuir o probabilidade e o impacto dos eventos que são esperados para negativamente afetar o projeto ou a realização de seus objetivos. 
+
+O Software Engineering Institute(SEI) desenvolveu uma metodologia de gerenciamento de risco chamada \textit{Software Risk Evaluation}(SRE) que é especificamente voltada para projetos na indústria de software. O paradigma SRE é composto por seis elementos: cinco módulos (identificar, analisar, planejar, acompanhar, controlar) e um elemento central (comunicação), que é a chave para a efetiva gestão de riscos \cite{HIGUERAHAIMES1996} \cite{williams1999software}.
+
+Boehm \cite{BOEHM1991}, Chapman \cite{chapman1996project}, Fairley \cite{fairley1994risk}, Bandyopadhyay et al. \cite{bandyopadhyay1999framework} apresentaram métodos e modelos diferentes de gerenciamento de riscos de projetos de software. No entanto, há elementos em comum em todas as abordagens anteriores: a identificação, a avaliação da probabilidade e impacto, e o planejamento a respostas para manusear esses riscos se eles ocorrerem \cite{holzmann2011developing}.
+
+\subsubsection{Análise Qualitativa de Riscos em Projetos}
+
+O processo de análise qualitativa avalia as características dos riscos de projetos identificados individualmente e prioriza-os baseado nas requisições estabelecidas para o projeto. Em outras palavras, a análise qualitativa avalia a probabilidade de cada evento ocorrer e o efeito individual de cada um deles nos objetivos do projeto. Como tal processo não aborda diretamente o risco global para os objetivos do projeto, que resultam do efeito combinado dos eventos individuais e suas interações entre si, então isso pode ser obtido através do uso de técnicas de análise quantitativa \cite{PRACTICESTANDARD2009}.
+
+\subsubsection{Análise Quantitativa de Riscos em Projetos}
+
+A análise quantitativa de riscos envolve o processo de mapear eventos de riscos relacionados a atividades e executar a simulação de Monte Carlo considerando a probabilidade de ocorrência.
+
+O objetivo da análise quantitativa de riscos é criar um "perfil do risco" do projeto. Para tanto, são necessárias as seguintes informações: a chance de o projeto ser finalizado dentro de um certo período de tempo ou orçamento; a taxa de sucesso de projetos; as estimativas pior, média e melhor de duração e outros parâmetros do projeto \cite{PMBOK2008}.
+
+As ferramentas utilizadas na análise quantitativa são:
+\begin{enumerate}
+  \item Análise de Sensibilidade: determina qual incerteza tem o maior potencial de impacto.
+  \item Simulação de Monte Carlo: método matemático utilizado para aproximar a função de distribuição de probabilidade de resultados potenciais (duração do projeto, custo, taxas de sucesso, e outros parâmetros baseado em entradas probabilísticas). Nesse procedimento amostras aleatórias são criadas com base na amostra apresentada, de modo que a função de distribuição de probabilidade alcance o nível de confiança desejado, comummente 95\% ou 99\%.
+  \item Análise de Árvore de Falha: tipo de análise que determina qual decisão é a melhor. Por exemplo, para o gerenciamento do custo do projeto, a árvore de decisão suporta o cálculo do Valor Monetário Agregado (\textit{Estimated Monetary Value}) que determina qual decisão é menos onerosa.
+\end{enumerate}
+ 
+Alguns trabalhos propõem novas ferramentas de análise quantitativa de riscos. Entre eles, Virine \cite{VIRINE2009} apresenta a metodologia da Cadeia de Eventos. Nesse trabalho, as atividades de um projeto não são um procedimento uniforme e contínuo, essas tarefas são afetadas por eventos externos, que transformam as atividades de um evento para outro. O momento em que os eventos externos ocorrem são probabilísticos e podem ser definidos utilizando uma distribuição estatística. Além disso, eventos podem causar outros eventos, criando, portanto, a Cadeia de Eventos. A análise dessas combinações é realizada atráves da simulação de Monte Carlo.
+
+
+
+
+\subsection{Técnicas Convencionais de Análise de Risco}
+
+\subsubsection{Simulação de Monte Carlo}
+
+A invenção desse método, especialmente o uso de computadores para fazer os cálculos, foi creditado a Stanislaw Ulam, um matemático trabalhando no Projeto Americano de Manhattan durante a Segunda Guerra Mundial. O seu trabalho com Jon von Neuman e Nicholas Metropolis transformou a amostragem estatística de uma curiosidade matemática para uma metodologia formal aplicável a uma grande variedade de problemas \cite{kwak2007exploring}. 
+
+Simulação de Monte Carlo é uma abordagem detalhada de simulação através de computação intensiva para determinar a probabilidade de resultados possíveis de um objetivo do projeto; por exemplo, a data de conclusão ou o custo total. As entradas para o procedimento são obtidas aleatoriamente a partir de intervalos específicos com funções de distribuição de probabilidade para as durações das atividades do cronograma ou itens da linha de custo. Esses valores de entrada diferentes são usados para construir um histograma de possíveis resultados do projeto e sua probabilidade relativa, como também, a probabilidade cumulativa para calcular as reservas de contingência desejadas de tempo ou custo. Resultados adicionais incluem a importância relativa de cada entrada na determinação do custo geral do projeto e cronograma. Um exemplo de resultados de estimativa de riscos de cronograma e custo são apresentados na Figura \ref{fig:montecarlo} \cite{PRACTICESTANDARD2009}.
+
+Esse método tem sido utilizado em projetos de construção para entender melhor certos riscos do projeto. Por exemplo, o ruído e seus efeitos negativos sobre a comunidade no entorno de uma obra é um risco em muitos projetos de construção urbana. Nesse caso, o modelo de simulação de Monte Carlo permite aos construtores prever e mitigar a ocorrência e o impacto do ruído da construção \cite{kwak2007exploring} \cite{PRACTICESTANDARD2009}.
+
+Na Figura \ref{fig:montecarlo}, observa-se a previsão de finalização para um cronograma de um projeto. No eixo horizontal, encontram-se as possíveis datas de finalização do cronograma, a frequência de ocorrência dessas datas na amostragem são representada pelas barras verticais, a frequência cumulativa é representada pela curva escura e pelos respectivos valores na borda direita do gráfico. A partir da frequência relativa, é possível prever a probabilidade do projeto finalizar até determinada data, por exemplo, esse projeto tem 90\% de chance de finalizar até 08 de Maio de 2009.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.6\textwidth]{image/montecarlo.png}
+	\caption{Exemplo de Resultado da Simulação Monte Carlo}
+	\label{fig:montecarlo}
+\end{figure}
+
+\subsubsection{Análise de Árvore de Falha ou Análise de Modos de Falha e Efeitos}
+
+Análise de Árvore de Falha, do inglês \textit{Fault Tree Analysis} (FTA), é um método importante para analisar e estimar a confiabilidade e disponibilidade de um sistema. No processo de concepção do sistema, depois de analisar vários fatores de fracasso (como \textit{hardware}, \textit{software}, ambiente, fatores individuais), podemos construir o diagrama lógico (isto é, a árvore de falha), sequencialmente, identificando todas as causas para prever a probabilidade de falha do sistema e tomar medidas corretivas para melhorar a confiabilidade e segurança \cite{yu2009application}.
+
+No processo de construção da árvore de falha, um efeito indesejado é tomado como alvo na análise lógica, chamado de "evento de topo"; e, em seguida, todas as possíveis causas diretas desse efeito indesejado são descobertas, rotulados de "eventos do meio"; sequencialmente, todas as possíveis causas diretas desses "eventos do meio", chamados de "eventos de fundo". O diagrama lógico em árvore, que normalmente é escrito usando símbolos de portas lógicas e eventos de topo, do meio e de fundo, é chamado de Árvore de Falha \cite{yu2009application}.
+
+De modo geral, a construção da Árvore de Falha é dividida em quatro passos: 
+\begin{enumerate}
+  \item Selecionar e obter o evento de topo. O evento de topo é o evento indesejado, ou o evento de falha da análise lógica da linha destacada. 
+  \item Analisar o evento de topo. Descobrir todas as causas diretas, necessárias e suficientes do evento de topo. Tome o evento de topo como o evento de saída e todos os motivos diretos como eventos de entrada, e interligue esses eventos usando portas lógicas apropriadas de acordo com as suas relações lógica atuais. 
+  \item Analisar todos os eventos de entrada diretamente ligado ao evento de topo. Tome-o como evento de saída do próximo nível se o evento pode ser decomposto adiante, como realizado no passo 2. 
+  \item Repetir os passos acima, decomponha-os passo a passo até que todos os eventos de entrada não possam ser desmontados ou não precisam ser quebrados, isso é uma árvore de falha completamente invertida, como mostrado na Figura \ref{fig:faulttree} \cite{yu2009application}:
+\end{enumerate}
+
+Na Figura \ref{fig:faulttree}, observa-se uma árvore de falha com um "evento de topo", três "eventos do meio" (A1,A2 e A3), "seis eventos" de fundo (B1 a B6), uma porta lógica "E" (T1) e três portas lógicas "OU" (T2, T3 e T4). Essa árvore de falha representa o seguinte conhecimento: O evento de topo ocorre, se os eventos A1, A2 e A3 ocorrerem. O evento A1 ocorre, se os eventos B1 ou B2 ocorrerem. O evento A2 ocorre, se os eventos B3 ou B4 ocorrerem. O evento A3 ocorre, se os eventos B5 ou B6 ocorrerem.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.3\textwidth]{image/faulttree.png}
+	\caption{Exemplo de Árvore de Falha}
+	\label{fig:faulttree}
+\end{figure}
+
+
+\subsection{Técnicas Estatísticas e de Computação Inteligente para Análise de Risco}
+
+\subsubsection{Rede Bayesiana}
+
+Rede Bayesiana pertence à família de modelos gráficos probabilísticos. Uma rede bayesiana $B$ é um grafo acíclico direto (GAD) que representa uma distribuição de probabilidade combinada sobre um conjunto de variáveis aleatórias $V$, no qual os nós representam variáveis e as arestas expressam as dependências entre variáveis \cite{jensen1996introduction}. Logo, a rede pode ser definida por um par $B=<G,\Theta>$ , em que $G$ é o GAD cujos nós $X_1,X_2,...,X_n$ representam variáveis aleatórias, e cujas arestas representam as dependências diretas entre variáveis. Baseado em premissas independentes, cada nó $X_i$ no grafo $G$ é dependente de seus pais em $G$. Logo, o grafo $G$ leva em consideração a Suposição Markoviana \cite{li2012integrated}. A Suposição Markoviana para uma rede bayesiana estabelece que qualquer nó nessa rede é condicionalmente independente de seus não descendentes, dado que existe um parentesco. $\Theta$ representa o conjunto de parâmetros da rede bayesiana, que contém parâmetros $\theta_{X_i|\pi} = P_B(X_i|\pi_i)$ para cada valor $x_i$ do nó $X_i$ condicionando a $\pi_i$, onde $\pi_i = parent(X_i)$ \cite{neal1993probabilistic}. 
+
+Essa técnica tem sido usada como uma ferramenta importante para explorar diferentes informações, incluindo informações determinísticas ou probabilísticas de relações complexas entre variáveis. Elas constituem um \textit{framework} de pesquisa conveniente que é fácil de usar pelos especialistas, principalmente na área de confiabilidade. Em particular, interesses de pesquisa significantes existem no uso de modelos de redes bayesianas para a análise de confiabilidade de sistemas e risco em engenharia de software, como também previsão de qualidade \cite{li2012integrated} \cite{fenton2007predicting}.
+
+Através do aprendizado da rede bayesiana, todas as probabilidades condicionais entre cada dois riscos adjacentes podem ser calculadas. Uma rede bayesiana, pode não somente capturar o relacionamento entre convicções incertas em proposições, mas também pode explicar o valor de verdade de uma ou mais proposições. Algoritmos de inferência da rede bayesiana podem ser usados para encontrar causalidades ou crenças atualizadas para cada uma das variáveis, e relações atualizadas entre variáveis \cite{jensen2007bayesian}. Uma rede bayesiana codifica a distribuição de probabilidade de um conjunto de variáveis aleatórias através da especificação de um conjunto de suposições de independência ou depedência condicional junto com um conjunto de relacionamentos entre essas variáveis e suas probabilidades combinadas relacionadas. Ao invés de resultados determinísticos tipicamente gerados pelo aprendizado, redes bayesianas podem produzir um conjunto de resultados probabilísticos em cada processo. Eles são mais adequados para a identificação de riscos em diferentes fases do processo de software em situações reais \cite{li2012integrated}.
+
+A Figura \ref{fig:bayesian} ilustra um exemplo de uma rede bayesiana simples para um projeto com três tipos de fatores de risco e dois subprocessos. Identificados pelo índice $R_{ij}$, onde $i$ representa os tipos de fatores de risco e $j$ representa o número de subprocessos. Ele inclui três nós pais e três nós filhos.
+
+%TROCAR o EXEMPLO
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.6\textwidth]{image/bayesian.png}
+	\caption{Exemplo simples de Rede Bayesiana}
+	\label{fig:bayesian}
+\end{figure}
+
+\subsubsection{Redes de Petri Estocásticas}
+
+A Rede de Petri é um formalismo matemático que permite representar sistemas dinâmicos em que há relações de causa e efeito complexas, concorrência e sincronização. Elas foram criadas em 1962 por Carl Adam Petri \cite{PETRI1962}. A rede de Petri é um grafo direcionado em que há dois tipos de nós: lugares, representados por círculos, e transições, representadas por barras ou retângulos. Os lugares podem conter tokens, que são representados por círculos pretos dentro do lugar. 
+
+Em \cite{JIANGCHEN2004}, uma técnica baseada em redes de petri foi utilizada para a análise qualitativa e quantitativa de riscos em desenvolvimento de software. O artigo apresenta um \textit{framework} de coordenação de métricas de software e modelo de processos de software para gerenciar os riscos de projetos. Além disso, \cite{CARDOSO2012} utilizou redes de Petri para identificar, controlar, e gerenciar riscos de desenvolvimento de programas.
+
+A Figura \ref{fig:redespetri} apresenta um exemplo simples de rede de Petri, em que é modelado o ciclo dia e noite. Quando um \textit{token} é colocado no lugar Dia, significa que o sistema está no estado Dia. Isto habilita a transição Anoitecer a ocorrer. Quando esta transição dispara, o \textit{token} é removido do lugar Dia e um \textit{token} é colocado no lugar Noite, indicando que o sistema está neste estado. Isto, por sua vez, desabilita a transição Anoitecer e habilita a transição Amanhecer. De forma análoga, o disparo da transição Amanhecer faz com que o \textit{token} seja removido do lugar Noite e um \textit{token} seja colocado no lugar Dia \cite{HirelTT00} \cite{MURILO2007}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.6\textwidth]{image/redepetri.png}
+	\caption{Exemplo de Rede de Petri}
+	\label{fig:redespetri}
+\end{figure}
+
+As Redes de Petri Estocásticas Generalizadas (\textit{Generalized Stochastic Petri Nets}) \cite{MBEA1995}, permitem a utilização de transições temporizadas estocásticas em conjunto com transições não-temporizadas (chamadas imediatas). Esta característica facilita a modelagem de transições lógicas, que não estão associadas a tempo. Transições temporizadas apenas são habilitadas quando não há mais nenhuma transição imediata habilitada. Marcações em que transições imediatas estão habilitadas são chamadas de não-tangíveis (\textit{vanishing}). Marcações em que transições temporizadas estão habilitadas são chamadas de tangíveis (\textit{tangible}).
+
+\subsubsection{Redes Neurais Artificiais}
+
+As Redes Neurais Artificiais (RNA) são modelos que procuram simular o comportamento e funcionamento do cérebro humano. Assim como existem os neurônios biológicos, componentes essenciais para o processamento das informações do cérebro, a RNA é formada por unidades que objetivam realizar as mesmas funções do neurônio biológico. Esses componentes são denominados neurônios artificiais e foram propostos em 1943 por Mc-Culloch e Pitts \cite{MCCULLOCKPITTS1943}.
+
+\subsubsection{\textit{MultiLayer Perceptron}}
+A rede \textit{MultiLayer Perceptron} (MLP) funciona como um \textit{perceptron} de muitas camadas, ou seja, ela possui pelo menos uma camada de neurônios intermediária ou escondida. A vantagem de ter camadas intermediárias é que a rede neural passa a resolver problemas que não são linearmente separáveis, possibilitando, assim, a aproximação de qualquer função contínua, com apenas uma camada, e qualquer função matemática, quando houver mais de uma camada \cite{HAYKIN2007}. A Figura \ref{fig:mlp} ilustra a forma gráfica da MLP, apresentando as entradas, saídas e as camadas de entrada, intermediária e de saída. 
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.6\textwidth]{image/mlp.png}
+	\caption{Representação gráfica da MLP com três camadas}
+	\label{fig:mlp}
+\end{figure}
+
+O funcionamento da MLP é dividido em duas fases: \textit{forward} e \textit{backward}. Na fase \textit{forward}, um neurônio de uma camada está ligado a todos os neurônios da camada seguinte. Os sinais da entrada são propagados de camada de entrada para a camada escondida e da camada escondida para a camada de saída; cada neurônio processa as entradas e apresenta uma saída. Nessa fase é possível calcular o erro entre a saída desejada para a rede e a saída apresentada pela MLP. Na fase \textit{backward} o erro é retropropagado e os pesos são ajustados, utilizando o algoritmo de ajustes de pesos, inicialmente aleatórios, chamado \textit{Backpropagation} \cite{valenca2005aplicando}.
+
+Em \cite{HUHUANG2007}, algumas técnicas inteligentes são utilizadas para a análise do risco projetos de software. O artigo conclui que uma técnica híbrida de redes neurais e algoritmos genéticos obteve uma precisão de 85\% para prever se o projeto obterá sucesso, será desafiado ou falhará totalmente.
+
+\subsubsection{Máquina de Vetor de Suporte}
+
+A Máquina de Vetor de Suporte, do inglês \textit{Support Vector Machine} (SVM), é uma técnica de aprendizado de máquina aplicável a problemas de reconhecimento de padrões nos quais se busca atingir alto potencial de generalização \cite{HAYKIN2007} \cite{valenca2005aplicando}. O objetivo da SVM é encontrar um hiperplano particular, denominado de hiperplano ótimo, que maximize a margem de separação, conforme pode ser visualizado na Figura \ref{fig:svm}.
+
+Na Figura \ref{fig:svm}, observamos dois vetores de suporte capazes de separar linearmente as saídas no hiperplano em duas classes. A variável $r$ é a distância algébrica desejada dos vetores de suporte para o hiperplano ótimo de separação das classes. Quanto maior essa distância, maior a capacidade de generalização da máquina de vetor de suporte.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.6\textwidth]{image/svm.png}
+	\caption{Vetores de Suporte e Hiperplano de Separação ótimo}
+	\label{fig:svm}
+\end{figure}
+
+\subsubsection{Lógica Fuzzy}
+
+A aplicação da Teoria de Conjuntos Fuzzy (TCF) para a análise de riscos parece apropriada, devido ao fato dessas análises serem altamente subjetivas e relacionadas a informações inexatas e vagas. Desde que TCF foi introduzida por Zadeh para lidar com problemas no qual imprecisão era presente, valores linguísticos têm sido amplamente usados para o raciocínio aproximado. Numerosos estudos de TCF na avaliação de risco tem surgido em diferentes áreas, e são sumarizados em \cite{ngai2005fuzzy}. TCF tem sido efetivo numa variedade de áreas porque ele pode lidar com informações inexatas, porém úteis.
+
+\subsubsection{\textit{Fuzzy Weight Average}}
+
+Uma operação comumente usada em análise de risco e decisão é a operação de média ponderada, que tem a seguinte forma
+ \cite{ngai2005fuzzy}:
+
+\begin{equation}
+	\bar{W} = \frac{\sum_{i=1}^{n}W_i \times R_i}{\sum_{i=1}^{n}W_i}
+	\label{eq:fwa}
+\end{equation}
+
+onde $\bar{W}$ é a média ponderada dos valores, $R_i$ é o valor de acordo com o critério $i$, e $W_i$ é o peso atribuído ao critério $i$. Quando os termos $R_i$ e $W_i$ são representados por conjuntos fuzzy ou números fuzzy, a operação acima é referenciada como uma Média Ponderada Fuzzy (MPF).
+
+Schmucker \cite{schmucker1984fuzzy} usou a MPF para propor um método númerico aproximado conhecido como o "Analisador de Riscos Fuzzy". Além disso, muitas aplicações seguem o procedimento de Schmucker, e isso é amplamente aplicado em análise de risco, particularmente com relação a projetos de construção \cite{ngai2005fuzzy}.
+
+%introduzir melhor logica fuzzy a partir do Livro de Engelbrecht
+
+\subsubsection{Conceitos de Confiabilidade}
+
+% reescrever essa seção, associando os conceitos de confiabilidade com o gráfico de risco apresentado por Boehm
+
+Se $X$ é uma variável aleatória que indica o tempo de vida ou tempo até a falha de um componente ou sistema e $X$ tem função de distribuição de probabilidade \cite{geist1990reliability}.
+
+\begin{equation}
+	F_X(t) = P(X \leq t)
+	\label{eq:sobrevivencia}
+\end{equation}
+
+em seguida, a confiabilidade do componente ou sistema $R_X(t)$ representa a probabilidade de que o sistema sobreviva até ao tempo $t$, isto é,
+
+\begin{equation}
+	R_X(t) = P(X < t) = 1 - F_X(t)
+	\label{eq:confiabilidade}
+\end{equation}
+
+Se $R_X(t)$ é diferenciável, então a taxa de perigo ou taxa de falha do componente ou sistema é dado por
+
+\begin{equation}
+	h(t) = -R_{X}^{'}(t) / R_X(t) = \frac{\partial F_X / \partial t}{1 - F_X(t)}
+	\label{eq:perigo}
+\end{equation}
+
+a qual podemos interpretar vagamente como a taxa de falha condicional no próximo instante dada a sobrevivência até t. Neste caso
+
+\begin{equation}
+	F_X(t) = 1 - e^{-\int_{0}^{t} h(x) dx}
+	\label{eq:fx}
+\end{equation}
+
+e, portanto, uma taxa de falha constante implica uma distribuição de tempo de vida exponencial.
+
+Demandas para maior precisão na estimativa de confiabilidade rapidamente forçou o desenvolvimento de modelos de sistema mais elaborados sem os pressupostos de independência. A segunda geração de ferramentas de estimativa, surgiu com base em métodos Markovianos, permitindo assim uma importante dependência de primeira ordem.
+
+Um modelo de Markov de estado discreto e tempo contínuo é um conjunto de estados, juntamente com as taxas de transição não negativas entre esses estados. Deixe $a_ij$, indicar a taxa de transição do estado $i$ para o estado $j$. O modelo de Markoviano representa então um sistema em evolução o tempo que muda de estado de acordo com as seguintes regras \cite{geist1990reliability}:
+
+\begin{enumerate}
+   \item O tempo de espera em cada estado $i$ é exponencialmente distribuído com média $1 / \sum_{j \ne i}a_ij$
+   \item Na saída do estado $i$, o estado $j$ é escolhido com probabilidade $a_ij / \sum_{j \ne i}a_ij$
+\end{enumerate}
+
+Esses modelos Markovianos são equivalentes a sistemas lineares de equações diferenciais ordinárias especiais. Se $P_i(t)$ determina a probabilidade do sistema estar no estado $i$ no tempo $t$, $P(t) = (P_1(t),...,P_n(t)$, e $A$ é uma matriz $n \times n$ cujas entradas fora da diagonal são taxas de transição $a_ij$ e entradas diagonais $a_ii = - \sum_{j \ne i}a_ij$, então o modelo markoviano é equivalente ao sistema linear homogêneo
+
+\begin{equation}
+	P^{'}(t) = P(t) A
+	\label{eq:sistemalinearhomogeneo}
+\end{equation}
+
+Entre as ferramentas que utilizam um framework markoviano para construção e análise de modelos tolerante a falhas ou erros há a rede de Petri \cite{geist1990reliability}. 
+
+Por fim, Bonini e Caivano \cite{bonini2013} utilizaram os conceitos de sobrevivência para desenvolver uma técnica de análise de risco de crédito. Essa abordagem mostrou-se bastante promissora no contexto de previsão da quitação de empréstimos.
+
+
+%A técnica de análise de sobrevivência é usada numa variedade de contextos compartilhando uma característica comum: os interesses focam em descrever se, ou quando os eventos ocorrerão \cite{stepanova2002survival}. Relacionando os conceitos apresentados em Bonini e Cavano \cite{keylist} sobre risco de crédito com risco de projetos, temos que a ocorrência de um evento representa que o projeto está mudando de um estado, cujos eventos de riscos não ocorreram, para um estado em que pelo menos um risco ocorreu e ameaça o sucesso do projeto. Na introdução de uma abordagem para sobrevivência para riscos as seguintes premissas devem ser consideradas.
+
+%\begin{itemize}
+%   \item Uma geração de projetos é formada por projetos em incumprimento à data da observação.
+%   \item O fracasso de um projeto ocorre quando um risco não pode ser mitigado.
+%   \item O fracasso de um projeto é um evento incerto: a empresa não sabe se ou quando isso vai ocorrer.
+%   \item O tempo de sobrevivência do projeto é a diferença entre dois tempos: o tempo quando um evento de risco no projeto ocorre e o momento em que esse risco não pode ser mitigado.
+%\end{itemize}
+
+\section{Metodologia}
+
+
+Esse projeto de pesquisa é realizado baseado nas seguintes atividades:
+
+\begin{enumerate}
+\item Pesquisa Bibliográfica das Áreas de Conhecimento:
+	\begin{itemize}
+	\item Gerenciamento de Projetos
+	\item Gerenciamento de Risco de Projetos
+	\item Análise de Risco de Projetos de Software
+	\item Probabilidade e Estatística
+	\item Confiabilidade de Sistemas
+	\item Métodos Estatísticos para Análise de Risco
+	\item Métodos Formais para Análise de Risco
+	\item Redes Neurais Artificiais
+	\item Inteligência de Enxames
+	\end{itemize}
+\item Levantamento de Bases de Dados com informações de Riscos de Gerenciamento de Projetos de Software
+\item Levantamento de Ferramentas necessárias para o Tratamento dos Dados contidos nas Bases
+\item Definição de Métricas Quantitativas e os Parâmetros para Análise de Risco de Projetos de Software
+\item Avaliação dos Resultados das Métricas
+\item Definição do Grau de Exposição ao Risco de um Projeto
+\item Suporte a Tomada de Decisões Estratégicas de Mitigação de Riscos
+\end{enumerate}
+
+
+\subsection{Base de Dados}
+
+\subsubsection{Base de Dados PERIL}
+
+Um melhor gerenciamento de riscos começa com a identificação de problemas potenciais. A adoção das ferramentas disponíveis como: revisão das lições aprendidas, \textit{brainstorming}, entrevistas, opinião especializada; são alternativas relativamente eficientes, porém muitas vezes apresentam alto custo. Uma proposta acessível, de baixo custo e extensível é utilizar a base de dados do PERIL \cite{KEND2003BOOK}.
+
+Durante alguns anos, em \textit{Workshops} de Gerenciamento de Riscos, foram realizadas entrevistas com centenas de líderes de projetos para conhecer problemas de projetos típicos já enfrentados, definindo o que havia ocorrido e o impacto disso no projeto. Esses dados foram agrupados no banco de dados \textit{Project Experience Risk Information Library} (PERIL) \cite{KENDRICK2003}.
+
+Em projetos, os riscos encontrados podem ser classificados como "conhecidos", aqueles antecipados no planejamento, ou "desconhecidos", encontrados durante a execução do projeto. O objetivo da análise dessa base de dados é prover um \textit{framework} para identificação de riscos de modo a aumentar o número de riscos conhecidos, e diminuir o número de riscos desconhecidos.
+
+Alguns características dessa base de dados:
+\begin{enumerate}
+  \item Os dados são descorrelacionados: eles representam uma pequena fração de dezenas de milhares de projetos realizados pelo gerente de projeto, por quem eles foram coletados;
+  \item PERIL apresenta viés (\textit{bias}): a informação não foi coletada aleatoriamente.
+  \item PERIL representa somente os riscos mais significantes.
+\end{enumerate}
+
+A maioria dos projetos teve duração entre 6 meses e 1 ano, e a equipe continha entre 10 e 25 pessoas. No total, 649 riscos foram identificados e categorizados nos seguintes tipos: escopo, cronograma e recurso. A categoria escopo é composta das seguintes subcategorias: mudança e defeito. A categoria cronograma é composta das subcategorias: dependência, estimativa e atraso. Já, recursos é composta das seguintes subcategorias: dinheiro, terceirização e pessoas.
+
+Uma desvantagem dessa base de dados, é que ela somente contabiliza riscos que tiveram impacto negativo no projeto. As oportunidades não foram identificadas e maximizadas com esse estudo.
+
+No entanto, um dos grandes benefícios é que o autor apresenta alguns riscos como \textit{black swans} \cite{KEND2003BOOK}: representando a idéia de riscos com amplo impacto, difíceis de prever e raros de ocorrer. Se o risco tiver impacto negativo, é conhecido como catástrofe, ao passo que, se tiver impacto positivo, é conhecido como recompensa.
+
+\subsubsection{Bases de Dados de Riscos de Software}
+
+Outras bases de dados utilizadas para previsão de custo de software e de defeito de software também serão consideradas nesse estudo. Nos manuais dessas bases de dados existe a definição indireta da métrica de risco a ser extraída. Essas bases de dados públicas estão disponíveis em \textit{http://promise.site.uottawa.ca/SERepository/datasets-page.html}.
+
+Durante o estudo as bases de dados que se adaptarem aos objetivos do estudo serão selecionadas.
+
+\subsection{Ferramentas}
+
+\subsubsection{TimeNET}
+
+TimeNET (\textit{Timed Net Evaluation Tool}) é um pacote de software para a modelagem e avaliação de redes de Petri estocásticas com tempos de disparo não exponencialmente distribuídos. TimeNET foi desenvolvido na Technische Universität Berlin em vários projectos de investigação. A interface gráfica é fornecida para a especificação do modelo e várias análises especializadas além de simulação para a avaliação do modelo automatizado. A implementação dos componentes de análise e simulação é baseada em resultados de pesquisas recentes \cite{german1995timenet}.
+
+\subsubsection{SPNP}
+
+SPNP é um pacote de GSPN poderoso desenvolvido na Universidade de Duke. SPNP permite a modelagem de comportamentos de sistemas complexos. Construções avançadas estão disponíveis, tais como a marcação de multiplicidades de arco dependentes, permitindo as funções, vetores de lugares ou transições e sub-redes; além disso, o poder expressivo completo da linguagem de programação C está disponível para aumentar a flexibilidade da descrição da rede.
+
+Solucionadores de estado estacionário e transiente sofisticados estão disponíveis. Finalmente, o utilizador não está limitada a um conjunto pré-definido de medidas: expressões detalhadas refletindo exatamente as medidas requeridas podem ser facilmente especificadas \cite{ciardo1989spnp}.
+
+%Corrigir tradução do Weka
+\subsubsection{Weka}
+
+O projeto WEKA tem como objetivo fornecer um conjunto abrangente de algoritmos de aprendizado de máquina e ferramentas para pré-processamento de dados para pesquisadores e profissionais afins. Ele permite ao usuário tentar comparar rapidamente diferentes métodos de aprendizado de máquina a partir de um conjunto de dados. Sua arquitetura modular e extensível permite que processos sofisticados de mineração de dados possam ser construído a partir da vasta coleção de algoritmos de aprendizagem de base e ferramentas fornecidas. Estender esse kit de ferramentas é fácil graças a existência de: uma API, plugins e a instalação que automatiza a integração de novos algoritmos de aprendizado com o WEKA.
+
+Ele inclui algoritmos de regressão, classificação, agrupamento, mineração de regras de associação e seleção de atributos. A exploração preliminar dos dados é realizada através de visualização de dados e muitas ferramentas de pré-processamento \cite{hall2009weka}.
+
+\subsection{Estudos de Caso}
+
+Alguns estudos de casos precisam ser definidos para avaliar qual das alternativas utilizadas apresentam melhores desempenhos.
+
+O primeiro estudo de caso é comparar o desempenho da adoção de Redes de Petri, Árvores de Falha, Redes Bayesianas e Lógica Fuzzy. Nesse estudo de caso, o objetivo é verificar qual a melhor alternativa para realizar a análise qualitativa dos riscos do projeto.
+
+O segundo estudo de caso é comparar o desempenho da adoção de Redes Neurais MLP, Máquinas de Vetor de Suporte, Simulação de Monte Carlo e um método estatístico convencional de Regressão Linear. Nesse caso, o objetivo é verificar qual alternativa oferece menor erro na estimativa do impacto dos riscos.
+
+\subsubsection{Atividades Realizadas}
+
+Durante um ano de pesquisa algumas atividades foram realizadas, as principais atividades são listadas e descritas abaixo:
+
+\begin{enumerate}
+\item Estudo do Guia de Boas Práticas do PMBOK 2008 \cite{PMBOK2008}: Foi realizada a inscrição num Curso Preparatório para obtenção do Certificado CAPM. As aulas eram semanais, contabilizando 4h/semana. Dois meses depois, após submissão ao exame, o Certificado de Gerenciamento de Projetos CAPM foi obtido.
+\item Estudo do conceito de Risco e Perigo: Lendo sobre os conceitos de Risco, observou-se importância no estudo dos perigos e catástrofes. A teoria de Confiabilidade de Sistemas aborda os conceitos de tempo de sobrevivência, confiabilidade, disponibilidade, função perigo. Apresentando esses conceitos ao orientador foi observada uma relação desses conceitos com a definição proposta por Boehm \cite{BOEHM1991}. A representação gráfica da função de sobrevivência é similar ao do risco. Essa relação inspira esse estudo e a publicação dessa relação, visto que não encontramos nenhum autor que tivesse observado esse fato.
+\item Estudo dos conceitos de Probabilidade e Estatística: Observou-se que as técnicas convencionais para Análise Quantitativa de Riscos \cite{PRACTICESTANDARD2009} utilizam técnicas estatísticas como diagrama PERT e CPM, Simulação de Monte Carlo, Árvore de Falha. Portanto, os conceitos de Probabilidade e Estatística básica foram adquiridos e aprofundou-se em Modelos de Box \& Jenkins e Modelos de Markov, que é a base para Redes de Petri Estocásticas.
+\item Levantamento de Base de Dados: Foi localizado no motor de busca do site do PMI.org (\textit{http://www.pmi.org}) a base de dados PERIL publicada em alguns artigos. Em seguida, contactou-se o autor dos artigos por email e a base de dados foi solicitada.
+\item Estudo de Redes Neurais Artificias: Analisando o PERIL, observou-se que fosse interessante extrair uma previsão dos dados contidos nessa base de dados. Para realizar essa atividade, estudou-se Redes Neurais Artificias e foi implementada uma rede neural MLP e um programa que realizava a previsão de alguns dados de testes. A partir desse estudo, algumas métricas e parâmetros de análise de riscos foram definidos. Por fim, foi realizado um experimento empírico para a determinação dos melhores parâmetros da MLP, no contexto da base de dados PERIL. Mais detalhes sobre os resultados, será descrito na seção de Resultados Preliminares.
+\item Estudo de técnicas de Computação Inteligente: Após a implementação do programa para previsão do impacto de riscos a partir da MLP, surge uma necessidade conhecida da implementação de um algoritmo de otimização dos parâmetros da rede neural artificial. Nesse caso, observou-se que uma implementação do híbrida do PSO+MLP é suficiente para que o algoritmo de previsão se adapte aos dados que estão sendo tratados.
+\item Revisão Bibliográfica: Diante dos resultados obtidos e do conhecimento obtido em Análise de Risco, foi necessário realizar uma revisão bibliográfica para identificar o estado da arte e validar o trabalho já realizado.
+\end{enumerate}
+
+\subsubsection{Resultados Preliminares}
+
+O método utilizado para realizar a estimativa do impacto de riscos num projeto de software a partir da base de dados do PERIL é o seguinte:
+\begin{enumerate}
+\item Obtenção da base de dados do PERIL 
+\item Pré-processamento dos dados: Binarização dos campos textuais e normalização gamma dos impactos, para todas as colunas da base de dados. O intervalo de normalização é entre 0.15 e 0.85, conforme sugere Valença \cite{valenca2005aplicando}. Além disso, os dados foram embaralhados aleatoriamente.
+\item Rede Neural MLP: Os parâmetros da rede neural após otimização empírica foram:
+	\begin{itemize}
+	\item $\alpha = 0.5; \beta = 0.1$
+	\item Quantidade de neurônios nas camadas: Entrada = 12; Escondida = 10; Saída = 1 (Impacto)
+	\item Aprendizado: Algoritmo \textit{Back Propagation}
+	\item Condição de Parada: Erro Médio Absoluto (EMA) de Testes e Validação Cruzada convergirem.
+	\end{itemize}
+\item Cálculo do EMA e Erro Percentual Médio Absoluto (EPMA) para os dados de Teste.
+\item Validação Estatística dos Erros: 30 experimentos.
+\end{enumerate}
+
+Para a definição dos parâmetros ótimos, foi realizado um estudo estatístico empírico com os seguintes passos:
+\begin{enumerate}
+\item Determinação das variáveis: número de neurônio da camada escondida, $\alpha$ e $\beta$
+\item Execução de 30 experimentos
+\item Análise Gráfica e/ou Teste Estatístico Wilcoxon para seleção dos melhores valores
+\end{enumerate}
+
+O intervalo de valores aceitável para as variáveis número de neurônios da camada escondida ($n$), $\alpha$ e $\beta$ são apresentados na Tabela \ref{tab:intervalovariaveis}.
+
+\begin{center}
+ \begin{tabular}{|l|c|c|c|}
+  \hline
+  \multicolumn{4}{|c|}{\textbf{Intervalo de Valores}} \\
+  \hline
+  \multicolumn{1}{|c|}{} &$n$ &$\alpha$ &$\beta$ \\
+  \hline
+   Mínimo & 10  & 0.5  & 0.1 \\
+   Máximo & 100 & 0.9 & 0.5 \\
+  \hline
+%  \label{tab:intervalovariaveis}
+ \end{tabular}
+\end{center}
+
+Os resultados indicam que a configuração que obtinha os menores EMA para o PERIL são: $n=10$, $\alpha=0.5$ e $\beta=0.1$. A Figura \ref{fig:erros} mostram os resultados para as dez primeiras configurações avaliadas fixando a quantidade de neurônios, em que $n=10$. Observa-se que os trinta experimentos para as dez primeiras configurações são apresentados por \textit{boxplots}. Nesse caso, o \textit{boxplot} mais a esquerda é o que apresenta os menores erros de previsão. Para essa configuração foi obtido um Erro Percentual Médio Absoluto de 15\%.
+
+\begin{center}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1.1\textwidth]{image/boxplots_1a10.png}
+	\caption{\textit{Boxplots} das configurações do MLP}
+	\label{fig:erros}
+\end{figure}
+\end{center}
