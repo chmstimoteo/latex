@@ -1,0 +1,230 @@
+DRBL live 1.0.2-37
+
+ * The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2010/Sep/28).
+ * Bug fixed: alias IP address does not work for dhcpd 4.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Fri, 01 Oct 2010 11:20:00 +0800
+
+DRBL live 1.0.2-34
+
+ * The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2010/Sep/28).
+ * Bug fixed: A bug about re-running "drblpush -i" when start Clonezilla SE.
+ * GParted was updated to 0.6.3.
+ * A new boot parameter "ocs_client_no_per_NIC" was added. It can be used to assign the DRBL clients' number.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Tue, 28 Sep 2010 10:23:00 +0800
+
+DRBL live 1.0.2-32
+
+ * The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2010/Sep/24). Kernel 2.6.32-23 is used. 
+ * DRBL was upgraded to 1.9.7-17, Clonezilla was upgraded to 2.3.7-25, partclone was updated to 0.2.15, and GParted was updated to 0.6.2.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Fri, 24 Sep 2010 05:49:00 +0800
+
+DRBL live 1.0.2-26
+
+ * The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2010/Jun/21). Kernel 2.6.32-15 is used. 
+ * DRBL was upgraded to 1.9.6-28, Clonezilla was upgraded to 2.3.6-34, partclone was updated to 0.2.11, and GParted was updated to 0.6.0.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Tue, 21 Jun 2010 18:45:00 +0800
+
+DRBL live 1.0.2-1
+
+ * The underlying GNU/Linux operating system was upgraded. This release is based on the Debian Sid repository (as of 2010/Jan/26). Kernel 2.6.32-5 is used. 
+ * DRBL was upgraded to 1.9.5-46, Clonezilla was upgraded to 2.3.4-58, and GParted was updated to 0.5.1.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Tue, 26 Jan 2010 17:45:00 +0800
+
+DRBL live 1.0.1-3
+
+ * Based on Debian lenny repository 2010/Jan/19. Kernel 2.6.30-backports.1-486_2.6.30-3 is used.
+ * DRBL was upgraded to 1.9.5-42, Clonezilla was upgraded to 2.3.4-57.
+ * Bug fixed: GParted was missing in DRBL live 1.0.1-2.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Tue, 19 Jan 2010 07:23:00 +0800
+
+DRBL live 1.0.1-2
+
+ * Based on Debian lenny repository 2009/Dec/31. Newer kernel 2.6.30-backports.1-486_2.6.30-3 is used.
+ * DRBL was upgraded to 1.9.5-40, Clonezilla was upgraded to 2.3.4-54. Some bugs were fixed, including swap partition was not created in multicast mode.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Thu, 31 Dec 2009 17:05:00 +0800
+
+DRBL live 1.0.0-9
+
+ * Newer kernel 2.6.30-backports.1-486_2.6.30-3 is used.
+ * The program makeboot.sh will be checked if run as root.
+ * genisoimage instead of mkisofs is used in both create-gparted-live and create-drbl-live. Thanks Orgad Shaneh for this bug report.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Mon, 20 Jul 2009 10:34:00 +0800
+
+DRBL live 1.0.0-8
+
+ * Newer kernel 2.6.30-backports-1 is used.
+ * Because there is an issue when restoring FAT file system by partclone, a workaround to avoid using partclone to save FAT filesystem was added.
+ * Patches from https://sourceforge.net/tracker/?func=detail&atid=671653&aid=2818368&group_id=115473 were applied. Thanks to Orgad Shaneh.
+ * makeboot.sh was improved to allow USB device /dev/ub[a-z]. Thanks to the patch from tv.debian _at googlemail com.
+ * Feature added: 1st-disk keyword will work for multicast clone. Ref: https://sourceforge.net/tracker/?func=detail&atid=671650&aid=2817447&group_id=115473
+ * Language file zh_CN was updated. Thanks to Zhiqiang Zhang.
+ * Language file ja_JP.UTF-8 was updated. Thanks to Akira YOSHIYAMA.
+ * The variable name sanboot_img_dir was changed to be sanboot_img_dump_dir in drbl.conf. aoe_shelf_max and aoe_slot_max were changed to be 15 instead of 20. drbl-aoe-img-dump was changed correspondingly.
+ * drbl-aoe-serv now supports an option "-d" to allow more images in one more directories.
+ * Package smartmontools was added in DRBL/Clonezilla live.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Thu, 16 Jul 2009 11:39:00 +0800
+
+DRBL live 1.0.0-7
+
+ * Based on drbl 1.9.4-45 and Clonezilla 2.3.3-65.
+ * Language files es_ES, fr_FR, and it_IT were updated.  Thanks to Alex Ibáñez López , Jean-Francois Nifenecker and Gianfranco Gentili.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Fri, 03 Jul 2009 17:29:00 +0800
+
+DRBL live 1.0.0-6
+
+ * Based on drbl 1.9.4-44 and Clonezilla 2.3.3-65.
+ * Language file is used when configuring X-windows settings.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Wed, 01 Jul 2009 11:43:00 +0800
+
+DRBL live 1.0.0-5
+
+ * Dir utils containing syslinux programs, makeboot.sh, and makeboot.bat were added DRBL live iso file.
+ * A boot parameter "drbl_live_noconfx" was added so that we can skip configureing X.
+ * The boinc-client serivce is turned off when creating drbl live.
+ * The custom-ocs function was added in DRBL live, just ad Clonezilla live does. Thanks to Orgad Shaneh.
+ * X config will only be run when X program exists in DRBL live. Thanks to Orgad Shaneh.
+ * The files in drbl-live.d are almost the same with those existing files in ocs-live.d, i.e. we reuse the boot parameters of Clonezilla live. Thanks to Orgad Shaneh for this suggestion.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Sun, 28 Jun 2009 09:50:00 +0800
+
+DRBL live 1.0.0-4
+
+ * Package xnetcardconfig was added in drbl live packages list.
+ * VOL_LIMIT_DEFAULT is set as 2000 in drbl live. Thanks to Ming-Kult Tsai for this idea.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Mon, 22 Jun 2009 09:35:00 +0800
+
+DRBL live 1.0.0-3
+
+ * Bug fixed: failed to save image by Clonezilla.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Thu, 18 Jun 2009 22:06:00 +0800
+
+DRBL live 1.0.0-2
+
+  * Packages acpi, laptop-detect, acpi-support and hotkey-setup were added. Thanks to Louie Chen for this idea.
+  * drbl 1.9.4-38 and clonezilla 2.3.3-50 are used now.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Wed, 17 Jun 2009 18:39:00 +0800
+
+DRBL live 1.0.0-1
+
+  * More packages were added, e.g. vim, ttf-kochi-gothic, iceweasel-l10n-(es-es|fr|it|ja|zh-cn|zh-tw), arj, curlftpfs, myrescue, pmount, wpagui..."
+  * drbl 1.9.4-37 and clonezilla 2.3.3-47 are used now.
+  * Based on Debian lenny, but kernel 2.6.29-5 from backports.undebian.org is used.
+  * Some bugs were fixed. E.g. The password of user was not working.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Tue, 16 Jun 2009 13:15:00 +0800
+  
+DRBL live 0.9.19-2
+
+  * Language and keymap selection are done in rcS.d.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Mon, 15 Jun 2009 21:10:00 +0800
+  
+DRBL live 0.9.18-3
+  
+  * drbl 1.9.4-27 and clonezilla 2.3.3-24 are used now.
+  * Based on Debian lenny, but kernel 2.6.29-4 from backports.undebian.org is used.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Mon, 19 May 2009 09:10:00 +0800
+
+DRBL live 0.9.18-1
+  
+  * drbl 1.9.4-11 and clonezilla 2.3.3-14 are used now.
+  * Based on Debian lenny, but kernel 2.6.29-3 from backports.undebian.org is used.
+
+ -- Steven Shiau <steven _at_ nchc org tw>  Mon, 27 Apr 2009 10:42:00 +0800
+
+- 0.9.17-2
+  - drbl version 1.9.3-37 and Clonezilla version 2.3.2-69 are used.
+
+- 0.9.17-1
+  - Some more locales files are kept now so it's easier to assign a locale environment. E.g. you can assign locale=es_ES as boot parameter for Spanish environment.
+  - The parameter "nolock" is now appended in /etc/fstab for drbl clients, since unfs3 won't work without that.
+
+- 0.9.16-3
+  - Based on stable Debian Lenny (repository on Feb/26/2009).
+  - drbl version 1.9.3-30 and Clonezilla version 2.3.2-57 are used.
+
+- 0.9.16-2
+  - Based on Debian Lenny repository on Feb/14/2009.
+  - drbl version 1.9.3-28 and Clonezilla version 2.3.2-55 are used.
+  - GParted 0.4.3 is used.
+
+- 0.9.16-1
+  - Based on Debian Lenny repository on Jan/30/2009. Newer kernel 2.6.26-13 is used.
+  - drbl version 1.9.3-24 and Clonezilla version 2.3.2-49 are used.
+
+- 0.9.15-6
+  - Based on Debian Lenny repository on Nov/19/2008. Kernel is 2.6.26-11.
+  - clonezilla 2.3.2-26, drbl 1.9.3-3 and udpcast 20081213-1drbl are used.
+  - GParted 0.4.1 is used.
+
+- 0.9.15-2
+  - Based on Debian Lenny repository on Oct/19/2008. Kernel is 2.6.26-8.
+  - clonezilla 2.3.1-80 and drbl 1.9.1-45 are used.
+  - GParted 0.3.9 is used.
+  
+- 0.9.14-5
+  - "boinc_cmd --set_network_mode always" was added in drbl-live-boinc, suggested by Jazz Wang.
+
+- 0.9.14-3
+  - Force to clean MAC address record in the filesystem.squashfs.
+
+- 0.9.14-1
+  - Based on Debian Lenny with kernel 2.6.26-1.
+  - clonezilla 2.3.1-38 and drbl 1.9.1-10 are used.
+
+- 0.9.13-1
+  - Based on Debian Lenny with kernel 2.6.25.
+  - clonezilla 2.3.1-16 and drbl 1.9.0-45 are used.
+  - GParted 0.3.8 is used.
+  
+- 0.9.12-12
+  - Newer kernel 2.6.24-etchnhalf.1-486 (2.6.24-6).
+
+- 0.9.12-11
+  - Bug fixed: keymap and X config should not be run in drbl clients.
+
+- 0.9.12-8
+  - keymap and X config were added in rcS.d in drbl live so that we can choose keymap and config X.
+
+- 0.9.12-4
+  - Based on testing Debian (Lenny) since (1) it's stable enough for Clonezilla.  (2) Newer kernel (2.6.24) (3) squashfs, aufs are ready in lenny.
+  - Bug fixed: /tftpboot/node_root/bin/hostname was not real program, it was configured by lh_config_hostname.
+
+- 0.9.12-3
+  - Bug fixed: drbl was not able to start.
+
+- 0.9.12-2
+  - etch-proposed-updates was removed in /etc/apt/sources.list.
+  - Based on DRBL 1.8.2-63, Clonezilla 2.2.4-54.
+
+- 0.9.12-1
+  - New kernel from EtchAndAHalf is used: 2.6.24-etchnhalf.1-486
+  - Based on DRBL 1.8.2-62, Clonezilla 2.2.4-53.
+
+- 0.9.11-6
+  - Newer GParted 0.3.6 from gparted.sf.net.
+  - Based on DRBL 1.8.2-61, Clonezilla 2.2.4-45.
+
+- 0.9.11-5
+  - Only one VGA mode in boot menu.
+
+- 0.9.11-4
+  - Created by live helper, was by live package.
+  - Newer kernel 2.6.22-4 from backports is used.
+  - Newer GParted 0.3.5 backported from Debian Lenny.
+  - Based on DRBL 1.8.2-50, Clonezilla 2.2.4-25.
